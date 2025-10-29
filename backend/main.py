@@ -1,7 +1,6 @@
 from fastapi import FastAPI
+from .routers import text_extraction_router
 
 app=FastAPI()
 
-@app.get("/")
-def print_hello():
-    return {"message":"Hello World"}
+app.include_router(text_extraction_router.router)

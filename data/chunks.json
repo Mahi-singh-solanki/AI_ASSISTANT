@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "source": "ADSA_5_Dec 19.pdf",
+        "text": "  of 1 (3 Hours) [Total Marks: 80] N.B.: (1) Question No.1 is compulsory. (2) Attempt any three out of remaining questions. (3) Assume Suitable data if necessary. (4) Figures to the right indicate full marks. Q1 a. Differentiate between Greedy method and Dynamic Programming. 5 b. Write an algorithm for finding minimum and maximum number from a given set 5 c. Explain coin changing problem 5 d. Explain Flow Shop Scheduling Technique 5 Q2a. Define AVL tree. Construct an AVL tree for the following d"
+    },
+    {
+        "id": 2,
+        "source": "ADSA_5_Dec 19.pdf",
+        "text": "ata. 10 63, 9, 19, 27, 18, 108, 99, 81 b. Write an algorithm for implementing Quick sort. Also, comment on its complexity. 10 Q3a. What is longest common subsequence problem? Find LCS for the following string: 10 String X: ABCDGH String Y: AEDFHR b. Explain Rabin Karp Algorithm in detail. 10 Q4a. Which are the different methods of solving recurrences? Explain with suitable examples. 10 b. Explain Travelling Salesman Problem with an example. 10 Q5a. Explain Huffman Algorithm. Construct a Huffman "
+    },
+    {
+        "id": 3,
+        "source": "ADSA_5_Dec 19.pdf",
+        "text": "Tree and find Huffman code for the message: KARNATAKA. 10 b. Explain Knapsack Problem with an example. 10 Q6 Write Short notes on (any four) 20 a. Genetic Algorithm b. Red and Black Tree c. Merge Sort d. Knuth Morris Pratt Algorithm e. Optimal Binary Search Tree (OBST) -------------------------- Paper / Subject Code: 32405 / Elective - I Advance Data Structures & Analysis of Algorithms 6411BAACBDB111F71B9C4DB43E9DDB55munotes.in"
+    },
+    {
+        "id": 4,
+        "source": "EDL  report format.docx",
+        "text": "Chapter 1 <Times New Roman with font size 16 and bold>Introduction <Times New Roman with font size 14 and bold>The title of Chapter 1 shall be Introduction. It shall justify andhighlight the problem posed, define the topic and explain the aimand scope of the work presented in the report. It may also highlightthe significant contributions from the investigation.<main Content of report must be in Times New Roman with fontsize 12 & with justified alignemnet, space between the line must be1.5 throug"
+    },
+    {
+        "id": 5,
+        "source": "EDL  report format.docx",
+        "text": "hout report>Format to Represent Diagrams in report :Each diagram must be horizontally aligned at center and thecontent of each diagram must be in readable form. Diagram namemust be below the diagram in times new roman with font size 11and bold.Main Instruction :All the content of report must be with justified alignment and withspacing of 1.5 throughout the report.Also maintain the proper indentation while preparing reportContinue with next chapter according to topics mentioned in indexwith new p"
+    },
+    {
+        "id": 6,
+        "source": "EDL  report format.docx",
+        "text": "ageALL THE PAGES AFTER INDEX MUST BE WITHOUT BORDERChapter 1IntroductionFood choices in urban areas are often limited to either expensivefine dining or unhygienic fast food options. With increasingawareness of health and sustainability, people are searching forconvenient yet nutritious meals. EcoBite aims to fill this gap by"
+    },
+    {
+        "id": 7,
+        "source": "EDL  report format.docx",
+        "text": "offering meals that are affordable, healthy, and environment-friendly.Objectives of the Report:\u2022 To define the problem and opportunity in the food sector.\u2022 To propose EcoBite as a sustainable solution.\u2022 To outline the business model, marketing strategy, and financialplan.Chapter 2:Problem StatementUrban food lovers often struggle to find affordable, hygienic, andquick meals. Most food trucks and stalls compromise on hygiene,while restaurants are expensive and time-consuming. Additionally,very fe"
+    },
+    {
+        "id": 8,
+        "source": "EDL  report format.docx",
+        "text": "w players focus on eco-friendly practices. There is an urgentneed for a convenient food option that balances health, hygiene,affordability, and sustainability.Chapter 3Proposed Solution / Startup IdeaEcoBite \u2013 Healthy Food Truck will: - Serve nutritious meals ataffordable prices. - Focus on hygiene and quality using organic/local produce. - Provide eco-friendly packaging to reduce waste. -Use a rotating menu to keep customers engaged.Unique Value Proposition (USP): EcoBite combines healthy eatin"
+    },
+    {
+        "id": 9,
+        "source": "EDL  report format.docx",
+        "text": "g"
+    },
+    {
+        "id": 10,
+        "source": "EDL  report format.docx",
+        "text": "with eco-conscious practices in a fast-food model.Chapter 4Market Research & Target AudienceResearch Method:- Conducted 50 surveys among college students and ITprofessionals.- 10 informal interviews with office workers near business parks.Findings:- 72% prefer quick meals during work breaks.- 65% are willing to pay slightly more for healthy food options.- 58% are interested in eco-friendly packaging.Target Market: Primary: College students, working professionals(18\u201335). Secondary: Fitness enthus"
+    },
+    {
+        "id": 11,
+        "source": "EDL  report format.docx",
+        "text": "iasts and event organizers.Chapter 5Business ModelRevenue Model: Direct sales, subscriptions, and catering services.Cost Structure: Truck purchase, kitchen setup, raw materials,marketing.Scalability Potential: Start with one truck \u2192 expand to multiple"
+    },
+    {
+        "id": 12,
+        "source": "EDL  report format.docx",
+        "text": "trucks \u2192 franchise model.Add Business model Canvas(BMC)Chapter 6Marketing & Promotion StrategyBranding: Strong eco-friendly identity with green theme.Promotion: - Social media campaigns (Instagram, Facebook,YouTube). - Partnerships with gyms, colleges, and offices. - Freesamples & launch offers. Customer Acquisition: Loyalty points,student discounts, combo offers.Add campaign posterChapter 7Financial PlanEstimated Startup Budget: \u20b98\u201310 lakhs - Food truck: \u20b95 lakhs -Kitchen setup: \u20b92 lakhs - Mark"
+    },
+    {
+        "id": 13,
+        "source": "EDL  report format.docx",
+        "text": "eting & licenses: \u20b91 lakh - Workingcapital: \u20b91\u20132 lakhs Revenue Projection (Year 1): \u20b915\u201318 lakhsBreak-even Point: Expected within 12\u201315 months.Chapter 8Learning and Challenges"
+    },
+    {
+        "id": 14,
+        "source": "EDL  report format.docx",
+        "text": "Challenges Faced: ___________________ Solutions Implemented:___________________ Key Learnings About Entrepreneurship, Teamwork,Customer Handling: ___________________Chapter 9ConclusionSummary of Business Activity: ___________________ Total Profit/Loss:___________________ Reflection on Experience: ___________________ Suggestionsfor Future Improvements: ___________________AppendicesPhotographs of Product/Activity"
+    },
+    {
+        "id": 15,
+        "source": "SQL Experiment List PR Exam 25-26.pdf",
+        "text": "1. ER Diagram for hotel management system. 2. Create a table named Students with the following fields: \u2022 StudentID (Integer, Primary Key) \u2022 Name (Varchar) \u2022 Age (Integer) \u2022 Email (Varchar) Perform the following: 1. Add a column Gender. 2. Modify the data type of Age to SMALLINT. 3. Drop the column Email. 4. Rename the table to StudentRecords 3. Create a table Products with the following fields: \u2022 ProductID (Primary Key) \u2022 ProductName \u2022 Category \u2022 Quantity \u2022 Price Tasks: 1. Add a column SupplierN"
+    },
+    {
+        "id": 16,
+        "source": "SQL Experiment List PR Exam 25-26.pdf",
+        "text": "ame. 2. Change Quantity data type to SMALLINT. 3. Drop the Category column. 4. Rename the table to Inventory. 4. Create a table Courses with: CourseID (Primary Key), CourseName, Credits, Instructor Tasks: 1. Add a column Semester.2. Change the data type of Credits from INT to FLOAT.3. Remove the Instructor column.4. Rename the table to AvailableCourses. 5. CREATE DATABASE CollegeDB; USE CollegeDB; CREATE TABLE emp and apply following commands: 1. Insert more than a record into emp table using a "
+    },
+    {
+        "id": 17,
+        "source": "SQL Experiment List PR Exam 25-26.pdf",
+        "text": "single insert command. 2. Update the emp table to set the salary of all employees to Rs15000/- who are working as Assistant Professor 3. Delete only those who are working as lecturer 6. Consider following two tables Employees Table: EmpID EmpName DeptID Salary 1 Alice 101 50000.00 2 Bob 102 60000.00 3 Charlie 101 55000.00 4 David 103 45000.00 5 Eva 102 65000.00 Department Table: DeptID DeptName 101 HR 102 IT 103 Finance"
+    },
+    {
+        "id": 18,
+        "source": "SQL Experiment List PR Exam 25-26.pdf",
+        "text": "1. Count total employees 2. Find maximum and minimum salary 3. Find average salary per department 4. Use UNION ALL 5. Use innerjoin 7. Create table employee as follows: \u2022 Create view \u2022 Update view \u2022 Delete View \u2022 Drop view 8. Consider a database table Customer (CustID, Name, City, Balance) used to store customer details for a bank. You are required to demonstrate the use of TCL (Transaction Control Language) commands: COMMIT, ROLLBACK, and SAVEPOINT using the following scenarios: 1. Data Setup: "
+    },
+    {
+        "id": 19,
+        "source": "SQL Experiment List PR Exam 25-26.pdf",
+        "text": "o Create the Customer table with the attributes CustID, Name, City, and Balance. o Insert at least three initial records and permanently save them using COMMIT. 2. Use of ROLLBACK: o Delete a customer record without using COMMIT. o Apply the ROLLBACK command to restore the deleted record. 3. Use of SAVEPOINT: o Insert three new customer records. o Create two savepoints after inserting the first and second records."
+    },
+    {
+        "id": 20,
+        "source": "SQL Experiment List PR Exam 25-26.pdf",
+        "text": "o Roll back to the second savepoint to undo the last insertion, while keeping the earlier ones intact. o Finally, use COMMIT to save the correct state of the table. 9. An e-commerce website stores orders in Orders(OrderID, CustomerName, ProductName, Amount). 1. Insert 3 orders and commit them. 2. Cancel (delete) an order but roll back to restore it. 3. Insert 3 new orders, creating savepoints. 4. Roll back to the first savepoint to undo later orders. 5. Commit the transaction and show final orde"
+    },
+    {
+        "id": 21,
+        "source": "SQL Experiment List PR Exam 25-26.pdf",
+        "text": "rs list. 10. Create Customer Table: Write procedure Call the procedure 11. Write function to Check if salary is above 10,000 on customer table. 12. Create a stored procedure that uses a cursor to display the names of employees who earn more than 50,000 from an employees table."
+    }
+]
