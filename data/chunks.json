@@ -1,107 +1,294 @@
 [
     {
         "id": 1,
-        "source": "ADSA_5_Dec 19.pdf",
-        "text": "  of 1 (3 Hours) [Total Marks: 80] N.B.: (1) Question No.1 is compulsory. (2) Attempt any three out of remaining questions. (3) Assume Suitable data if necessary. (4) Figures to the right indicate full marks. Q1 a. Differentiate between Greedy method and Dynamic Programming. 5 b. Write an algorithm for finding minimum and maximum number from a given set 5 c. Explain coin changing problem 5 d. Explain Flow Shop Scheduling Technique 5 Q2a. Define AVL tree. Construct an AVL tree for the following d"
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "Here is the digitized content from the PDF files: 2.1 Banking Operations Banker A banker is a person engaged in the business of banking. A banker must perform essential functions like receiving various kinds of deposits, lending money or creating credit, and issuing, honoring, and collecting checks. Customer A customer is an individual who uses one or more of the services offered by a bank. The bank earns through its customers, and in return, the banker provides services. A person can become a c"
     },
     {
         "id": 2,
-        "source": "ADSA_5_Dec 19.pdf",
-        "text": "ata. 10 63, 9, 19, 27, 18, 108, 99, 81 b. Write an algorithm for implementing Quick sort. Also, comment on its complexity. 10 Q3a. What is longest common subsequence problem? Find LCS for the following string: 10 String X: ABCDGH String Y: AEDFHR b. Explain Rabin Karp Algorithm in detail. 10 Q4a. Which are the different methods of solving recurrences? Explain with suitable examples. 10 b. Explain Travelling Salesman Problem with an example. 10 Q5a. Explain Huffman Algorithm. Construct a Huffman "
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "ustomer by:  Opening any type of account.  The account may or may not be operated frequently.  The transaction between the banker and customer must be of a banking nature. Relation Between Bankers and Customer The relationship's nature depends on the services provided by the banker and has both legal and behavioral aspects.  Debtor and Creditor: When a customer opens an account with a credit balance, the banker is the debtor and the customer is the creditor.  Pledger and Pledgee: When a customer"
     },
     {
         "id": 3,
-        "source": "ADSA_5_Dec 19.pdf",
-        "text": "Tree and find Huffman code for the message: KARNATAKA. 10 b. Explain Knapsack Problem with an example. 10 Q6 Write Short notes on (any four) 20 a. Genetic Algorithm b. Red and Black Tree c. Merge Sort d. Knuth Morris Pratt Algorithm e. Optimal Binary Search Tree (OBST) -------------------------- Paper / Subject Code: 32405 / Elective - I Advance Data Structures & Analysis of Algorithms 6411BAACBDB111F71B9C4DB43E9DDB55munotes.in"
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": " pledges assets or security to get a loan, the customer is the pledger and the bank is the pledgee.  Licensor and Licensee: When a banker provides a safe deposit locker, the banker is the licensor and the customer is the licensee.  Bailor and Bailee: When a customer gives a sealed box to the bank for safekeeping, the customer is the bailor and the bank is the bailee.  Hypothecator and Hypothecatee: When a customer hypothecates movable or non-movable property for a loan, the customer is the hypot"
     },
     {
         "id": 4,
-        "source": "EDL  report format.docx",
-        "text": "Chapter 1 <Times New Roman with font size 16 and bold>Introduction <Times New Roman with font size 14 and bold>The title of Chapter 1 shall be Introduction. It shall justify andhighlight the problem posed, define the topic and explain the aimand scope of the work presented in the report. It may also highlightthe significant contributions from the investigation.<main Content of report must be in Times New Roman with fontsize 12 & with justified alignemnet, space between the line must be1.5 throug"
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "hecator and the banker is the hypothecatee.  Trustee and Beneficiary: If a customer deposits securities or valuables for safe custody, the banker becomes a trustee and the customer is the beneficiary.  Agent and Principal: The banker acts as an agent when providing agency services to the customer.  Advisor and Client: When a customer invests in securities, the banker acts as an advisor, and the customer is a client. Special Relationship between Banker and customer This pertains to the mutual rig"
     },
     {
         "id": 5,
-        "source": "EDL  report format.docx",
-        "text": "hout report>Format to Represent Diagrams in report :Each diagram must be horizontally aligned at center and thecontent of each diagram must be in readable form. Diagram namemust be below the diagram in times new roman with font size 11and bold.Main Instruction :All the content of report must be with justified alignment and withspacing of 1.5 throughout the report.Also maintain the proper indentation while preparing reportContinue with next chapter according to topics mentioned in indexwith new p"
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "hts and obligations of the customer and banker.  Banker's right to Lien: Lien is the right to retain a debtor's property until the debt is discharged. It is a right to possess a property.  Right to charge interest, commission, incidental charges, commitment charges:  Interest: A banker can charge interest on a customer's loan account.  Commission: A banker has an implied right to charge a commission for services rendered.  Incidental charges: These are levied on unremunerative current accounts. "
     },
     {
         "id": 6,
-        "source": "EDL  report format.docx",
-        "text": "ageALL THE PAGES AFTER INDEX MUST BE WITHOUT BORDERChapter 1IntroductionFood choices in urban areas are often limited to either expensivefine dining or unhygienic fast food options. With increasingawareness of health and sustainability, people are searching forconvenient yet nutritious meals. EcoBite aims to fill this gap by"
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": " Commitment charges: This is charged on overdrafts and cash credit accounts.  Right to set off: A banker can adjust the amount a customer owes on one account against the amount the bank owes the customer on another account.  Right to appropriate payments: When a customer has more than one loan, the question of appropriation arises if a payment is not sufficient to clear all debts.  Right not to produce Books of Accounts: A banker does not need to produce original account books as evidence in cas"
     },
     {
         "id": 7,
-        "source": "EDL  report format.docx",
-        "text": "offering meals that are affordable, healthy, and environment-friendly.Objectives of the Report:\u2022 To define the problem and opportunity in the food sector.\u2022 To propose EcoBite as a sustainable solution.\u2022 To outline the business model, marketing strategy, and financialplan.Chapter 2:Problem StatementUrban food lovers often struggle to find affordable, hygienic, andquick meals. Most food trucks and stalls compromise on hygiene,while restaurants are expensive and time-consuming. Additionally,very fe"
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "es where the banker is not a party."
     },
     {
         "id": 8,
-        "source": "EDL  report format.docx",
-        "text": "w players focus on eco-friendly practices. There is an urgentneed for a convenient food option that balances health, hygiene,affordability, and sustainability.Chapter 3Proposed Solution / Startup IdeaEcoBite \u2013 Healthy Food Truck will: - Serve nutritious meals ataffordable prices. - Focus on hygiene and quality using organic/local produce. - Provide eco-friendly packaging to reduce waste. -Use a rotating menu to keep customers engaged.Unique Value Proposition (USP): EcoBite combines healthy eatin"
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": " Right under Garnishee order: This order warns holders of a judgment debtor's money not to make any payments until the court directs it. Obligations of Bankers The relationship between a banker and customer creates certain obligations for the bank. A bank is liable for compensation if it wrongfully refuses to honor a cheque. The five main obligations are: 1. To Honor Checks: The bank has a statutory obligation to honor its customers' checks. 2. To maintain secrecy: The banker must not disclose d"
     },
     {
         "id": 9,
-        "source": "EDL  report format.docx",
-        "text": "g"
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "etails about a customer's account to outsiders, as it could harm the customer's credit and business. 3. To maintain proper records. 4. To follow the customer's instructions. 5. To give notice before closing the account. Know Your Customer (KYC) Guidelines The goal of KYC guidelines is to prevent banks from being used, intentionally or not, by criminal elements for money laundering activities. KYC procedures help banks know their customers and their financial dealings, which assists in prudent ri"
     },
     {
         "id": 10,
-        "source": "EDL  report format.docx",
-        "text": "with eco-conscious practices in a fast-food model.Chapter 4Market Research & Target AudienceResearch Method:- Conducted 50 surveys among college students and ITprofessionals.- 10 informal interviews with office workers near business parks.Findings:- 72% prefer quick meals during work breaks.- 65% are willing to pay slightly more for healthy food options.- 58% are interested in eco-friendly packaging.Target Market: Primary: College students, working professionals(18\u201335). Secondary: Fitness enthus"
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "sk management. The objectives include:  Identifying depositors.  Controlling financial frauds.  Identifying money laundering and suspicious activities.  Monitoring large-value cash transactions.  Preventing misuse of the banking system for committing frauds. Steps to open a bank account 1. Decide on the type of bank account you want to open (e.g., Saving, Recurring, Fixed Deposit, Current). 2. Approach a bank of your choice and meet with a bank officer who will provide an account opening form. 3"
     },
     {
         "id": 11,
-        "source": "EDL  report format.docx",
-        "text": "iasts and event organizers.Chapter 5Business ModelRevenue Model: Direct sales, subscriptions, and catering services.Cost Structure: Truck purchase, kitchen setup, raw materials,marketing.Scalability Potential: Start with one truck \u2192 expand to multiple"
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": ". Fill out the account opening form completely. 4. Provide references to safeguard the bank's interest. 5. Submit the completed form and necessary documents. 6. The bank officer will verify the form and documents. 7. Deposit the initial amount, which varies by bank. After the deposit, the bank provides a passbook, cheque book, and pay-in slip book. For fixed deposits, a receipt is issued. 2.2 Types of Accounts Modern bankers operate different types of accounts to provide convenience and profit t"
     },
     {
         "id": 12,
-        "source": "EDL  report format.docx",
-        "text": "trucks \u2192 franchise model.Add Business model Canvas(BMC)Chapter 6Marketing & Promotion StrategyBranding: Strong eco-friendly identity with green theme.Promotion: - Social media campaigns (Instagram, Facebook,YouTube). - Partnerships with gyms, colleges, and offices. - Freesamples & launch offers. Customer Acquisition: Loyalty points,student discounts, combo offers.Add campaign posterChapter 7Financial PlanEstimated Startup Budget: \u20b98\u201310 lakhs - Food truck: \u20b95 lakhs -Kitchen setup: \u20b92 lakhs - Mark"
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "o the customer. Banks offer accounts that suit the requirements of every type of customer. 1) Saving Bank Account A savings account is a basic bank account that allows you to deposit money, keep it safe, and withdraw funds, all while earning interest. It is used by the general public. The interest rate on this account is lower than on fixed deposits.  Who can open: An Indian citizen aged 18 years and above. For minors, parents or legal guardians can open the account on their behalf. Applicants m"
     },
     {
         "id": 13,
-        "source": "EDL  report format.docx",
-        "text": "eting & licenses: \u20b91 lakh - Workingcapital: \u20b91\u20132 lakhs Revenue Projection (Year 1): \u20b915\u201318 lakhsBreak-even Point: Expected within 12\u201315 months.Chapter 8Learning and Challenges"
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "ust provide valid, government-approved identity and address proof. 2) Current Account This account is generally for businessmen, traders, and corporate bodies who have a high number of regular transactions with the bank. It includes deposits, withdrawals, and contra transactions. Banks may provide an overdraft facility to current account holders.  Features:  A varying minimum balance must be maintained depending on the area (rural, semi-urban, metro)."
     },
     {
         "id": 14,
-        "source": "EDL  report format.docx",
-        "text": "Challenges Faced: ___________________ Solutions Implemented:___________________ Key Learnings About Entrepreneurship, Teamwork,Customer Handling: ___________________Chapter 9ConclusionSummary of Business Activity: ___________________ Total Profit/Loss:___________________ Reflection on Experience: ___________________ Suggestionsfor Future Improvements: ___________________AppendicesPhotographs of Product/Activity"
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": " The account is not eligible for interest.  There is no ceiling on the number of withdrawals and credits.  Facilities like passbook, standing instructions, and cheque collection are available.  It helps with day-to-day financial requirements and provides maximum financial leverage for the customer's money, saving time and cost. 3) Fixed Deposit Account (FD) In this account, money is deposited for a fixed period. Customers can withdraw the amount before the specified time in an emergency but will"
     },
     {
         "id": 15,
-        "source": "SQL Experiment List PR Exam 25-26.pdf",
-        "text": "1. ER Diagram for hotel management system. 2. Create a table named Students with the following fields: \u2022 StudentID (Integer, Primary Key) \u2022 Name (Varchar) \u2022 Age (Integer) \u2022 Email (Varchar) Perform the following: 1. Add a column Gender. 2. Modify the data type of Age to SMALLINT. 3. Drop the column Email. 4. Rename the table to StudentRecords 3. Create a table Products with the following fields: \u2022 ProductID (Primary Key) \u2022 ProductName \u2022 Category \u2022 Quantity \u2022 Price Tasks: 1. Add a column SupplierN"
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": " receive a lower interest rate. It is opened by customers who want to deposit money for a longer period to get a regular income.  Features:  FD accounts are safe and yield a relatively higher return.  There is a minimum deposit amount but no maximum limit.  The depositor agrees not to withdraw the money before the period expires.  The deposit period can range from 15 days to 120 months or more, varying by bank.  Interest can be paid monthly, quarterly, half-yearly, or annually, based on the depo"
     },
     {
         "id": 16,
-        "source": "SQL Experiment List PR Exam 25-26.pdf",
-        "text": "ame. 2. Change Quantity data type to SMALLINT. 3. Drop the Category column. 4. Rename the table to Inventory. 4. Create a table Courses with: CourseID (Primary Key), CourseName, Credits, Instructor Tasks: 1. Add a column Semester.2. Change the data type of Credits from INT to FLOAT.3. Remove the Instructor column.4. Rename the table to AvailableCourses. 5. CREATE DATABASE CollegeDB; USE CollegeDB; CREATE TABLE emp and apply following commands: 1. Insert more than a record into emp table using a "
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "sitor's choice.  It offers high liquidity, as customers can obtain a loan against the deposit or close the account before maturity.  A nomination facility is available. 4) Recurring Deposit Account A specified amount is deposited every month for a specified period. This amount cannot be withdrawn before the expiry of the period, except in exceptional circumstances. The interest paid on this account is higher than on other accounts. 5) Demat Account A Demat account, or dematerialized account, is "
     },
     {
         "id": 17,
-        "source": "SQL Experiment List PR Exam 25-26.pdf",
-        "text": "single insert command. 2. Update the emp table to set the salary of all employees to Rs15000/- who are working as Assistant Professor 3. Delete only those who are working as lecturer 6. Consider following two tables Employees Table: EmpID EmpName DeptID Salary 1 Alice 101 50000.00 2 Bob 102 60000.00 3 Charlie 101 55000.00 4 David 103 45000.00 5 Eva 102 65000.00 Department Table: DeptID DeptName 101 HR 102 IT 103 Finance"
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "for Indian citizens to trade in listed stocks or debentures in electronic form. It is required by the Securities and Exchange Board of India (SEBI). Shares and securities are held electronically instead of in physical certificate form. An investor opens a Demat account when registering with an investment broker or sub-broker. The Demat account number is used for all transactions to enable electronic settlement of trades. 6) NRE Account A Non-Resident External (NRE) account is opened by depositin"
     },
     {
         "id": 18,
-        "source": "SQL Experiment List PR Exam 25-26.pdf",
-        "text": "1. Count total employees 2. Find maximum and minimum salary 3. Find average salary per department 4. Use UNION ALL 5. Use innerjoin 7. Create table employee as follows: \u2022 Create view \u2022 Update view \u2022 Delete View \u2022 Drop view 8. Consider a database table Customer (CustID, Name, City, Balance) used to store customer details for a bank. You are required to demonstrate the use of TCL (Transaction Control Language) commands: COMMIT, ROLLBACK, and SAVEPOINT using the following scenarios: 1. Data Setup: "
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "g foreign currency at the time of opening. This currency can be in the form of traveler's checks or notes. 7) NRO Account A Non-Resident Ordinary (NRO) account is a normal bank account opened by an Indian going abroad with the intention of becoming an NRI. An NRI can also open this account by sending remittances from their home country or by transferring funds from another NRO account. It offers the same facilities as an NRE account, but any repatriation must be reported to the RBI. 8) Reinvestm"
     },
     {
         "id": 19,
-        "source": "SQL Experiment List PR Exam 25-26.pdf",
-        "text": "o Create the Customer table with the attributes CustID, Name, City, and Balance. o Insert at least three initial records and permanently save them using COMMIT. 2. Use of ROLLBACK: o Delete a customer record without using COMMIT. o Apply the ROLLBACK command to restore the deleted record. 3. Use of SAVEPOINT: o Insert three new customer records. o Create two savepoints after inserting the first and second records."
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "ent Deposit Account This is a deposit account with a facility for reinvesting the money immediately after the fixed deposit expires. It offers safety, liquidity, and the highest growth option through compounded interest.  Features:  Minimum balance is Rs. 1000 with no maximum ceiling.  Offers high returns, with interest usually compounded quarterly.  Provides easy liquidity, loan against deposit, part withdrawal, and nomination facility. 9) Flexi-deposit Account This account combines the advanta"
     },
     {
         "id": 20,
-        "source": "SQL Experiment List PR Exam 25-26.pdf",
-        "text": "o Roll back to the second savepoint to undo the last insertion, while keeping the earlier ones intact. o Finally, use COMMIT to save the correct state of the table. 9. An e-commerce website stores orders in Orders(OrderID, CustomerName, ProductName, Amount). 1. Insert 3 orders and commit them. 2. Cancel (delete) an order but roll back to restore it. 3. Insert 3 new orders, creating savepoints. 4. Roll back to the first savepoint to undo later orders. 5. Commit the transaction and show final orde"
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "ges of a savings account and a fixed deposit account, offering high returns and liquidity. Funds beyond a certain amount are automatically transferred from the customer's savings account to a fixed deposit. The savings account continues to function as usual."
     },
     {
         "id": 21,
-        "source": "SQL Experiment List PR Exam 25-26.pdf",
-        "text": "rs list. 10. Create Customer Table: Write procedure Call the procedure 11. Write function to Check if salary is above 10,000 on customer table. 12. Create a stored procedure that uses a cursor to display the names of employees who earn more than 50,000 from an employees table."
-    }
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "10) Senior Citizen Deposit Account This is an account operated for the benefit of senior citizens, with the objective of respecting the age of the people of the country. 11) Resident Foreign Currency (Domestic) Account This account allows a customer to deposit foreign currency. It can only be opened as a Current Account and does not carry interest. There is no minimum amount required to open it. Foreign exchange acquired as currency notes, traveler's cheques, gifts, honorariums, or earnings from"
+    },
+    {
+        "id": 22,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": " exports can be credited to this account. 2.3 Banking Services Banking services include accepting deposits, lending money, facilitating transactions, and offering various financial products like savings accounts, loans, credit/debit cards, and wealth management. Modern Banking Services Also known as E-banking, modern banking services are comprehensive, on-premise solutions that provide core data processing, item capture, imaging solutions, and management information services. These services cove"
+    },
+    {
+        "id": 23,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "r internet banking, telephone/PC banking, and network services. Latest Technologies and Trends in Modern Banking 1. Open Banking: Utilizes APIs to provide personalized, secure, and efficient banking services. Banks use third-party software to integrate financial solutions, giving clients a single point of entry. 2. Digital Wallets: Simplify tasks like money transfers, e-commerce payments, and mobile recharges. 3. Near Field Communication (NFC) Technology: Allows quick and secure payments through"
+    },
+    {
+        "id": 24,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": " devices like phones or watches, eliminating the need for physical cards and wallets. 4. Digital Account Opening: Enables customers to open accounts without visiting a physical branch. 5. Biometric Technology: Uses fingerprints, iris scans, and voice recognition to enhance security and provide a seamless customer experience. 6. Blockchain: Ensures the integrity and immutability of data when multiple parties need access simultaneously, which increases efficiency and security. 7. Cloud Banking: Al"
+    },
+    {
+        "id": 25,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "lows banks to synchronize their enterprise and break down operational and data silos across various business areas. 8. Artificial Intelligence (AI) and Machine Learning (ML): Used to provide personalized service, automate operations, improve customer care, and prevent fraud. 9. Chatbots: Rely on a voice interface and have been shown to save banks time on transactions and help gather customer feedback quickly and cost-effectively. 10.Zero Trust Security Model: Prevents cyber fraud by removing imp"
+    },
+    {
+        "id": 26,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "licit trust and requiring strict user and device authentication across the network. 11.Wearables: Devices like smartwatches are transforming digital payments and creating a more engaging shopping experience. Modern Banking System: Advantages and Disadvantages  Advantages:  Provides unparalleled convenience, allowing individuals to conduct banking activities anytime and from anywhere with internet access.  Beneficial for people with busy schedules or in need of urgent financial management."
+    },
+    {
+        "id": 27,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": " Offers advantages in convenience, time efficiency, and accessibility.  Disadvantages:  Heightened susceptibility to cyber threats like hacking, spyware, and password breaches.  A digital divide may exclude those without technological literacy or access from the benefits of modern banking. Types of Modern Banking Services 1. Core Banking Solution (CBS): A network of branches that allows customers to operate their accounts and use banking services from any branch on the CBS network, regardless of"
+    },
+    {
+        "id": 28,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": " where their account is maintained. 2. No-frills accounts: Opened mostly in rural areas as part of a financial inclusion project encouraged by the RBI. These accounts can be opened without the condition of maintaining a minimum balance. 3. Demat Accounts: Maintained by banks for high-value transactions in electronic form, dealing with shares and securities, mostly government bonds. 4. Net Banking: An easy way of banking from a convenient place, avoiding queues. It's also known as electronic fund"
+    },
+    {
+        "id": 29,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": " transfer through NEFT, RTGS, or IMPS. 5. Mobile Banking: A service that allows customers to conduct financial transactions using a smartphone or tablet. It is a quick and simple way of banking. 6. Debit/Credit Card: A plastic payment card used instead of cash for purchases. 7. ATM (Automatic Teller Machine): An electronic device for round-the-clock withdrawal, deposit, and fund transfers. 8. Insurance: A means of protection from financial loss where a company provides a guarantee of compensatio"
+    },
+    {
+        "id": 30,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "n for specified loss, damage, illness, or death in return for a premium. 9. Lock-Box and Night Safe services: Lock-box services help traders keep cheques and other remittances in a box for next-day collection. 10.Overdraft: Allows account holders to withdraw more money than their deposits allow. 11.Currency exchange: Banks provide foreign currency exchange with local currency. 12.Consultancy: Modern banks hire financial and legal experts to provide advice on customers' wealth, investments, and t"
+    },
+    {
+        "id": 31,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "rading. 13.Money transfer: Banks offer money transfers via demand drafts, money orders, cheques, and online banking. 14.Investment Banking: Banks help customers make the best of their wealth by offering various investment products. 15.Wealth Management: Allows customers to plan their finances to grow long-term wealth. 2.4 Current Scenario in Banking service Introduction According to the RBI, India's banking sector is well-regulated and sufficiently capitalized. The industry has seen innovative m"
+    },
+    {
+        "id": 32,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "odels like payments and small finance banks. Reforms like digital payments and the rise of fintech have enhanced financial inclusion and fueled the credit cycle. India is one of the world's fastest-growing fintech markets. Current issue in banking sector One of the biggest challenges is regulatory changes. Banks must comply with various regulations, from anti-money laundering (AML) to data protection laws, which can be a time-consuming and costly process affecting profitability. Key Trends and D"
+    },
+    {
+        "id": 33,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "evelopments  Digital Transformation: The Indian banking sector is heavily digital, with mobile banking"
+    },
+    {
+        "id": 34,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "and digital payments becoming dominant.  Financial Inclusion: Initiatives like the Pradhan Mantri Jan Dhan Yojana (PMJDY) have significantly increased the number of basic savings bank deposit (BSBD) accounts, especially in rural areas.  Regulatory shifts: The RBI is implementing measures to enhance bank stability, such as improving the insolvency ecosystem.  Rise of Fintech and New services: Fintech disruption is a major trend, driving services like Buy Now Pay Later (BNPL).  Growing Interest in"
+    },
+    {
+        "id": 35,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": " Central Bank Digital currency (CBDC): The RBI has launched pilot projects for a wholesale digital rupee to reduce transaction costs. Financial Health and Growth  Improved Asset Quality: The Gross Non-performing Asset (GNPA) ratio for scheduled commercial banks has declined to a 12-year low.  Strong Capital Ratios: Banks maintain strong capital-to-risk-weighted assets ratios (CRAR).  Profitability and Growth: Public sector banks (PSBs) are crossing significant profit milestones. Challenges and o"
+    },
+    {
+        "id": 36,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "pportunities  Competition: Banks face increasing competition from traditional players and new fintech companies.  Cybersecurity: Protecting customer data and maintaining robust cybersecurity is a critical challenge.  Evolving customer expectations: Banks must adapt to demands for seamless, user-friendly, and inclusive digital banking experiences.  Regulatory Management: Banks need to navigate evolving regulatory landscapes and manage risks, especially in high-growth segments. 2.5 Financial Inclu"
+    },
+    {
+        "id": 37,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "sion Financial inclusion is the method of offering banking and financial services to every individual in society without discrimination. Its primary aim is to include everyone by providing basic financial services, regardless of income or savings. Objectives Financial inclusion aims to offer essential financial services such as basic no-frills accounts, simple credit and overdrafts, money transfer options, and micro-insurance and micro-pension solutions. Features  It is an effort to make everyda"
+    },
+    {
+        "id": 38,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "y financial services available to more of the world's population at a reasonable cost.  It may target geographical regions or marginalized groups based on gender, age, or other factors.  It can lead to greater innovation, economic growth, and consumer knowledge.  Advances in fintech, like digital transactions, are making it easier to achieve. Importance of financial inclusion Financial inclusion is crucial for economic growth, poverty reduction, and social equity. It empowers marginalized commun"
+    },
+    {
+        "id": 39,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "ities, supports entrepreneurship, and promotes digital inclusion.  Economic Growth: It fuels economic growth by enabling all individuals to engage in economic activities, promoting savings and investments.  Poverty Reduction: Access to financial services allows low-income individuals to save,"
+    },
+    {
+        "id": 40,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "borrow, and manage risks, helping to break the cycle of poverty.  Women empowerment: It empowers women by granting them financial independence and improving their social and economic status.  Entrepreneurship and Employment: It supports MSMEs by providing essential credit, fostering entrepreneurship and job creation.  Social inclusion: It bridges societal divides by ensuring everyone has equal access to financial services, promoting social equity.  Digital inclusion: Increasing access to digital"
+    },
+    {
+        "id": 41,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": " financial services contributes to digital inclusion by allowing more people to participate in the digital economy. Challenges of Financial Inclusion Challenges in India include low financial literacy, limited digital access in rural areas, gender disparities, inadequate infrastructure, and high service costs.  Low financial literacy: Many people lack the knowledge to use financial services effectively, especially in rural areas.  Digital Divide: Limited internet access and smartphone usage in r"
+    },
+    {
+        "id": 42,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "ural and low-income areas hinder digital financial inclusion.  Gender Disparities: Women face greater barriers due to sociocultural factors and limited financial literacy.  Inadequate Infrastructure: Rural areas often lack essential banking infrastructure like ATMs and branches.  High cost of services: High interest rates and fees can make financial services inaccessible for low-income groups. Financial Inclusion and Technology  Mobile Banking: Mobile apps offer a wide range of services, allowin"
+    },
+    {
+        "id": 43,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "g for convenient financial transactions without visiting a branch.  Digital payment: Online payment systems provide various options for cashless transactions, reducing the risk of theft associated with carrying cash.  Agent Banking: Uses technology to equip banking agents with mobile devices to provide services to individuals without easy access to traditional banks.  Online Lending platforms: Fintech platforms connect borrowers and lenders directly, extending credit access to those underserved "
+    },
+    {
+        "id": 44,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "by traditional banks.  Blockchain and Cryptocurrency: Blockchain provides a secure ledger for transactions, while cryptocurrencies can enable individuals without bank accounts to participate in the digital economy.  Financial Education App: Apps and online platforms offer content to improve financial literacy.  Crowdfunding: Allows individuals, startups, and social projects to raise funds from a diverse pool of investors through online platforms. 2.6 Banking Regulations Banking regulation impose"
+    },
+    {
+        "id": 45,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "s requirements, restrictions, and guidelines on banks. The objectives are similar across countries, such as reducing systemic risk and preventing bank fraud. Purpose Bank regulation is the process of setting and enforcing rules for banks. Its main purpose is to protect customers, ensure the stability of the financial system, and prevent financial crime. Regulations are also designed to promote safe banking practices by ensuring banks have enough capital to cover risks and that customers are info"
+    },
+    {
+        "id": 46,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "rmed about their rights. Banking Regulation Act 1949 This act in India manages all banking firms. It gives the RBI the"
+    },
+    {
+        "id": 47,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "power to license banks, regulate shareholding, oversee board appointments, manage bank activities, set audit guidelines, and control mergers and liquidations. Objectives and functions of Banking Regulation Act 1949  To avoid cut-throat competition among banking companies.  The act regulated the opening and relocation of branches.  To ensure balanced development of banks through a licensing system.  To assign power to the RBI to appoint and remove bank chairmen and directors to ensure smooth func"
+    },
+    {
+        "id": 48,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "tioning.  To protect the interest of depositors by prescribing cash and liquidity reserve ratios.  To provide for the compulsory amalgamation of weaker banks with stronger ones.  To introduce provisions restricting foreign banks from investing Indian depositors' funds outside India.  To provide for quick and easy liquidation of banks when they are unable to continue. 2.7 Role of RBI The Reserve Bank of India (RBI) is India's central bank and regulatory body for banking. It is part of the Indian "
+    },
+    {
+        "id": 49,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "Government's Ministry of Finance. The RBI issues and distributes the Indian rupee, oversees major payment networks, and works to further the country's economic growth. Enacted in 1934, the RBI Act established the RBI to oversee banknote issuance, maintain reserves for monetary stability, and manage the national currency and credit system. Functions of the Reserve Bank of India (RBI) As per the RBI Act 1934, it performs three types of functions: A) Banking functions B) Supervisory functions C) Pr"
+    },
+    {
+        "id": 50,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "omotional functions A) Banking Functions 1. Bank of Issue: The RBI has the sole right to issue banknotes of all denominations under section 22 of the RBI Act. 2. Banker to Government: The RBI acts as the government's banker, agent, and adviser, and is obligated to transact government business. 3. Banker's Bank and Lender of the Last Resort: Every scheduled bank is required to maintain a cash balance with the RBI. 4. Controller of Credit: The RBI has the power to influence the volume of credit cr"
+    },
+    {
+        "id": 51,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "eated by banks. 5. Custodian of Foreign Reserve: The RBI is responsible for stabilizing the external value of the national currency and keeps gold and foreign currency reserves. 6. Monetary management: The formulation and execution of monetary policy are among the RBI's main responsibilities. B) Supervisory Functions 1. The RBI has supervisory powers over commercial and cooperative banks related to licensing, branch expansion, liquidity, management, and amalgamation. 2. The RBI has the authority"
+    },
+    {
+        "id": 52,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": " to grant licenses to banks, regulating their establishment and operation. 3. Risk Assessment and management: This helps identify potential hazards and reduce risks. 4. Supervision of Non-Banking Financial Companies (NBFCs): The RBI exercises control and oversight over NBFCs. 5. Consumer protection and Market conduct: Ensures fair treatment of customers and an effective grievance redressal mechanism. 6. Information Dissemination and transparency: The RBI strives to improve public"
+    },
+    {
+        "id": 53,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "understanding of developments in its domains. 7. Supervision of payment and settlement system: The RBI has taken initiatives for safe, secure, and efficient payment systems in the country. C) Promotional functions 1. The RBI now performs various developmental and promotional functions. 2. It actively supports and enforces development efforts in the country and tries to ensure everyone has access to banking services. 3. Overseas market operations: The RBI implements monetary policy through govern"
+    },
+    {
+        "id": 54,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "ment securities, foreign exchange, and money market operations. 4. Foreign Exchange management: The foreign exchange market is regulated by the RBI. Role of RBI in the Indian economy The role and functions of the RBI are fundamental to the stability and growth of the Indian economy. By managing the money supply, interest rates, and inflation, the RBI creates an environment conducive to investment, economic growth, and job creation. Its supervision and regulation of financial institutions ensure "
+    },
+    {
+        "id": 55,
+        "source": "Digitalise all these pdf and send me in proper lin....pdf",
+        "text": "the safety and soundness of the financial system, fostering investor confidence."
+    },
+    {
+  "id": 56,
+  "source": "Banking Law",
+  "text": "A Garnishee Order is an order issued by a court to attach funds belonging to a judgment debtor that are held with a bank or a third party. It prevents the bank from releasing money from the debtor’s account until the court gives further instruction. The purpose of the Garnishee Order is to ensure that the creditor can recover the amount owed by legally freezing the debtor’s funds."
+},
+{
+  "id": 57,
+  "source": "Banking Law",
+  "text": "Under a Garnishee Order, the bank is required to disclose whether the customer (the debtor) has sufficient funds and must hold those funds without allowing withdrawals. If funds are available, the court may direct the bank to transfer the required amount to the creditor. Failure of the bank to comply may lead to legal liability. This order applies only to the balance available at the time of service."
+},
+{
+  "id": 58,
+  "source": "Banking Law",
+  "text": "The Garnishee Order grants the creditor the right to access the debtor's funds held by a bank through court intervention. It restricts the debtor from withdrawing money and requires the bank to hold or pay the specified amount to the creditor once ordered. This ensures legal recovery of dues even if the debtor attempts to avoid payment."
+}
+
+
 ]

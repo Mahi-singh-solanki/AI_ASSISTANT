@@ -1,2 +1,12 @@
 fastapi[standard]
 pymupdf
+chromadb
+sentence_transformers
+pandas
+langchain_chroma
+langchain_ollama
+embeddings
+whisper
+pyaudio
+pyttsx3
+pvporcupine

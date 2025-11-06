@@ -1,0 +1,30 @@
+[
+    {
+        "fact": "FACT: favorite_color = Red.",
+        "data_type": "fact"
+    },
+    {
+        "fact": "FACT: favorite_food = Pizza.",
+        "data_type": "fact"
+    },
+    {
+        "fact": "FACT: name:Mahipal Singh",
+        "data_type": "fact"
+    },
+    {
+        "fact": "FACT:  stored the information favorite_movie = titanic",
+        "data_type": "fact"
+    },
+    {
+        "fact": "FACT: rete = best football player",
+        "data_type": "fact"
+    },
+    {
+        "fact": "FACT:  stored the information favorite_book = good girls guide to murder.",
+        "data_type": "fact"
+    },
+    {
+        "fact": "FACT: coffee and milk are used to make a cappucino.",
+        "data_type": "fact"
+    }
+]

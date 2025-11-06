@@ -13,7 +13,10 @@ def clean_text(text):
     text = re.sub(r"\b[A-F0-9]{20,}\b", "", text) #remove words with 20+text length
     #remove page no.s
     text = re.sub(r"\bPage\s*\d+\b", "", text) 
-    text = re.sub(r"\b\d+\s*/\s*\d+\b", "", text)  # "3/12" patterns
+    text = re.sub(r"\b\d+\s*/\s*\d+\b", "", text) # "3/12" patterns
+    text = re.sub(r'[\u200b\u200c\u200d\u2060\uFEFF]', '', text)
+    text = re.sub(r'[\u2022\u25CF\u25CB\u25A0\u25AA\u25AB]', '', text)
+    text = re.sub(r'[^\x00-\x7F]+', ' ', text)
     return text
 
 def text_extraction_upload(uploadfile):

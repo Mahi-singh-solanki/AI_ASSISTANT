@@ -1,0 +1,62 @@
+[
+    {
+        "query": " What is my favorite color?",
+        "response": "Your favorite color is Red.",
+        "data_type": "question"
+    },
+    {
+        "query": " My favorite game is Clash of Clans.",
+        "response": "Your favourite game is Clash of Clans.",
+        "data_type": "question"
+    },
+    {
+        "query": " What is my name?",
+        "response": " Your name is Mahipal Singh.",
+        "data_type": "question"
+    },
+    {
+        "query": " What's my favorite movie and my favorite food?",
+        "response": " Your favorite movie is Titanic and your favorite food is Pizza.",
+        "data_type": "question"
+    },
+    {
+        "query": " What is my favorite movie?",
+        "response": " Your favorite movie is Titanic.",
+        "data_type": "question"
+    },
+    {
+        "query": " Who is banker?",
+        "response": " A banker is a person engaged in the business of banking. They perform essential functions like receiving deposits, lending money or creating credit, and issuing, honoring, and collecting checks.",
+        "data_type": "question"
+    },
+    {
+        "query": " What is Zool of Army Eye?",
+        "response": " I don't have enough information.",
+        "data_type": "question"
+    },
+    {
+        "query": " What is the role of RBI?",
+        "response": " The Reserve Bank of India (RBI) is India's central bank and regulatory body for banking. It performs various functions including banking, supervisory, and promotional functions. Some specific roles of the RBI include managing the money supply, interest rates, and inflation to create an environment conducive to investment, economic growth, and job creation. It also oversees major payment networks and works to further the country's economic growth. The RBI issues and distributes the Indian rupee, regulates the foreign exchange market, and manages the national currency and credit system. Enacted in 1934, the RBI Act established the RBI to oversee banknote issuance, maintain reserves for monetary stability, and manage the national economy.",
+        "data_type": "question"
+    },
+    {
+        "query": " Who is the best football player?",
+        "response": " Your favourite football player is rete.",
+        "data_type": "question"
+    },
+    {
+        "query": " What's my favorite book?",
+        "response": " Your favorite book is good girls guide to murder.",
+        "data_type": "question"
+    },
+    {
+        "query": " What's my favorite book?",
+        "response": " Your favorite book is good girls guide to murder.",
+        "data_type": "question"
+    },
+    {
+        "query": " How is cappuccino made?",
+        "response": " Cappucino is made with coffee and milk.",
+        "data_type": "question"
+    }
+]
