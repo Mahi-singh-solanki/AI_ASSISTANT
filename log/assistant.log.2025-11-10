@@ -1,0 +1,699 @@
+[2025-11-10 13:58:29] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 13:58:29] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 13:58:29] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 13:58:30] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 13:58:37] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 13:58:37] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 13:58:44] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 13:58:44] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 13:58:46] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Play music.
+[2025-11-10 13:58:46] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 13:59:02] [INFO] [Thread-5 (processor)] — Answered the query result- Stored the information Task = Play Music.
+[2025-11-10 13:59:02] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-10 13:59:06] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-10 14:00:07] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 14:00:19] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 14:00:19] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 14:00:19] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 14:00:20] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 14:00:28] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 14:00:28] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 14:00:35] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 14:00:35] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 14:00:36] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Play music.
+[2025-11-10 14:00:36] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 14:00:49] [INFO] [Thread-5 (processor)] — Answered the query result- Task Detected: Play music.
+[2025-11-10 14:00:49] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-10 14:00:52] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-10 14:00:55] [ERROR] [Thread-5 (processor)] — string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    task[key]()
+    ~~~~^^^^^
+TypeError: string indices must be integers, not 'str'
+[2025-11-10 14:00:55] [ERROR] [Thread-5 (processor)] — string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    task[key]()
+    ~~~~^^^^^
+TypeError: string indices must be integers, not 'str'
+[2025-11-10 14:00:55] [ERROR] [Thread-5 (processor)] — string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    task[key]()
+    ~~~~^^^^^
+TypeError: string indices must be integers, not 'str'
+[2025-11-10 14:00:55] [ERROR] [Thread-5 (processor)] — string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    task[key]()
+    ~~~~^^^^^
+TypeError: string indices must be integers, not 'str'
+[2025-11-10 14:00:55] [ERROR] [Thread-5 (processor)] — string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    task[key]()
+    ~~~~^^^^^
+TypeError: string indices must be integers, not 'str'
+[2025-11-10 14:00:55] [ERROR] [Thread-5 (processor)] — string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    task[key]()
+    ~~~~^^^^^
+TypeError: string indices must be integers, not 'str'
+[2025-11-10 14:00:55] [ERROR] [Thread-5 (processor)] — string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    task[key]()
+    ~~~~^^^^^
+TypeError: string indices must be integers, not 'str'
+[2025-11-10 14:00:55] [ERROR] [Thread-5 (processor)] — string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    task[key]()
+    ~~~~^^^^^
+TypeError: string indices must be integers, not 'str'
+[2025-11-10 14:00:55] [ERROR] [Thread-5 (processor)] — string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    task[key]()
+    ~~~~^^^^^
+TypeError: string indices must be integers, not 'str'
+[2025-11-10 14:00:55] [ERROR] [Thread-5 (processor)] — string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    task[key]()
+    ~~~~^^^^^
+TypeError: string indices must be integers, not 'str'
+[2025-11-10 14:00:55] [ERROR] [Thread-5 (processor)] — string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    task[key]()
+    ~~~~^^^^^
+TypeError: string indices must be integers, not 'str'
+[2025-11-10 14:00:55] [ERROR] [Thread-5 (processor)] — string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    task[key]()
+    ~~~~^^^^^
+TypeError: string indices must be integers, not 'str'
+[2025-11-10 14:00:55] [ERROR] [Thread-5 (processor)] — string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    task[key]()
+    ~~~~^^^^^
+TypeError: string indices must be integers, not 'str'
+[2025-11-10 14:00:55] [ERROR] [Thread-5 (processor)] — string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    task[key]()
+    ~~~~^^^^^
+TypeError: string indices must be integers, not 'str'
+[2025-11-10 14:00:55] [ERROR] [Thread-5 (processor)] — string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    task[key]()
+    ~~~~^^^^^
+TypeError: string indices must be integers, not 'str'
+[2025-11-10 14:00:55] [ERROR] [Thread-5 (processor)] — string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    task[key]()
+    ~~~~^^^^^
+TypeError: string indices must be integers, not 'str'
+[2025-11-10 14:00:55] [ERROR] [Thread-5 (processor)] — string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    task[key]()
+    ~~~~^^^^^
+TypeError: string indices must be integers, not 'str'
+[2025-11-10 14:00:55] [ERROR] [Thread-5 (processor)] — string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    task[key]()
+    ~~~~^^^^^
+TypeError: string indices must be integers, not 'str'
+[2025-11-10 14:00:55] [INFO] [Thread-5 (processor)] — I am not allowed to do that
+[2025-11-10 14:03:40] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 14:03:49] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 14:03:49] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 14:03:49] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 14:03:50] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 14:03:59] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 14:03:59] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 14:04:06] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 14:04:06] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 14:04:07] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Play music.
+[2025-11-10 14:04:07] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 14:04:23] [INFO] [Thread-5 (processor)] — Answered the query result- Task Detected: Play music.
+[2025-11-10 14:04:23] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-10 14:04:26] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-10 14:05:04] [ERROR] [Thread-5 (processor)] — 't'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    tasks[key]()
+    ~~~~~^^^^^
+KeyError: 't'
+[2025-11-10 14:05:04] [ERROR] [Thread-5 (processor)] — 'a'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    tasks[key]()
+    ~~~~~^^^^^
+KeyError: 'a'
+[2025-11-10 14:05:04] [ERROR] [Thread-5 (processor)] — 's'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    tasks[key]()
+    ~~~~~^^^^^
+KeyError: 's'
+[2025-11-10 14:05:04] [ERROR] [Thread-5 (processor)] — 'k'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    tasks[key]()
+    ~~~~~^^^^^
+KeyError: 'k'
+[2025-11-10 14:05:04] [ERROR] [Thread-5 (processor)] — ':'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    tasks[key]()
+    ~~~~~^^^^^
+KeyError: ':'
+[2025-11-10 14:05:04] [ERROR] [Thread-5 (processor)] — ' '
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    tasks[key]()
+    ~~~~~^^^^^
+KeyError: ' '
+[2025-11-10 14:05:04] [ERROR] [Thread-5 (processor)] — ' '
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    tasks[key]()
+    ~~~~~^^^^^
+KeyError: ' '
+[2025-11-10 14:05:04] [ERROR] [Thread-5 (processor)] — 'p'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    tasks[key]()
+    ~~~~~^^^^^
+KeyError: 'p'
+[2025-11-10 14:05:04] [ERROR] [Thread-5 (processor)] — 'l'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    tasks[key]()
+    ~~~~~^^^^^
+KeyError: 'l'
+[2025-11-10 14:05:04] [ERROR] [Thread-5 (processor)] — 'a'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    tasks[key]()
+    ~~~~~^^^^^
+KeyError: 'a'
+[2025-11-10 14:05:04] [ERROR] [Thread-5 (processor)] — 'y'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    tasks[key]()
+    ~~~~~^^^^^
+KeyError: 'y'
+[2025-11-10 14:05:04] [ERROR] [Thread-5 (processor)] — ' '
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    tasks[key]()
+    ~~~~~^^^^^
+KeyError: ' '
+[2025-11-10 14:05:04] [ERROR] [Thread-5 (processor)] — 'm'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    tasks[key]()
+    ~~~~~^^^^^
+KeyError: 'm'
+[2025-11-10 14:05:04] [ERROR] [Thread-5 (processor)] — 'u'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    tasks[key]()
+    ~~~~~^^^^^
+KeyError: 'u'
+[2025-11-10 14:05:04] [ERROR] [Thread-5 (processor)] — 's'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    tasks[key]()
+    ~~~~~^^^^^
+KeyError: 's'
+[2025-11-10 14:05:04] [ERROR] [Thread-5 (processor)] — 'i'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    tasks[key]()
+    ~~~~~^^^^^
+KeyError: 'i'
+[2025-11-10 14:05:04] [ERROR] [Thread-5 (processor)] — 'c'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    tasks[key]()
+    ~~~~~^^^^^
+KeyError: 'c'
+[2025-11-10 14:05:04] [ERROR] [Thread-5 (processor)] — '.'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    tasks[key]()
+    ~~~~~^^^^^
+KeyError: '.'
+[2025-11-10 14:05:04] [INFO] [Thread-5 (processor)] — I am not allowed to do that
+[2025-11-10 14:05:32] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 14:05:41] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 14:05:41] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 14:05:41] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 14:05:42] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 14:05:52] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 14:05:52] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 14:05:59] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 14:05:59] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 14:06:01] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Play music.
+[2025-11-10 14:06:01] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 14:06:13] [INFO] [Thread-5 (processor)] — Answered the query result- Task Detected: play music.
+[2025-11-10 14:06:13] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-10 14:06:17] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-10 21:18:12] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 21:18:12] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 21:18:12] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 21:18:13] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 21:18:15] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 21:18:15] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 21:18:22] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 21:18:22] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 21:18:24] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Play music.
+[2025-11-10 21:18:24] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 21:18:40] [INFO] [Thread-5 (processor)] — Answered the query result- Task Detected: Play music.
+[2025-11-10 21:18:40] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-10 21:18:43] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-10 21:18:43] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-10 21:18:45] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-10 21:19:30] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 21:19:30] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 21:19:37] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 21:19:37] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 21:19:38] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Yes.
+[2025-11-10 21:19:38] [INFO] [Thread-5 (processor)] — Task cancelled
+[2025-11-10 21:21:49] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 21:21:59] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 21:21:59] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 21:21:59] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 21:22:00] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 21:22:03] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 21:22:03] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 21:22:10] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 21:22:10] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 21:22:11] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Play music.
+[2025-11-10 21:22:11] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 21:22:24] [INFO] [Thread-5 (processor)] — Answered the query result- Task Detected: play music.
+[2025-11-10 21:22:24] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-10 21:22:24] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 21:22:27] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-10 21:22:27] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-10 21:22:29] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-10 21:22:32] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 21:22:32] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 21:22:33] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Task detected, play music. Do you want to continue? Yes.
+[2025-11-10 21:24:08] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 21:25:12] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 21:25:12] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 21:25:12] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 21:25:13] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 21:25:57] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 21:25:57] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 21:26:02] [INFO] [Thread-3 (get_audio)] — Silence detected so stopping early
+[2025-11-10 21:26:02] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 21:26:02] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 21:26:06] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  game king
+[2025-11-10 21:26:06] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 21:26:08] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 21:27:32] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 21:27:32] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 21:27:32] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 21:27:33] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 21:27:35] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 21:27:35] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 21:27:41] [INFO] [Thread-3 (get_audio)] — Silence detected so stopping early
+[2025-11-10 21:27:41] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 21:27:41] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 21:27:45] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  And bye bye everyone!
+[2025-11-10 21:27:45] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 21:27:47] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 21:28:19] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 21:28:19] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 21:28:19] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 21:28:20] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 21:28:22] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 21:28:22] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 21:28:26] [INFO] [Thread-3 (get_audio)] — Silence detected so stopping early
+[2025-11-10 21:28:26] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 21:28:26] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 21:28:29] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Jane Nuzek
+[2025-11-10 21:28:29] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 21:28:31] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 21:29:45] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 21:29:45] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 21:29:45] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 21:29:46] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 21:29:48] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 21:29:48] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 21:30:02] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 21:30:02] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 21:30:04] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Play music.
+[2025-11-10 21:30:04] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 21:30:09] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 21:30:26] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 21:30:26] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 21:30:26] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 21:30:27] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 21:30:28] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 21:30:28] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 21:30:42] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 21:30:42] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 21:30:44] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Let me see.
+[2025-11-10 21:30:44] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 21:30:46] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 21:31:03] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 21:31:03] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 21:31:03] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 21:31:04] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 21:31:05] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 21:31:05] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 21:31:10] [INFO] [Thread-3 (get_audio)] — Silence detected so stopping early
+[2025-11-10 21:31:10] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 21:31:10] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 21:31:11] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Play music.
+[2025-11-10 21:31:11] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 21:31:27] [INFO] [Thread-5 (processor)] — Answered the query result- Stored the information Task = Play Music.
+[2025-11-10 21:31:27] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-10 21:31:30] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-10 21:31:37] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 21:31:37] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 21:31:48] [INFO] [Thread-3 (get_audio)] — Silence detected so stopping early
+[2025-11-10 21:31:48] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 21:31:48] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 21:31:50] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Thank you very much. Thank you.
+[2025-11-10 21:31:50] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 21:31:52] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 21:33:55] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 21:33:55] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 21:33:55] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 21:33:56] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 21:33:58] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 21:33:58] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 21:34:04] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 21:34:04] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 21:34:05] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Play music.
+[2025-11-10 21:34:05] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 21:34:17] [INFO] [Thread-5 (processor)] — Answered the query result- Task Detected: play music.
+[2025-11-10 21:34:17] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-10 21:34:17] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 21:34:20] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-10 21:34:20] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-10 21:34:22] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-10 21:34:24] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 21:34:24] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 21:34:25] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Task detected. Play music. Do you want to continue? Yes.
+[2025-11-10 21:41:41] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 21:59:41] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 21:59:41] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 21:59:41] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 21:59:42] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 21:59:44] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 21:59:44] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 21:59:50] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 21:59:50] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 21:59:52] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Play music live.
+[2025-11-10 21:59:52] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 21:59:54] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 22:00:03] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 22:00:03] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 22:00:03] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 22:00:03] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 22:01:02] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 22:01:02] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:01:08] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:01:08] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:01:09] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Play music and restricted.
+[2025-11-10 22:01:09] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 22:01:15] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 22:01:23] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 22:01:23] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 22:01:23] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 22:01:24] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 22:02:06] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 22:02:06] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:02:12] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:02:12] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:02:13] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Play music unrestricted.
+[2025-11-10 22:02:13] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 22:02:29] [INFO] [Thread-5 (processor)] — Answered the query result- Task Detected: Play music unrestricted.
+[2025-11-10 22:02:29] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-10 22:02:29] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:02:32] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-10 22:02:32] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-10 22:02:34] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-10 22:02:35] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:02:35] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:02:36] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Task detected. Play music unrestricted. Do you want to continue? Yes.
+[2025-11-10 22:03:16] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 22:03:25] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 22:03:25] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 22:03:25] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 22:03:26] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 22:03:27] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 22:03:27] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:03:34] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:03:34] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:03:35] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Play music and restricted.
+[2025-11-10 22:03:35] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 22:03:37] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 22:03:47] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 22:03:47] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 22:03:47] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 22:03:48] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 22:03:54] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 22:03:54] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:04:00] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:04:00] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:04:02] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  play music unrestricted.
+[2025-11-10 22:04:02] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 22:04:17] [INFO] [Thread-5 (processor)] — Answered the query result- Stored the information task = play music unrestricted.
+[2025-11-10 22:04:17] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-10 22:04:21] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-10 22:04:41] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 22:04:41] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:04:47] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:04:47] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:04:48] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Play music unrestricted.
+[2025-11-10 22:04:48] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 22:05:05] [INFO] [Thread-5 (processor)] — Answered the query result- Task Detected: Play music unrestricted.
+[2025-11-10 22:05:05] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:05:05] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-10 22:05:08] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-10 22:05:08] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-10 22:05:10] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-10 22:05:11] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:05:11] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:05:12] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Task detected, playing music unrestricted. Do you want to continue? Yes.
+[2025-11-10 22:05:12] [ERROR] [Thread-5 (processor)] — 'task: play music'
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 48, in save_memory
+    tasks[key](result)
+    ~~~~~^^^^^
+KeyError: 'task: play music'
+[2025-11-10 22:05:12] [INFO] [Thread-5 (processor)] — I am not allowed to do that
+[2025-11-10 22:05:51] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 22:06:00] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 22:06:00] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 22:06:00] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 22:06:01] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 22:06:05] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 22:06:05] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:06:11] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:06:11] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:06:13] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  play music and restricted.
+[2025-11-10 22:06:13] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 22:06:15] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 22:06:23] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 22:06:23] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 22:06:23] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 22:06:24] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 22:06:26] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 22:06:26] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:06:32] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:06:32] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:06:33] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Play music and restricted.
+[2025-11-10 22:06:33] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 22:06:35] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 22:06:43] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 22:06:43] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 22:06:43] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 22:06:44] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 22:06:46] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 22:06:46] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:06:52] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:06:52] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:06:54] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  play music and restricted.
+[2025-11-10 22:06:54] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 22:06:56] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 22:07:32] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 22:07:32] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 22:07:32] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 22:07:33] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 22:07:36] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 22:07:36] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:07:42] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:07:42] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:07:44] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  play music, silent patient.
+[2025-11-10 22:07:44] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 22:07:47] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 22:07:56] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 22:07:56] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 22:07:56] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 22:07:57] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 22:08:01] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 22:08:01] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:08:07] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:08:07] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:08:08] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  play music, painted silence.
+[2025-11-10 22:08:08] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 22:08:23] [INFO] [Thread-5 (processor)] — Answered the query result- Task Detected: play music, painted silence.
+[2025-11-10 22:08:24] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:08:24] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-10 22:08:27] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-10 22:08:27] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-10 22:08:29] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-10 22:08:30] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:08:30] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:08:31] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Task detected, play music, paint and silence. Do you want to continue? Yes.
+[2025-11-10 22:13:15] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 22:13:55] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 22:13:55] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 22:13:55] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 22:13:56] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 22:13:57] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 22:14:49] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 22:14:49] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 22:14:49] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 22:14:50] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 22:14:52] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 22:14:52] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:14:58] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:14:58] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:15:00] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Play music, paint and silence.
+[2025-11-10 22:15:00] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 22:15:59] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 22:16:07] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 22:16:07] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 22:16:07] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 22:16:08] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 22:16:12] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 22:16:12] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:16:18] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:16:18] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:16:19] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Play music, painted silence.
+[2025-11-10 22:16:19] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 22:16:30] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 22:16:30] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:16:36] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:16:36] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:16:37] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Stop music!
+[2025-11-10 22:16:37] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 22:17:57] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 22:20:24] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 22:20:24] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 22:20:24] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 22:20:25] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 22:20:29] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 22:20:29] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:20:35] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:20:35] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:20:36] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Play music and holy.
+[2025-11-10 22:20:50] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 22:20:50] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:20:56] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:20:56] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:20:57] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Playing music and holly.
+[2025-11-10 22:20:57] [INFO] [Thread-5 (processor)] — I am not allowed to do that
+[2025-11-10 22:21:04] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 22:21:04] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:21:10] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:21:10] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:21:11] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Play music and hoolly.
+[2025-11-10 22:21:26] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 22:21:26] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:21:32] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:21:32] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:21:34] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Play music, do a lie.
+[2025-11-10 22:21:48] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 22:21:48] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:21:54] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:21:54] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:21:55] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Play music the lie.
+[2025-11-10 22:22:12] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 22:22:12] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:22:18] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:22:18] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:22:22] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Sweluvоп聪明, stop music News
+[2025-11-10 22:22:42] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 22:27:32] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 22:27:32] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 22:27:32] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 22:27:33] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 22:27:35] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 22:27:35] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:27:41] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:27:41] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:27:43] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Play music.
+[2025-11-10 22:27:53] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 22:27:53] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:27:59] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:27:59] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:28:00] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Stop music
+[2025-11-10 22:28:21] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 22:28:21] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:28:27] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:28:27] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:28:28] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Play music.
+[2025-11-10 22:28:59] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 22:29:07] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 22:29:07] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 22:29:07] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 22:29:08] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 22:29:12] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 22:29:12] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:29:18] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:29:18] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:29:22] [INFO] [Thread-4 (audio_to_text)] — Converted audio text - 68
+[2025-11-10 22:29:22] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 22:29:24] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 22:29:34] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 22:29:34] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 22:29:34] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 22:29:35] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 22:29:36] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 22:29:36] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:29:42] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:29:42] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:29:44] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Play music.
+[2025-11-10 22:29:54] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 22:29:54] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:30:00] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:30:00] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:30:01] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Stop music.
+[2025-11-10 22:30:42] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 22:30:42] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:30:48] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:30:48] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:30:51] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Do you have music?
+[2025-11-10 22:30:51] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-10 22:30:53] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-10 22:31:02] [INFO] [MainThread] — ==Assistant started==
+[2025-11-10 22:31:02] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-10 22:31:02] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-10 22:31:03] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-10 22:31:12] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-10 22:31:12] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-10 22:31:18] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-10 22:31:18] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-10 22:31:19] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Stop music.
+[2025-11-10 22:31:43] [INFO] [MainThread] — Assistant shutting down gracefully.

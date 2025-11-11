@@ -58,5 +58,100 @@
         "query": " How is cappuccino made?",
         "response": " Cappucino is made with coffee and milk.",
         "data_type": "question"
+    },
+    {
+        "query": " How is cappuccino made?",
+        "response": " Cappucino is made with coffee and milk.",
+        "data_type": "question"
+    },
+    {
+        "query": " What is my name?",
+        "response": " Your name is Mahipal Singh.",
+        "data_type": "question"
+    },
+    {
+        "query": " What is my name?",
+        "response": " Your name is Mahipal Singh.",
+        "data_type": "question"
+    },
+    {
+        "query": " What is my name?",
+        "response": " Your name is Mahipal Singh.",
+        "data_type": "question"
+    },
+    {
+        "query": " What's my favorite book?",
+        "response": " Your favorite book is Good Girls Guide to Murder.",
+        "data_type": "question"
+    },
+    {
+        "query": " What's my favorite sport?",
+        "response": " Your favorite sport is chess.",
+        "data_type": "question"
+    },
+    {
+        "query": " My brothers, name is Sri Pal Singh.",
+        "response": " Stored the information brothers_name = Sri Pal Singh",
+        "data_type": "fact"
+    },
+    {
+        "query": " What's his name?",
+        "response": " Your brother's name is Sri Pal Singh.",
+        "data_type": "question"
+    },
+    {
+        "query": " Who is a banker?",
+        "response": " A banker is a person engaged in the business of banking.",
+        "data_type": "question"
+    },
+    {
+        "query": " What did I ask you last time about banking?",
+        "response": " You asked me about who a banker is last time.",
+        "data_type": "question"
+    },
+    {
+        "query": " Who is Agatha Christie and her top books?",
+        "response": " Agatha Christie was a mystery writer who published works like 'Murder on the Orient Express' and 'The Mystery of the Blue Train.'",
+        "data_type": "question"
+    },
+    {
+        "query": " Samarayas and tell me all information about Agatha Christie.",
+        "response": " Agatha Christie was a mystery writer who published works like 'Murder on the Orient Express' and 'The Mystery of the Blue Train.' She can also be considered a queen of all publishing genres as she is one of the top-selling authors in history, with her combined works selling more than 2 billion copies worldwide. Christie was born Agatha Mary Clarissa Miller on September 15, 1890, in Torquay, Devon, in the southwest part of England. She was a Royal Flying Corps pilot during World War I and published her first book, The Mysterious Affair at Styles, in 1920; the story focused on the murder of a rich heiress and introduced readers to one of Christie's most famous characters, Belgian detective Hercule Poirot. She dealt with tumultuous personal life events, such as her famous disappearance in 1926, which lasted for eleven days. Christie is often referred to as the \"Queen of Crime\" and the \"Queen of Mystery.\"",
+        "data_type": "question"
+    },
+    {
+        "query": " which was her top book.",
+        "response": " Her top book was 'Murder on the Orient Express.'",
+        "data_type": "question"
+    },
+    {
+        "query": " Do you know when Agatha Kristi died?",
+        "response": " Agatha Christie died on January 12, 1976.",
+        "data_type": "question"
+    },
+    {
+        "query": " What was her age when she died?",
+        "response": " Agatha Christie was 85 years old when she died.",
+        "data_type": "question"
+    },
+    {
+        "query": " What is the best thing about Agatha Christie?",
+        "response": " The best thing about Agatha Christie is her success as an author, earning titles like the \"Queen of Crime\" and the \"Queen of Mystery.\" Her combined works have sold more than 2 billion copies worldwide.",
+        "data_type": "question"
+    },
+    {
+        "query": " Who is Adam?",
+        "response": " Your question refers to \"Adam\" but there is no information about him in the provided data (Memory, Context, or History). I don't have enough information.",
+        "data_type": "question"
+    },
+    {
+        "query": " What is my name?",
+        "response": " Your name is Mahipal Singh.",
+        "data_type": "question"
+    },
+    {
+        "query": "TASK:  play music unrestricted.",
+        "response": " Stored the information task = play music unrestricted.",
+        "data_type": "fact"
     }
 ]

@@ -10,3 +10,6 @@ whisper
 pyaudio
 pyttsx3
 pvporcupine
+numpy
+pyautogui
+keyboard

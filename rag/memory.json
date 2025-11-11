@@ -26,5 +26,21 @@
     {
         "fact": "FACT: coffee and milk are used to make a cappucino.",
         "data_type": "fact"
+    },
+    {
+        "fact": "FACT:  stored the information favorite_sport = chess.",
+        "data_type": "fact"
+    },
+    {
+        "fact": "FACT:  stored the information favorite_author = agatha christie",
+        "data_type": "fact"
+    },
+    {
+        "fact": "FACT:  stored the information brothers_name = sri pal singh",
+        "data_type": "fact"
+    },
+    {
+        "fact": "FACT:  stored the information task = play music unrestricted.",
+        "data_type": "fact"
     }
 ]
