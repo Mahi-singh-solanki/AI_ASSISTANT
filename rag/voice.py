@@ -2,16 +2,19 @@ import whisper
 import wave
 import sys,os
 import pyaudio,struct
-import pyttsx3,pvporcupine
+import pvporcupine
 from rag.globals import wake_event,mic_lock,input_queue,output_queue,audio_queue
 from log.log import get_logger
 import numpy as np
+import pyttsx3
 
 logger=get_logger()
 
-access_key =os.getenv("ACCESS_KEY")
+access_key = ""
 KEYWORD_PATH = rf"C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\hey-max_en_windows_v3_0_0.ppn"
 SENSITIVITY = 0.6
+
+
 
 def wake_up():
     porcupine=pvporcupine.create(
@@ -105,8 +108,14 @@ def text_to_audio():
     try:
         while True:
             text=output_queue.get()
+            # engine=pyttsx3.init()
+            # voices=engine.getProperty("voices")
+            # engine.setProperty("voice",voices[1].id)
+            # engine.setProperty("rate", 190)
             logger.info("Text is converting to audio")
             pyttsx3.speak(text)
+            # engine.say(text)
+            # engine.runAndWait()
             logger.info("converted to audio")
     except Exception as e:
         logger.exception(e)

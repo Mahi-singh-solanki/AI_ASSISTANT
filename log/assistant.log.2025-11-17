@@ -1,0 +1,1056 @@
+[2025-11-17 10:01:55] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 10:01:55] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 10:01:55] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 10:01:57] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 10:02:02] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 10:02:02] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 10:02:08] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 10:02:08] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 10:02:14] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Search Who is a long mask?
+[2025-11-17 10:02:14] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 10:02:27] [INFO] [Thread-5 (processor)] — Answered the query result- Stored the information search = "Who is a long mask?"
+[2025-11-17 10:02:27] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 10:02:31] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 10:04:24] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 10:04:46] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 10:04:46] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 10:04:46] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 10:04:47] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 10:04:51] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 10:04:51] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 10:04:54] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 10:05:03] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 10:05:03] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 10:05:03] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 10:05:05] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 10:05:07] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 10:05:07] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 10:05:13] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 10:05:13] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 10:05:18] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Search Who is Elon Musk
+[2025-11-17 10:05:25] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 10:05:25] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 10:05:27] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 10:05:39] [INFO] [Thread-5 (processor)] — Answered the query result- Stored the information Elon Musk = "South African-born American entrepreneur, businessman, and engineer known for his leadership roles in several high-profile technology companies."
+[2025-11-17 10:05:39] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 10:05:49] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 10:05:54] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 10:12:57] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 10:12:57] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 10:12:57] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 10:12:58] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 10:13:00] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 10:13:00] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 10:13:06] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 10:13:06] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 10:13:11] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Search Who Is Elon Musk
+[2025-11-17 10:13:20] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 10:13:20] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 10:13:20] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 10:13:22] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 10:14:12] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 10:14:23] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 10:14:23] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 10:14:23] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 10:14:24] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 10:14:42] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 10:14:42] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 10:14:48] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 10:14:48] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 10:14:53] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Who is Elon Musk?
+[2025-11-17 10:14:53] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 10:14:56] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 10:15:06] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 10:15:06] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 10:15:06] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 10:15:08] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 10:15:14] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 10:15:14] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 10:15:20] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 10:15:20] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 10:15:24] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Search Who Is Elon Musk
+[2025-11-17 10:15:33] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 10:15:33] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 10:15:33] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 10:15:36] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 10:17:24] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 10:17:56] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 10:17:56] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 10:17:56] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 10:17:57] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 10:18:00] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 10:18:00] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 10:18:06] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 10:18:06] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 10:18:10] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Search Who Is Elon Musk
+[2025-11-17 10:18:20] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 10:18:20] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 10:18:20] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 10:18:23] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 10:19:54] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 10:20:04] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 10:20:04] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 10:20:04] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 10:20:05] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 10:20:07] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 10:20:07] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 10:20:13] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 10:20:13] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 10:20:18] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Search Who Is Elon Musk
+[2025-11-17 10:20:27] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 10:20:27] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 10:20:27] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 10:20:29] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 10:20:47] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 10:20:58] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 10:20:58] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 10:20:58] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 10:20:59] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 10:21:09] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 10:21:09] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 10:21:15] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 10:21:15] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 10:21:19] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Search Who is Elon Musk
+[2025-11-17 10:21:30] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 10:22:29] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 10:22:41] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 10:22:41] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 10:22:41] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 10:22:42] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 10:22:50] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 10:22:50] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 10:22:57] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 10:22:57] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 10:23:01] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Who is Elon Musk?
+[2025-11-17 10:23:01] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 10:23:16] [INFO] [Thread-5 (processor)] — Answered the query result- Your question refers to Elon Musk. He is a South African-born American entrepreneur, businessman, and engineer known for his leadership roles in several high-profile technology companies.
+[2025-11-17 10:23:16] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 10:23:27] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 10:23:30] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 10:23:30] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 10:23:36] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 10:23:36] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 10:23:41] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Tell me everything you know about Elon Musk.
+[2025-11-17 10:23:41] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 10:26:09] [INFO] [Thread-5 (processor)] — Answered the query result- Stored the information Elon Reeve Musk = "South African-born American entrepreneur, businessman, and engineer known for his leadership roles in several high-profile technology companies."
+
+Elon Reeve Musk was born on June 28, 1971, in Pretoria, South Africa. He holds citizenship in South Africa, Canada, and the United States, having obtained Canadian citizenship through his mother and becoming a U.S. citizen in 2002.
+
+Musk earned bachelor's degrees in physics and economics from the University of Pennsylvania in 1997. He co-founded Zip2, an online city guide software company, which was sold to Compaq in 1999 for $307 million. Later, he co-founded X.com, an online payment company that merged with Confinity to become PayPal, which was acquired by eBay in 2002.
+
+Using the proceeds from these ventures, Musk funded his next major projects. In 2002, he founded SpaceX, a space technology company, serving as its CEO and chief engineer, with the goal of reducing space transportation costs and enabling the colonization of Mars.
+
+In addition to SpaceX, Musk joined Tesla, Inc. (originally Tesla Motors), an electric vehicle and clean energy company, in 2004, initially as chairman and product architect, becoming CEO in 2008. Under his leadership, Tesla developed the Roadster, Model S, Model X, and Model 3, and expanded into solar energy products and battery storage.
+
+Musk is also the founder and CEO of The Boring Company, which aims to reduce urban traffic through underground tunnel networks, and co-founded Neuralink in 2016 to develop brain-machine interface technology. In 2015, he co-founded OpenAI, a nonprofit artificial intelligence research organization, to promote safe and beneficial AI.
+
+In 2022, Musk acquired Twitter, a major social media platform, and rebranded it as X in July 2023. He has been the wealthiest person in the world since 2021, with an estimated net worth of around $500 billion as of October 2025 according to Forbes.
+
+Musk served as the Commissioner of the Department of Government Efficiency (DOGE) during the second administration of U.S. President Donald Trump from 2022 to 2025, stepping down in May 2025. He has been married twice and is the father of at least 14 children.
+
+Musk is known for his public statements on technology, artificial intelligence, space exploration, and politics, which have drawn both acclaim and controversy.
+[2025-11-17 10:26:09] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 10:27:05] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 20:37:54] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 20:37:54] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 20:37:54] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 20:37:55] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 20:39:11] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 20:39:11] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 20:39:17] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 20:39:17] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 20:39:24] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  The next class doesn't have any chalk either. The entire class burst out laughing at his innocent mistake. The principal heard the...
+[2025-11-17 20:39:24] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 20:39:46] [INFO] [Thread-5 (processor)] — Answered the query result- Stored the information Class = "A group of students gathering for education and learning".
+Principal = "The head or leader of a school".
+In this scenario, it refers to the principal hearing the laughter coming from the class.
+[2025-11-17 20:39:46] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 20:39:59] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 20:40:53] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 20:40:53] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 20:40:59] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 20:40:59] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 20:41:04] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Search what is embeddings in ML.
+[2025-11-17 20:41:14] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 20:41:14] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 20:41:14] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 20:41:16] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 20:44:51] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 20:45:03] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 20:45:03] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 20:45:03] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 20:45:04] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 20:45:07] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 20:45:07] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 20:45:11] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 20:45:21] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 20:45:21] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 20:45:21] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 20:45:22] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 20:45:24] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 20:45:24] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 20:45:30] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 20:45:30] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 20:45:35] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Search water embeddings in ML.
+[2025-11-17 20:46:08] [ERROR] [Thread-5 (processor)] — Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.llm-output") to be visible
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 51, in save_memory
+    feedback=tasks[key](result)
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\tasks.py", line 105, in web_search
+    page.wait_for_selector("div.llm-output")
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\playwright\sync_api\_generated.py", line 8182, in wait_for_selector
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.wait_for_selector(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+            selector=selector, timeout=timeout, state=state, strict=strict
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        )
+        ^
+    )
+    ^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\playwright\_impl\_page.py", line 422, in wait_for_selector
+    return await self._main_frame.wait_for_selector(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\playwright\_impl\_frame.py", line 369, in wait_for_selector
+    await self._channel.send(
+        "waitForSelector", self._timeout, locals_to_params(locals())
+    )
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.llm-output") to be visible
+
+[2025-11-17 20:46:08] [INFO] [Thread-5 (processor)] — I am not allowed to do that
+[2025-11-17 20:46:55] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 20:47:05] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 20:47:05] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 20:47:05] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 20:47:07] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 20:47:08] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 20:47:08] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 20:47:14] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 20:47:14] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 20:47:19] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Search water embeddings in ML.
+[2025-11-17 20:47:37] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 20:47:37] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 20:47:37] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 20:47:39] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 20:47:55] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 20:48:05] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 20:48:05] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 20:48:05] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 20:48:06] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 20:48:08] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 20:48:08] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 20:48:14] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 20:48:14] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 20:48:19] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Search what are embeddings in ML.
+[2025-11-17 20:48:38] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 20:49:12] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 20:49:31] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 20:49:31] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 20:49:31] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 20:49:32] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 20:49:40] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 20:49:40] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 20:49:46] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 20:49:46] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 20:49:52] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Search Who is Narendra Modi?
+[2025-11-17 20:50:01] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 20:50:56] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 20:50:56] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 20:50:58] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 20:51:18] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 20:51:18] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 20:51:24] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 20:51:24] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 20:51:27] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Search, What is quantum mechanics?
+[2025-11-17 20:51:36] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 20:52:37] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 20:52:37] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 20:52:38] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 20:52:47] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 20:52:47] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 20:52:47] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 20:52:48] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 20:52:50] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 20:52:50] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 20:52:56] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 20:52:56] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 20:52:59] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Explain me in short what is quantum mechanics.
+[2025-11-17 20:52:59] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 20:53:18] [INFO] [Thread-5 (processor)] — Answered the query result- Quantum Mechanics is a fundamental physical theory that explains the behavior of matter and light at atomic and subatomic scales, where classical physics fails to provide accurate predictions. It describes phenomena like wave-particle duality, superposition, quantum entanglement, and quantum tunneling. Despite its success in making precise predictions, the interpretation of what it reveals about reality remains a subject of debate among physicists and philosophers.
+[2025-11-17 20:53:18] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 20:53:41] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 20:53:47] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 20:53:47] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 20:53:53] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 20:53:53] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 20:53:57] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Explain me in short what are embeddings.
+[2025-11-17 20:53:57] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 20:54:15] [INFO] [Thread-5 (processor)] — Answered the query result- Embeddings are numerical representations of complex data mapped into a lower-dimensional vector space. They capture semantic, syntactic, or contextual relationships to enable machine learning models to process real-world data more effectively. They are learned automatically from data through algorithms like neural networks and are used in various tasks such as natural language processing, computer vision, and recommendation systems.
+[2025-11-17 20:54:15] [INFO] [Thread-5 (processor)] — I am not allowed to do that
+[2025-11-17 20:54:15] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 20:54:37] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 20:59:02] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 21:18:42] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 21:18:42] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 21:18:42] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 21:18:43] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 21:18:45] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 21:18:45] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 21:18:51] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 21:18:51] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 21:18:55] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Get my system info.
+[2025-11-17 21:18:55] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 21:19:04] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 21:19:40] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 21:19:49] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 21:19:49] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 21:19:49] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 21:19:50] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 21:19:56] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 21:19:56] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 21:20:02] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 21:20:02] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 21:20:05] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Get my system info
+[2025-11-17 21:20:05] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 21:20:14] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 21:25:18] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 22:04:47] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 22:04:47] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 22:04:47] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 22:04:48] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 22:04:52] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 22:04:52] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 22:04:57] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 22:05:48] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 22:05:48] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 22:05:48] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 22:05:49] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 22:06:03] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 22:06:03] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 22:06:09] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 22:06:09] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 22:06:13] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Remind me to write my homework at 7pm.
+[2025-11-17 22:06:13] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 22:06:14] [ERROR] [Thread-5 (processor)] — 'Input to ChatPromptTemplate is missing variables {\'\\n    "text"\'}.  Expected: [\'\\n    "text"\', \'context\', \'history\', \'memory\', \'question\'] Received: [\'context\', \'question\', \'history\', \'memory\']\nNote: if you intended {\n    "text"} to be part of the string and not a variable, please escape it with double curly braces like: \'{{\n    "text"}}\'.\nFor troubleshooting, visit: https://docs.langchain.com/oss/python/langchain/errors/INVALID_PROMPT_INPUT '
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 187, in processor
+    result=chain.invoke({"context":context,"question":question,"history":history,"memory":memory_data})
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_core\runnables\base.py", line 3088, in invoke
+    input_ = context.run(step.invoke, input_, config, **kwargs)
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_core\prompts\base.py", line 211, in invoke
+    return self._call_with_config(
+           ~~~~~~~~~~~~~~~~~~~~~~^
+        self._format_prompt_with_error_handling,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        serialized=self._serialized,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_core\runnables\base.py", line 2021, in _call_with_config
+    context.run(
+    ~~~~~~~~~~~^
+        call_func_with_variable_args,  # type: ignore[arg-type]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    ),
+    ^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_core\runnables\config.py", line 428, in call_func_with_variable_args
+    return func(input, **kwargs)  # type: ignore[call-arg]
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_core\prompts\base.py", line 184, in _format_prompt_with_error_handling
+    inner_input_ = self._validate_input(inner_input)
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_core\prompts\base.py", line 178, in _validate_input
+    raise KeyError(
+        create_message(message=msg, error_code=ErrorCode.INVALID_PROMPT_INPUT)
+    )
+KeyError: 'Input to ChatPromptTemplate is missing variables {\'\\n    "text"\'}.  Expected: [\'\\n    "text"\', \'context\', \'history\', \'memory\', \'question\'] Received: [\'context\', \'question\', \'history\', \'memory\']\nNote: if you intended {\n    "text"} to be part of the string and not a variable, please escape it with double curly braces like: \'{{\n    "text"}}\'.\nFor troubleshooting, visit: https://docs.langchain.com/oss/python/langchain/errors/INVALID_PROMPT_INPUT '
+[2025-11-17 22:08:32] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 22:08:41] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 22:08:41] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 22:08:41] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 22:08:42] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 22:08:43] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 22:08:43] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 22:08:49] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 22:08:49] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 22:08:53] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  They remind me to do my homework in 10 minutes.
+[2025-11-17 22:08:53] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 22:08:53] [ERROR] [Thread-5 (processor)] — 'Input to ChatPromptTemplate is missing variables {\'\\n    "text"\'}.  Expected: [\'\\n    "text"\', \'context\', \'history\', \'memory\', \'question\'] Received: [\'context\', \'question\', \'history\', \'memory\']\nNote: if you intended {\n    "text"} to be part of the string and not a variable, please escape it with double curly braces like: \'{{\n    "text"}}\'.\nFor troubleshooting, visit: https://docs.langchain.com/oss/python/langchain/errors/INVALID_PROMPT_INPUT '
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 187, in processor
+    result=chain.invoke({"context":context,"question":question,"history":history,"memory":memory_data})
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_core\runnables\base.py", line 3088, in invoke
+    input_ = context.run(step.invoke, input_, config, **kwargs)
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_core\prompts\base.py", line 211, in invoke
+    return self._call_with_config(
+           ~~~~~~~~~~~~~~~~~~~~~~^
+        self._format_prompt_with_error_handling,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        serialized=self._serialized,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_core\runnables\base.py", line 2021, in _call_with_config
+    context.run(
+    ~~~~~~~~~~~^
+        call_func_with_variable_args,  # type: ignore[arg-type]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    ),
+    ^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_core\runnables\config.py", line 428, in call_func_with_variable_args
+    return func(input, **kwargs)  # type: ignore[call-arg]
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_core\prompts\base.py", line 184, in _format_prompt_with_error_handling
+    inner_input_ = self._validate_input(inner_input)
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_core\prompts\base.py", line 178, in _validate_input
+    raise KeyError(
+        create_message(message=msg, error_code=ErrorCode.INVALID_PROMPT_INPUT)
+    )
+KeyError: 'Input to ChatPromptTemplate is missing variables {\'\\n    "text"\'}.  Expected: [\'\\n    "text"\', \'context\', \'history\', \'memory\', \'question\'] Received: [\'context\', \'question\', \'history\', \'memory\']\nNote: if you intended {\n    "text"} to be part of the string and not a variable, please escape it with double curly braces like: \'{{\n    "text"}}\'.\nFor troubleshooting, visit: https://docs.langchain.com/oss/python/langchain/errors/INVALID_PROMPT_INPUT '
+[2025-11-17 22:09:32] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 22:09:32] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 22:09:38] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 22:09:38] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 22:09:41] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Remind me to do my homework in 10 minutes.
+[2025-11-17 22:10:22] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 22:10:30] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 22:10:30] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 22:10:30] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 22:10:31] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 22:10:33] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 22:10:33] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 22:10:39] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 22:10:39] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 22:10:42] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Remind me to do my homework in 10 minutes.
+[2025-11-17 22:10:42] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 22:10:58] [INFO] [Thread-5 (processor)] — Answered the query result- "{
+    "text": "Do your homework",
+    "time": "2025-11-07 14:45:00",
+    "repeat": "none",   # none/daily/weekly
+    "status": "pending"
+}"
+[2025-11-17 22:10:58] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 22:11:12] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 22:11:55] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 22:12:05] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 22:12:05] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 22:12:05] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 22:12:06] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 22:12:13] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 22:12:13] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 22:12:19] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 22:12:19] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 22:12:23] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Remind me to do my homework in 10 minutes.
+[2025-11-17 22:12:23] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 22:12:41] [INFO] [Thread-5 (processor)] — Answered the query result- "{
+    "text": "Do homework",
+    "time": "2025-11-07 14:45:00", #use current time for reference
+    "repeat": "none",   # none/daily/weekly
+    "status": "pending"
+}"
+[2025-11-17 22:12:41] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 22:12:58] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 22:13:53] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 22:14:03] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 22:14:03] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 22:14:03] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 22:14:04] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 22:14:06] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 22:14:06] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 22:14:12] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 22:14:12] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 22:14:16] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Remind me in 10 minutes to do my homework.
+[2025-11-17 22:14:16] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 22:14:33] [INFO] [Thread-5 (processor)] — Answered the query result- "{
+    \"text\": \"Do your homework\",
+    \"time\": \"2025-11-07 14:45:00\",
+    \"repeat\": \"none\",
+    \"status\": \"pending\"
+}"
+[2025-11-17 22:14:33] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 22:14:53] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 22:17:20] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 22:17:29] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 22:17:29] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 22:17:29] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 22:17:30] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 22:17:32] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 22:17:32] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 22:17:38] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 22:17:38] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 22:17:42] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Remind me in 10 minutes to do my homework.
+[2025-11-17 22:17:42] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 22:17:57] [INFO] [Thread-5 (processor)] — Answered the query result- "{
+    \"text\": \"do my homework\",
+    \"time\": \"10 minutes from current time\",
+    \"repeat\": \"none\",
+    \"status\": \"pending\"
+}"
+[2025-11-17 22:17:57] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 22:18:14] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 22:19:12] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 22:19:22] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 22:19:22] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 22:19:22] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 22:19:23] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 22:22:01] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 22:22:11] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 22:22:11] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 22:22:11] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 22:22:11] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 22:22:14] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 22:22:14] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 22:22:20] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 22:22:20] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 22:22:24] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Remind me to do my homework in 10 minutes.
+[2025-11-17 22:22:24] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 22:22:40] [INFO] [Thread-5 (processor)] — Answered the query result- "{
+    "text": "do my homework",
+    "time": "in 10 minutes",
+    "repeat": "none",
+    "status": "pending"
+}"
+[2025-11-17 22:22:40] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 22:22:48] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 22:23:06] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 22:23:06] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 22:23:12] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 22:23:12] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 22:23:16] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Remind me to do my homework tomorrow at 6pm.
+[2025-11-17 22:23:16] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 22:23:31] [INFO] [Thread-5 (processor)] — Answered the query result- "{
+    "text": "do your homework",
+    "time": "tomorrow at 6 pm",
+    "repeat": "none",
+    "status": "pending"
+}"
+[2025-11-17 22:23:31] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 22:23:40] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 22:25:18] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 22:25:18] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 22:25:24] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 22:25:24] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 22:25:29] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Remind me to do my homework on Tuesday weekly.
+[2025-11-17 22:25:29] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 22:25:43] [INFO] [Thread-5 (processor)] — Answered the query result- "{
+  "text": "do my homework",
+  "time": "on Tuesday",
+  "repeat": "weekly",
+  "status": "pending"
+}"
+[2025-11-17 22:25:43] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 22:25:51] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 22:26:44] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 22:26:44] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 22:26:50] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 22:26:50] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 22:26:54] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  remind me to do my homework at 6pm
+[2025-11-17 22:26:54] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 22:27:08] [INFO] [Thread-5 (processor)] — Answered the query result- "{
+    "text": "do my homework",
+    "time": "6pm",
+    "repeat": "none",
+    "status": "pending"
+}"
+[2025-11-17 22:27:08] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 22:27:17] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 22:28:05] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 22:29:29] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 22:29:29] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 22:29:29] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 22:29:30] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 22:29:32] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 22:29:32] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 22:29:38] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 22:29:38] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 22:29:42] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Remind me to drink water at 6pm.
+[2025-11-17 22:29:42] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 22:29:54] [INFO] [Thread-5 (processor)] — Answered the query result- "{
+    "text": "drink water",
+    "time": "6pm",
+    "repeat": "none",
+    "status": "pending"
+}"
+[2025-11-17 22:29:54] [ERROR] [Thread-5 (processor)] — cannot access local variable 'reminder' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 203, in processor
+    save_memory(question,result,data_type)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 47, in save_memory
+    reminder=a[1:len(reminder)-1]
+                     ^^^^^^^^
+UnboundLocalError: cannot access local variable 'reminder' where it is not associated with a value
+[2025-11-17 22:29:54] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 22:30:03] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 22:30:17] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 22:30:26] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 22:30:26] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 22:30:26] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 22:30:27] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 22:30:43] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 22:30:43] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 22:30:49] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 22:30:49] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 22:30:53] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Remind me to drink water in 10 minutes.
+[2025-11-17 22:30:53] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 22:31:05] [INFO] [Thread-5 (processor)] — Answered the query result- "{
+    "text": "Remember to drink water",
+    "time": "in 10 minutes",
+    "repeat": "none",
+    "status": "pending"
+}"
+[2025-11-17 22:31:05] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 22:31:14] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 22:31:29] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 22:31:39] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 22:31:39] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 22:31:39] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 22:31:40] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 22:31:45] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 22:31:45] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 22:31:51] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 22:31:51] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 22:31:55] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Remind me to drink water in 10 minutes.
+[2025-11-17 22:31:55] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 22:32:07] [INFO] [Thread-5 (processor)] — Answered the query result- "{
+    "text": "Remind me to drink water",
+    "time": "10 min",
+    "repeat": "none",
+    "status": "pending"
+}"
+[2025-11-17 22:32:07] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 22:32:15] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 22:33:04] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 22:34:24] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 22:34:24] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 22:34:24] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 22:34:25] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 22:34:27] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 22:34:27] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 22:34:33] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 22:34:33] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 22:34:37] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Remind me to drink water in 10 minutes.
+[2025-11-17 22:34:37] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 22:34:51] [INFO] [Thread-5 (processor)] — Answered the query result- "{
+    "text": "drink water",
+    "time": "10 minutes",
+    "repeat": "none",
+    "status": "pending"
+}"
+[2025-11-17 22:34:51] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 22:34:59] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 22:42:54] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 22:43:04] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 22:43:04] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 22:43:04] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 22:43:05] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 22:43:06] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 22:43:06] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 22:43:12] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 22:43:12] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 22:43:16] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Remind me in 10 minutes to drink water.
+[2025-11-17 22:43:16] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 22:43:33] [INFO] [Thread-5 (processor)] — Answered the query result- "{
+    "text": "drink water",
+    "time": "in 10 min (2025-11-17 22:53:16)",
+    "repeat": "none",
+    "status": "pending"
+}"
+[2025-11-17 22:43:33] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 22:43:46] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 22:44:02] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 22:44:12] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 22:44:12] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 22:44:12] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 22:44:13] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 22:44:21] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 22:44:21] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 22:44:27] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 22:44:27] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 22:44:31] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Remind me in 10 minutes to drink water.
+[2025-11-17 22:44:31] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 22:44:50] [INFO] [Thread-5 (processor)] — Answered the query result- "{
+    \"text\": \"remind me to drink water at 23:54\",
+    \"time\": \"in 10 minutes, which is 23:54\",
+    \"repeat\": \"none\",
+    \"status\": \"pending\"
+}"
+[2025-11-17 22:44:50] [ERROR] [Thread-5 (processor)] — Expecting property name enclosed in double quotes: line 2 column 5 (char 6)
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 206, in processor
+    save_memory(question,result,data_type)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 49, in save_memory
+    data=json.loads(reminder)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python313\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python313\Lib\json\decoder.py", line 345, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python313\Lib\json\decoder.py", line 361, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ~~~~~~~~~~~~~~^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 2 column 5 (char 6)
+[2025-11-17 22:44:50] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 22:45:10] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 22:46:34] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 22:46:44] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 22:46:44] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 22:46:44] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 22:46:45] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 22:46:48] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 22:46:48] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 22:46:54] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 22:46:54] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 22:46:58] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Remind me in 10 minutes to drink water.
+[2025-11-17 22:46:58] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 22:47:15] [INFO] [Thread-5 (processor)] — Answered the query result- "{
+    "text": "remind you to drink water",
+    "time": "2025-11-17 23:06:58",
+    "repeat": "none",
+    "status": "pending"
+}"
+[2025-11-17 22:47:15] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 22:47:28] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 22:48:40] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 22:48:49] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 22:48:49] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 22:48:49] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 22:48:50] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 22:48:52] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 22:48:52] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 22:48:58] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 22:48:58] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 22:49:02] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Remind me to drink water in 10 minutes.
+[2025-11-17 22:49:02] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 22:49:19] [INFO] [Thread-5 (processor)] — Answered the query result- "{
+    \"text\": \"remind me to drink water\",
+    \"time\": \"2025-11-17 23:09:02\",
+    \"repeat\": \"none\",
+    \"status\": \"pending\"
+}"
+[2025-11-17 22:49:19] [ERROR] [Thread-5 (processor)] — Expecting property name enclosed in double quotes: line 2 column 5 (char 6)
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 206, in processor
+    save_memory(question,result,data_type)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 49, in save_memory
+    data=json.loads(reminder)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python313\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python313\Lib\json\decoder.py", line 345, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python313\Lib\json\decoder.py", line 361, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ~~~~~~~~~~~~~~^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 2 column 5 (char 6)
+[2025-11-17 22:49:19] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 22:49:40] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 22:52:58] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 22:53:11] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 22:53:11] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 22:53:11] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 22:53:12] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 22:53:13] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 22:53:13] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 22:53:19] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 22:53:19] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 22:53:25] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Remind me to drink water in 10 minutes.
+[2025-11-17 22:53:25] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 22:53:27] [ERROR] [Thread-5 (processor)] — 'Input to ChatPromptTemplate is missing variables {\'\\n  "text"\'}.  Expected: [\'\\n  "text"\', \'context\', \'history\', \'memory\', \'question\'] Received: [\'context\', \'question\', \'history\', \'memory\']\nNote: if you intended {\n  "text"} to be part of the string and not a variable, please escape it with double curly braces like: \'{{\n  "text"}}\'.\nFor troubleshooting, visit: https://docs.langchain.com/oss/python/langchain/errors/INVALID_PROMPT_INPUT '
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 230, in processor
+    result=chain.invoke({"context":context,"question":question,"history":history,"memory":memory_data})
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_core\runnables\base.py", line 3088, in invoke
+    input_ = context.run(step.invoke, input_, config, **kwargs)
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_core\prompts\base.py", line 211, in invoke
+    return self._call_with_config(
+           ~~~~~~~~~~~~~~~~~~~~~~^
+        self._format_prompt_with_error_handling,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        serialized=self._serialized,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_core\runnables\base.py", line 2021, in _call_with_config
+    context.run(
+    ~~~~~~~~~~~^
+        call_func_with_variable_args,  # type: ignore[arg-type]
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    ),
+    ^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_core\runnables\config.py", line 428, in call_func_with_variable_args
+    return func(input, **kwargs)  # type: ignore[call-arg]
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_core\prompts\base.py", line 184, in _format_prompt_with_error_handling
+    inner_input_ = self._validate_input(inner_input)
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_core\prompts\base.py", line 178, in _validate_input
+    raise KeyError(
+        create_message(message=msg, error_code=ErrorCode.INVALID_PROMPT_INPUT)
+    )
+KeyError: 'Input to ChatPromptTemplate is missing variables {\'\\n  "text"\'}.  Expected: [\'\\n  "text"\', \'context\', \'history\', \'memory\', \'question\'] Received: [\'context\', \'question\', \'history\', \'memory\']\nNote: if you intended {\n  "text"} to be part of the string and not a variable, please escape it with double curly braces like: \'{{\n  "text"}}\'.\nFor troubleshooting, visit: https://docs.langchain.com/oss/python/langchain/errors/INVALID_PROMPT_INPUT '
+[2025-11-17 22:53:43] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 22:53:53] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 22:53:53] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 22:53:53] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 22:53:54] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 22:53:57] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 22:53:57] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 22:54:03] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 22:54:03] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 22:54:08] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Remind me to drink water in 10 minutes.
+[2025-11-17 22:54:08] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 22:54:29] [INFO] [Thread-5 (processor)] — Answered the query result- {"text": "drink water", "time": "2025-11-17 23:04:08", "repeat": "none", "status": "pending"}
+[2025-11-17 22:54:29] [ERROR] [Thread-5 (processor)] — Extra data: line 1 column 7 (char 6)
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 241, in processor
+    save_memory(question,result,data_type)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 49, in save_memory
+    data=json.loads(reminder)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python313\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python313\Lib\json\decoder.py", line 348, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 1 column 7 (char 6)
+[2025-11-17 22:54:29] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 22:54:40] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 22:57:39] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 22:57:51] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 22:57:51] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 22:57:51] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 22:57:52] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 22:57:54] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 22:57:54] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 22:58:00] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 22:58:00] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 22:58:05] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Remind me to drink water in 10 minutes.
+[2025-11-17 22:58:05] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 22:58:31] [INFO] [Thread-5 (processor)] — Answered the query result- {
+  "text": "drink water",
+  "time": "2025-11-17 23:08:05",
+  "repeat": "none",
+  "status": "pending"
+}
+[2025-11-17 22:58:31] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 22:58:31] [ERROR] [Thread-5 (processor)] — not writable
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 244, in processor
+    save_memory(question,result,data_type)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipeline.py", line 53, in save_memory
+    json.dump(prev,f,indent=4)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python313\Lib\json\__init__.py", line 180, in dump
+    fp.write(chunk)
+    ~~~~~~~~^^^^^^^
+io.UnsupportedOperation: not writable
+[2025-11-17 22:58:43] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 22:59:18] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 22:59:30] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 22:59:30] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 22:59:30] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 22:59:31] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 22:59:33] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 22:59:33] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 22:59:39] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 22:59:39] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 22:59:44] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Remind me to drink water in 10 minutes.
+[2025-11-17 22:59:44] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 23:00:08] [INFO] [Thread-5 (processor)] — Answered the query result- {
+  "text": "drink water",
+  "time": "2025-11-17 23:09:44",
+  "repeat": "none",
+  "status": "pending"
+}
+[2025-11-17 23:00:08] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 23:00:20] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 23:00:37] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 23:00:37] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 23:00:43] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 23:00:43] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 23:00:48] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Remind me to drink water tomorrow at 6pm.
+[2025-11-17 23:00:48] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 23:01:08] [INFO] [Thread-5 (processor)] — Answered the query result- {"text": "drink water", "time": "2025-11-18 18:00:00", "repeat": "none", "status": "pending"}
+[2025-11-17 23:01:08] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 23:01:18] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 23:01:39] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 23:26:29] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 23:26:29] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 23:26:29] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 23:26:30] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 23:26:35] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 23:27:45] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 23:27:45] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 23:27:45] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 23:27:46] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 23:31:31] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 23:31:42] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 23:31:42] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 23:31:42] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 23:31:43] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 23:31:46] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 23:34:17] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 23:34:17] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 23:34:17] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 23:34:18] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 23:34:21] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 23:34:54] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 23:34:54] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 23:34:54] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 23:34:55] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 23:36:23] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 23:36:33] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 23:36:33] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 23:36:33] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 23:36:34] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 23:39:57] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 23:40:16] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 23:40:16] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 23:40:16] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 23:40:16] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 23:40:17] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 23:40:18] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 23:40:24] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 23:44:14] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 23:44:14] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 23:44:14] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 23:44:14] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 23:44:16] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 23:44:17] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 23:44:28] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 23:48:50] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 23:48:50] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 23:48:50] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 23:48:51] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 23:49:00] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 23:49:02] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 23:50:50] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 23:50:52] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 23:51:10] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 23:51:12] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 23:51:27] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 23:51:27] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 23:51:33] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 23:51:33] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 23:51:39] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Remind me to write homework in two minutes.
+[2025-11-17 23:51:39] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 23:52:05] [INFO] [Thread-5 (processor)] — Answered the query result- {
+  "text": "homework",
+  "time": "2025-11-17 23:53:39",
+  "repeat": "none",
+  "status": "pending"
+}
+[2025-11-17 23:52:05] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 23:52:17] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 23:52:20] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 23:52:20] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 23:52:26] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 23:52:26] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 23:52:29] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Who is Elon Musk?
+[2025-11-17 23:52:29] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 23:52:48] [INFO] [Thread-5 (processor)] — Answered the query result- {
+  "Elon Reeve Musk": "South African-born American entrepreneur, businessman, and engineer known for his leadership roles in several high-profile technology companies."
+}
+[2025-11-17 23:52:48] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 23:52:57] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 23:53:03] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 23:53:03] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 23:53:09] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 23:53:09] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 23:53:13] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  My favorite show is Friends
+[2025-11-17 23:53:13] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 23:53:26] [INFO] [Thread-5 (processor)] — Answered the query result- {
+  "favorite_show" : "Friends"
+}
+[2025-11-17 23:53:26] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 23:53:29] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 23:53:40] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 23:53:42] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 23:54:42] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 23:56:26] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 23:56:26] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 23:56:26] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 23:56:27] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 23:56:28] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 23:56:28] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 23:56:34] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 23:56:34] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 23:56:38] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  My favorite show is Friends
+[2025-11-17 23:56:38] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 23:56:49] [INFO] [Thread-5 (processor)] — Answered the query result- "Stored the information favorite_show = Friends"
+[2025-11-17 23:56:49] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 23:56:53] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 23:56:55] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 23:56:55] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 23:57:01] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 23:57:01] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 23:57:05] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Remind me to drink water in one minute.
+[2025-11-17 23:57:05] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 23:57:23] [INFO] [Thread-5 (processor)] — Answered the query result- {"text": "drink water", "time": "2025-11-17 23:58:05", "repeat": "none", "status": "pending"}
+[2025-11-17 23:57:23] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 23:57:34] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 23:57:39] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 23:57:39] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 23:57:45] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 23:57:45] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 23:57:49] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  That is Narendra Modi.
+[2025-11-17 23:57:49] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 23:57:52] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 23:58:09] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 23:58:09] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 23:58:09] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 23:58:09] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 23:58:10] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 23:58:11] [INFO] [Thread-6 (text_to_audio)] — converted to audio
+[2025-11-17 23:58:16] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 23:58:16] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 23:58:22] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 23:58:22] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 23:58:25] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Buu is Narendra Modi.
+[2025-11-17 23:58:25] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 23:58:32] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2025-11-17 23:58:45] [INFO] [MainThread] — ==Assistant started==
+[2025-11-17 23:58:45] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2025-11-17 23:58:45] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2025-11-17 23:58:46] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2025-11-17 23:58:47] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2025-11-17 23:58:47] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2025-11-17 23:58:53] [INFO] [Thread-3 (get_audio)] — Recorded
+[2025-11-17 23:58:53] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2025-11-17 23:58:57] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Who is Narendra Modi?
+[2025-11-17 23:58:57] [INFO] [Thread-5 (processor)] — Answering the query...
+[2025-11-17 23:59:29] [INFO] [Thread-5 (processor)] — Answered the query result- {
+  "Narendra Modi": "18th Prime Minister of India, serving since 2024 under his third term as part of the 3rd Modi Ministry.\n Born on 17 September 1950 in Vadnagar, Gujarat, he is a member of the Bharatiya Janata Party (BJP) and the Rashtriya Swayamsevak Sangh (RSS), a right-wing Hindutva paramilitary volunteer organisation.\n He previously served as the Chief Minister of Gujarat from 2001 to 2014 and is the Member of Parliament (MP) for Varanasi, Uttar Pradesh."
+}
+[2025-11-17 23:59:29] [INFO] [Thread-6 (text_to_audio)] — Text is converting to audio
+[2025-11-17 23:59:59] [INFO] [Thread-6 (text_to_audio)] — converted to audio

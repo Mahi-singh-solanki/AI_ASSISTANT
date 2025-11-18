@@ -42,5 +42,37 @@
     {
         "fact": "FACT:  stored the information task = play music unrestricted.",
         "data_type": "fact"
+    },
+    {
+        "fact": "FACT:  stored the information favorite_dessert = ice cream",
+        "data_type": "fact"
+    },
+    {
+        "fact": "FACT:  stored the information current_activity = reading \"better than the movies\"",
+        "data_type": "fact"
+    },
+    {
+        "fact": "FACT:  stored the information favorite_desert = rasmalai",
+        "data_type": "fact"
+    },
+    {
+        "fact": "FACT:  \"stored the information name = mahavir singh\"",
+        "data_type": "fact"
+    },
+    {
+        "fact": "FACT:  \"stored the information favorite_show = friends\"",
+        "data_type": "fact"
+    },
+    {
+        "fact": "FACT:  \"stored the information favorite_game = clash of clans\"",
+        "data_type": "fact"
+    },
+    {
+        "fact": "FACT:  {\n  \"stored_information\": \"favorite_show = friends\"\n}",
+        "data_type": "fact"
+    },
+    {
+        "fact": "FACT:  stored the information favorite_book = \"better than the movies\"",
+        "data_type": "fact"
     }
 ]

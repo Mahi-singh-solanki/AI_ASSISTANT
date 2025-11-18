@@ -13,3 +13,9 @@ pvporcupine
 numpy
 pyautogui
 keyboard
+playwright
+psutil
+winotify
+piper-tts
+pystray
+pyinstaller

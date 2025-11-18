@@ -6,7 +6,8 @@ from .voice import get_audio,audio_to_text,text_to_audio,wake_up
 from embeddings.memory_vector import sync_memory_embeddings
 from rag.globals import input_queue,output_queue,wake_event
 from log.log import get_logger
-from rag.tasks import play_music,stop_music,open_vscode,open_yt,play_last_video
+from rag.tasks import play_music,stop_music,open_vscode,open_yt,play_last_video,open_note,create_file,del_file,get_all_files,web_search,my_data,get_my_all_reminders,cancel_all_reminders
+from datetime import datetime
 
 
 logger=get_logger()
@@ -18,7 +19,15 @@ def save_memory(q,a,dt):
             "stop music": stop_music,
             "open vs code": open_vscode,
             "open youtube":open_yt,
-            "play last video":play_last_video
+            "play last video":play_last_video,
+            "open notepad and write ":open_note,
+            "create file":create_file,
+            "delete file":del_file,
+            "get all files":get_all_files,
+            "search":web_search,
+            "system info":my_data,
+            "get all my reminders":get_my_all_reminders,
+            "delete all my reminders":cancel_all_reminders
             }
 
     if dt=="fact":
@@ -37,13 +46,21 @@ def save_memory(q,a,dt):
         data.append({"fact":fact,"data_type":dt})
         with open(rf"C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\memory.json","w") as f:
             json.dump(data,f,indent=4)
+    elif dt=="reminder":
+        data=json.loads(a)
+        with open(rf"C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\reminders.json","r") as f:
+            prev=json.load(f)
+        prev.append(data)
+        with open(rf"C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\reminders.json","w") as f:
+            json.dump(prev,f,indent=4)
     elif dt=="task":
         task=q.lower()
         for key in tasks:
             if key in task.lower():
                 try:
                     result = re.sub(re.escape(key), "", task, flags=re.IGNORECASE)
-                    tasks[key](result)
+                    feedback=tasks[key](result)
+                    output_queue.put(feedback)
                     break
                 except Exception as e:
                     logger.exception(e)
@@ -71,7 +88,7 @@ You cannot use outside knowledge or invent information.
 
 # MODE SELECTION RULES
 
-**If the user input is a QUESTION (contains “?” or is asking something):**
+**If the user input is a QUESTION (contains “?” or is asking something) Then strictly return answer in paragraph NOT JSON OBJECT:**
 If the user's question includes a pronoun like "he", "she", "it", "they", or vague terms like "that" or "this":
 - Try to identify who or what it refers to by reviewing the most recent entries in the "History" or "Memory".
 - Assume the pronoun refers to the most recently mentioned person, thing, or topic that logically fits.
@@ -91,34 +108,76 @@ If the user's question includes a pronoun like "he", "she", "it", "they", or vag
        Answer: Your favourite game is Clash of Clans.
 2. If nothing matches in Memory, then check the **Context** section for related information.
 3. If still not found, check the **History** section for any related past answers.
-4. If nothing relevant is found anywhere, respond exactly with:
+4.Return answer in paragraphs
+5. If nothing relevant is found anywhere, return exactly with:
    I don't have enough information.
 
 ---
 
-**If the user input start with TASK check if its really a task or not if it is just respond with "Task Detected: " + exact task
-example:
-    user:open chrome
-    assistant:Task Detected: open chrome
-Do not explain or add your suggestion just respond with what told to respond
----
 
-
-**If the user input is NOT a question (a fact, statement, or command):**
+**If the user input is NOT a question (a fact, statement):**
 - Treat it as new information to be stored.
 - Extract the key and value pair.
-- Respond exactly like this:
+- Return exactly like this:
   "Stored the information" key = value
 Do not explain, reword, or guess what it means.
 
 ---
+
+**If it start with "remind" then only check this section, extract and return the reminder as a JSON object:
+{{
+  "text": string,          # what to remind about (clean, no time words)
+  "time": string,          # an absolute timestamp using the provided current time
+  "repeat": string,        # one of: none, daily, weekly
+  "status": "pending"
+}}
+
+1. STRICT RULES FOR TIME HANDLING:
+   - The user may specify time in forms like:
+       "at 2:30 pm"
+       "in 15 minutes"
+       "after 1 hour"
+       "tonight"
+       "tomorrow at 9"
+       "next monday 5 pm"
+   - You MUST convert all of these into a **precise absolute timestamp** using the provided CURRENT TIME.
+   - The timestamp MUST ALWAYS be in format:
+       YYYY-MM-DD HH:MM:SS
+   - NEVER guess a time. If unclear, take the most reasonable interpretation.
+
+2. STRICT RULES FOR REPEATING REMINDERS:
+   - If user says things like:
+       "every day", "daily", "each morning"
+         → repeat = "daily"
+       "every week", "weekly", "each monday"
+         → repeat = "weekly"
+   - Otherwise:
+         repeat = "none"
+
+3. STRICT RULE FOR REMINDER TEXT:
+   - Remove all time references from the text.
+   - Remove "remind me", "to", "at", "in", "after", "on", "tomorrow", "today", "next", weekdays, etc.
+   - The text must ONLY contain the actual task.
+
+4. DO NOT modify or adjust the time slightly.
+   Use the exact CURRENT TIME provided in the input.
+   Apply addition cleanly for "in X minutes/hours".
+
+5. OUTPUT MUST BE VALID JSON. NO extra text.
+
+You will be given:
+- user_input: the raw sentence from the user
+- current_time: timestamp in format YYYY-MM-DD HH:MM:SS
+
+---
+
 
 
 # RULES FOR OUTPUT
 - Use only the text given in Context, History, or Memory.
 - Never create new facts or assumptions.
 - Never use symbols like @, #, $, %, *.
-- Respond cleanly and directly in one or two sentences.
+- Return cleanly and directly in one or two sentences.
 
 ---
 
@@ -156,11 +215,14 @@ def processor():
             print("\n-------------------")
             question=input_queue.get()
             if question:
-                keywords=["open", "run", "start", "play", "search", "stop", "create"]
-                if any(keyword in question.lower() for keyword in keywords):
+                keywords=["open", "run", "start", "play", "search", "stop", "create","get","delete"]
+                if any(keyword in question[:10].lower() for keyword in keywords):
                     save_memory(question,"","task")
                 else:
                     logger.info("Answering the query...")
+                    if "remind" in question.lower():
+                        current_time=datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                        question=question+f" current time:{current_time}"
                     print("\n")
                     with open(rf"C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\history.json","r") as f:
                         data=json.load(f);
@@ -172,12 +234,16 @@ def processor():
                     result=chain.invoke({"context":context,"question":question,"history":history,"memory":memory_data})
                     if "stored" in result.lower():
                         data_type="fact"
+                        output_queue.put(result)
                     elif "task" in result.lower():
                         data_type="task"
+                    elif "remind" in question.lower():
+                        data_type="reminder"
+                        output_queue.put("ok! sir i will remind you")
                     else:
                         data_type="question"
+                        output_queue.put(result)
                     logger.info(f"Answered the query result-{result}")
-                    output_queue.put(result)
                     save_memory(question,result,data_type)
                     memory_retriever=sync_memory_embeddings()
                 
