@@ -1,0 +1,32 @@
+[2026-01-12 08:58:47] [INFO] [MainThread] — ==Assistant started==
+[2026-01-12 08:58:47] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-01-12 08:58:47] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-01-12 08:58:49] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2026-01-12 14:49:44] [INFO] [MainThread] — ==Assistant started==
+[2026-01-12 14:49:44] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-01-12 14:49:44] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-01-12 14:49:45] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2026-01-12 17:15:12] [INFO] [MainThread] — ==Assistant started==
+[2026-01-12 17:15:12] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-01-12 17:15:12] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-01-12 17:15:13] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2026-01-12 18:23:11] [INFO] [MainThread] — ==Assistant started==
+[2026-01-12 18:23:11] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-01-12 18:23:11] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-01-12 18:23:12] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2026-01-12 18:52:04] [INFO] [MainThread] — ==Assistant started==
+[2026-01-12 18:52:04] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-01-12 18:52:04] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-01-12 18:52:06] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2026-01-12 19:00:54] [INFO] [MainThread] — ==Assistant started==
+[2026-01-12 19:00:54] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-01-12 19:00:54] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-01-12 19:00:55] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2026-01-12 19:32:03] [INFO] [MainThread] — ==Assistant started==
+[2026-01-12 19:32:03] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-01-12 19:32:03] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-01-12 19:32:04] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2026-01-12 15:51:49] [INFO] [MainThread] — ==Assistant started==
+[2026-01-12 15:51:49] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-01-12 15:51:49] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-01-12 15:51:51] [INFO] [Thread-2 (wake_up)] — Waking up...

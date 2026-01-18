@@ -74,5 +74,49 @@
     {
         "fact": "FACT:  stored the information favorite_book = \"better than the movies\"",
         "data_type": "fact"
+    },
+    {
+        "fact": "FACT:  if the user input does not contain a question mark or any pronoun that refers to previously mentioned people, things, or topics, then store it as new information in memory with the key and value pair extracted from the user input.\n\nfor example, if the user input is \"friends is my favorite show\", then return:\n\"stored the information favorite_show = friends\"\n\nif the user input starts with \"remind\", then extract the reminder details according to the provided rules and return it as a json object.\n\nfor example, if the user input is \"remind me to call john at 3 pm tomorrow\", then convert the time into an absolute timestamp (yyyy-mm-dd hh:mm:ss) and return the following json object:\n{\n  \"text\": \"call john\",\n  \"time\": \"2022-10-14 15:00:00\",\n  \"repeat\": \"none\",\n  \"status\": \"pending\"\n}",
+        "data_type": "fact"
+    },
+    {
+        "fact": "FACT:  stored the information key = iodine_also_removes_paint = true",
+        "data_type": "fact"
+    },
+    {
+        "fact": "FACT:  \"stored the information planned_action = go shopping and clean the place up after today\"",
+        "data_type": "fact"
+    },
+    {
+        "fact": "FACT:  stored the information key = this_highlight_color_origin = australia",
+        "data_type": "fact"
+    },
+    {
+        "fact": "FACT:  \"stored the information\" source_of_money = unknown\nbased on your statement, it seems that someone has given you a gift and asked you not to ask any questions about its origin. i don't have enough information about who gave the gift or where the money used for the gift came from. enjoy your gift.",
+        "data_type": "fact"
+    },
+    {
+        "fact": "FACT:  stored the information task = finish this! priority = high",
+        "data_type": "fact"
+    },
+    {
+        "fact": "FACT:  stored the information key = missing_industrial_vehicle status = \"pending\"\n\n```json\n{\n  \"text\": \"missing industrial vehicle\",\n  \"time\": \"yyyy-mm-dd hh:mm:ss\",\n  \"repeat\": \"none\",\n  \"status\": \"pending\"\n}\n```",
+        "data_type": "fact"
+    },
+    {
+        "fact": "FACT:  stored the information key = thank you value = received",
+        "data_type": "fact"
+    },
+    {
+        "fact": "FACT:  stored the information task = prepare for the party priority = high",
+        "data_type": "fact"
+    },
+    {
+        "fact": "FACT:  your request seems to be asking about the party preparations. since the priority of that task is high and it's the most recently stored information related to parties, here's my response:\n\nyou have mentioned interest in the party preparations. as per our previous conversation, you are planning a high-priority event, which involves preparing for the party. i will keep this information handy for future reference should there be any need to recall it.",
+        "data_type": "fact"
+    },
+    {
+        "fact": "FACT:  playing the last video is not a question, so the response will be \"stored the information task = play last video priority = low\".",
+        "data_type": "fact"
     }
 ]

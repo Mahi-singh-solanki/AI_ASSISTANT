@@ -1,0 +1,4 @@
+[2026-01-16 19:31:48] [INFO] [MainThread] — ==Assistant started==
+[2026-01-16 19:31:48] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-01-16 19:31:48] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-01-16 19:31:50] [INFO] [Thread-2 (wake_up)] — Waking up...

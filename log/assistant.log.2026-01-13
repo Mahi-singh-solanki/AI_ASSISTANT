@@ -1,0 +1,19 @@
+[2026-01-13 15:53:42] [INFO] [MainThread] — ==Assistant started==
+[2026-01-13 15:53:42] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-01-13 15:53:42] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-01-13 15:53:43] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2026-01-13 21:31:41] [INFO] [MainThread] — ==Assistant started==
+[2026-01-13 21:31:41] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-01-13 21:31:41] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-01-13 21:31:42] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2026-01-13 21:40:25] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2026-01-13 21:40:25] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2026-01-13 21:40:31] [INFO] [Thread-3 (get_audio)] — Recorded
+[2026-01-13 21:40:31] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2026-01-13 21:40:36] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Play last video
+[2026-01-13 21:40:39] [INFO] [Thread-7 (text_to_audio)] — Text is converting to audio
+[2026-01-13 21:40:42] [INFO] [Thread-7 (text_to_audio)] — converted to audio
+[2026-01-13 23:05:50] [INFO] [MainThread] — ==Assistant started==
+[2026-01-13 23:05:50] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-01-13 23:05:50] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-01-13 23:05:51] [INFO] [Thread-2 (wake_up)] — Waking up...

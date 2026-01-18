@@ -1,0 +1,27 @@
+[2026-01-15 13:24:36] [INFO] [MainThread] — ==Assistant started==
+[2026-01-15 13:24:36] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-01-15 13:24:36] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-01-15 13:24:37] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2026-01-15 13:33:24] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2026-01-15 13:33:24] [INFO] [Thread-3 (get_audio)] — Recording started..
+[2026-01-15 13:33:30] [INFO] [Thread-3 (get_audio)] — Recorded
+[2026-01-15 13:33:30] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2026-01-15 13:34:04] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Aha, could we take a look at your relaxing party?
+[2026-01-15 13:34:04] [INFO] [Thread-5 (processor)] — Answering the query...
+[2026-01-15 13:34:21] [INFO] [Thread-5 (processor)] — Answered the query result- Your request seems to be asking about the party preparations. Since the priority of that task is high and it's the most recently stored information related to parties, here's my response:
+
+You have mentioned interest in the party preparations. As per our previous conversation, you are planning a high-priority event, which involves preparing for the party. I will keep this information handy for future reference should there be any need to recall it.
+[2026-01-15 13:34:21] [INFO] [Thread-7 (text_to_audio)] — Text is converting to audio
+[2026-01-15 13:34:44] [INFO] [Thread-7 (text_to_audio)] — converted to audio
+[2026-01-15 17:04:22] [INFO] [MainThread] — ==Assistant started==
+[2026-01-15 17:04:22] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-01-15 17:04:22] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-01-15 17:04:23] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2026-01-15 19:58:30] [INFO] [MainThread] — ==Assistant started==
+[2026-01-15 19:58:30] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-01-15 19:58:30] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-01-15 19:58:31] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2026-01-15 22:01:30] [INFO] [MainThread] — ==Assistant started==
+[2026-01-15 22:01:30] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-01-15 22:01:30] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-01-15 22:01:31] [INFO] [Thread-2 (wake_up)] — Waking up...

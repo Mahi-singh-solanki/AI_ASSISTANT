@@ -19,3 +19,4 @@ winotify
 piper-tts
 pystray
 pyinstaller
+requests

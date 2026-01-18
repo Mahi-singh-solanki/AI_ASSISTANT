@@ -373,5 +373,1600 @@
         "id": 75,
         "source": "web",
         "text": "Earphones are small loudspeaker devices worn over or inserted into the ear to convert electrical signals into sound waves for private listeningsmall loudspeaker devices worn over or inserted into the ear to convert electrical signals into sound waves for private listening.3They are often used interchangeably with the term \"earbuds,\" though there is a distinction: earbuds rest in the outer ear without entering the ear canal, while earphones, also known as in-ear headphones or in-ear monitors, are designed to fit snugly inside the ear canal.11This in-ear design provides a more direct connection to the sound source and can offer better sound isolation from ambient noise.12Earphones are typically lightweight and portable, making them ideal for use with mobile devices like smartphones, MP3 players, and during physical activities such as running or working out.8\n12They are commonly powered by portable audio devices and are available in a wide range of prices and audio quality levels, from low-cost models to high-fidelity options.9The term \"earphone\" can also refer to the component of a telephone receiver or other communication devices that is held to the ear or inserted into the ear.6"
+    },
+    {
+        "id": 76,
+        "source": "web",
+        "text": "Python is a high-level, general-purpose programming language designed with an emphasis on code readability and simplicitya high-level, general-purpose programming language designed with an emphasis on code readability and simplicity, using significant indentation to define code structure rather than braces or keywords.2\n9It was conceived in the late 1980s by Guido van Rossum and first released in 1991, originally as a successor to the ABC programming language.2\n8Python supports multiple programming paradigms, including object-oriented, procedural, functional, and structured programming, and is dynamically typed with automatic memory management through garbage collection.2\n7It is widely used across various domains such as web development, data science, machine learning, automation, software development, and scientific computing, and is known for its extensive standard library and ecosystem of third-party packages.2\n10\n11As of December 2025, the latest stable release is Python 3.14.2, with the Python Software Foundation supporting multiple recent versions under an annual release cycle and five-year support policy.2"
+    },
+    {
+        "id": 77,
+        "source": "web",
+        "text": "Python is a high-level, general-purpose programming language designed with a focus on code readability and simplicitya high-level, general-purpose programming language designed with a focus on code readability and simplicity, using significant indentation to define code structure rather than braces or keywords.2\n8Created by Guido van Rossum and first released in 1991, Python supports multiple programming paradigms, including object-oriented, procedural, functional, and structured programming.2\n7It is dynamically typed, garbage-collected, and interpreted, allowing for rapid development and immediate execution of code.2\n8Python's versatility enables its use in web development, software development, data science, machine learning, automation, scientific computing, and more, supported by a vast standard library and a large ecosystem of third-party packages available through the Python Package Index (PyPI).2\n6\n11\n+1The language is cross-platform, running on Windows, macOS, Linux, Android, and iOS, and is maintained by the Python Software Foundation under the Python Software Foundation License.2\n12"
+    },
+    {
+        "id": 78,
+        "source": "web",
+        "text": "Minecraft is a sandbox video game developed and published by Mojang Studios, originally created by Markus \"Notch\" Persson in 2009 and formally released in 2011.2It is set in a procedurally generated, three-dimensional world composed of blocks, allowing players to explore, gather resources, craft tools and items, and build structures or machines.2The game features no required objectives, offering players a high degree of freedom in how they choose to play, whether through creative building, survival challenges, or exploration.2\n7Gameplay is primarily in first-person perspective, though third-person views are available, and the world is made up of cubes representing materials like dirt, stone, water, and lava.2\n8Minecraft is available on a wide range of platforms, including Windows, Mac, Linux, Xbox, PlayStation, Nintendo Switch, Android, iOS, and other devices.2\n7It has two primary game modes: Creative mode, which provides unlimited resources, immortality, and the ability to fly, ideal for building without constraints; and Survival mode, where players must manage hunger, health, and fend off hostile mobs while gathering resources and crafting tools.7\n11The game also includes additional dimensions such as the Nether and the End, accessed through portals, each offering unique environments and challenges, including boss battles against the Ender Dragon.2The game has become the best-selling video game of all time, with over 350 million copies sold as of 2025, and is widely used in educational settings to teach subjects like computer science, chemistry, and design.2It has inspired a large community of user-generated content, including mods, texture packs, custom maps, and servers, and has spawned spin-off games like Minecraft Dungeons and Minecraft Legends.2A live-action film adaptation, A Minecraft Movie, was released in 2025 and became the second-highest-grossing video game film of all time.2The game is rated PEGI 7 and ESRB Everyone 10+, with mild"
+    },
+    {
+        "id": 79,
+        "source": "2309.05685v1.pdf",
+        "text": "Protoplanetary DiskChemistryKarin I.  Oberg,1 Stefano Facchini,2 and Dana E.Anderson31Center for Astrophysics   Harvard-Smithsonian, 60 Garden St, Cambridge,MA 02138, USA; email: koberg@cfa.harvard.edu2Universit`a degli Studi di Milano, via Giovanni Celoria 16, 20133 Milano, Italy3Earth and Planets Laboratory, Carnegie Institution for Science, 5241 BroadBranch Road, NW, Washington, DC 20015, USAAnnu. Rev. Astron. Astrophys. 2023.61:1 44Copyright   2023 by Annual Reviews.All rights reservedKeywor"
+    },
+    {
+        "id": 80,
+        "source": "2309.05685v1.pdf",
+        "text": "dsastrochemistry, planet formation, protoplantetary disksAbstractPlanets form in disks of gas and dust around young stars. The diskmolecular reservoirs and their chemical evolution affect all aspects ofplanet formation, from the coagulation of dust grains into pebbles, tothe elemental and molecular compositions of the mature planet. Diskchemistry also enables unique probes of disk structures and dynam-ics, including those directly linked to ongoing planet formation. Herewe review the protoplanet"
+    },
+    {
+        "id": 81,
+        "source": "2309.05685v1.pdf",
+        "text": "ary disk chemistry of the volatile elementsHOCNSP, the associated observational and theoretical methods, andthe links between disk and planet chemical compositions. Three take-aways from this review are: The disk chemical composition, including the organic reservoirs, isset by both inheritance and in situ chemistry. Disk gas and solid O/C/N/H elemental ratios often deviate from stel-lar values due to a combination of condensation of molecular carriers,chemistry, and dynamics. Chemical, physical,"
+    },
+    {
+        "id": 82,
+        "source": "2309.05685v1.pdf",
+        "text": " and dynamical processes in disks are closelylinked, which complicates disk chemistry modeling, but these links alsopresent an opportunity to develop chemical probes of different aspectsof disk evolution and planet formation.1arXiv:2309.05685v1 [astro-ph.EP] 11 Sep 2023"
+    },
+    {
+        "id": 83,
+        "source": "2309.05685v1.pdf",
+        "text": "Contents1. INTRODUCTION ............................................................................................21.1. Motivation and Scope of Review .......................................................................21.2. Context: Protoplanetary Disk Formation and Evolution ...............................................31.3. An Introduction to Inner and Outer Disk Chemistry ..................................................42. DISK CHEMISTRY MODELING ...................................."
+    },
+    {
+        "id": 84,
+        "source": "2309.05685v1.pdf",
+        "text": ".......................................52.1. Establishing the Disk Physical Structure ..............................................................52.2. Treatments of chemistry ...............................................................................72.3. Modeling Chemistry in a Dynamical Disk Environment................................................83. DISK CHEMISTRY OBSERVATIONS ......................................................................93.1. Observational Techniques ......"
+    },
+    {
+        "id": 85,
+        "source": "2309.05685v1.pdf",
+        "text": "........................................................................93.2. Retrieval of Molecular Column Densities and Abundances ............................................103.3. Disk Molecular Inventories .............................................................................123.4. Molecular Demographics ...............................................................................133.5. Molecular Sub-Structures ......................................................................."
+    },
+    {
+        "id": 86,
+        "source": "2309.05685v1.pdf",
+        "text": "........153.6. Vertical Chemical Gradients and Sub-structure ........................................................174. THE DISTRIBUTIONS AND CHEMISTRY OF DISK VOLATILES .......................................184.1. Snowlines ................................................................................................194.2. Elemental O, C, N, S and P Disk Abundances ........................................................214.3. Organic Disk Chemistry ........................................"
+    },
+    {
+        "id": 87,
+        "source": "2309.05685v1.pdf",
+        "text": "........................................234.4. Isotope Fractionation Chemistry .......................................................................245. CHEMICAL PROBES OF DISKS AND PLANET FORMATION ..........................................265.1. Disk Gas Mass and Surface Density ...................................................................275.2. Disk Ionization ..........................................................................................295.3. Disk Temperature ............"
+    },
+    {
+        "id": 88,
+        "source": "2309.05685v1.pdf",
+        "text": "...........................................................................305.4. Disk Dynamics and Planet Formation .................................................................326. LINKING DISK CHEMISTRY AND PLANET COMPOSITIONS ..........................................331. INTRODUCTION1.1. Motivation and Scope of ReviewProtoplanetary disks are planet-forming, potentially planet-containing, dust and gas-richdisks around young stars. Disk chemical compositions determine the elemental and mo"
+    },
+    {
+        "id": 89,
+        "source": "2309.05685v1.pdf",
+        "text": "lec-ular makeup of forming planets, and influence many other disk properties relevant to planetformation. Disk chemistry also provides some of our best tools to characterize disk struc-tures and dynamics, including the presence of protoplanets. To develop a predictive theoryof planet formation therefore requires a deep understanding of the chemistry of protoplan-etary disks. This is true for all kinds of planets, but is perhaps especially salient whenconsidering how often temperate planets in ou"
+    },
+    {
+        "id": 90,
+        "source": "2309.05685v1.pdf",
+        "text": "r Galaxy may be chemically hospitable tolife, i.e. have access to water and a suitable combination of organic and inorganic material.The aim of this review is to introduce the study of disk chemistry, to present our currentstate of knowledge emerging from the past two decades of observational, theoretical, andexperimental work, and to propose some possible paths forward. We limit the scope of thereview in two important aspects. First we only treat protoplanetary disks, i.e. circumstellardisks ar"
+    },
+    {
+        "id": 91,
+        "source": "2309.05685v1.pdf",
+        "text": "ound 1-10 Myr old stars around which the natal envelope has been cleared, andtherefore do not include the chemistry of younger protostellar disks, or the debris disks2 Oberg et al."
+    },
+    {
+        "id": 92,
+        "source": "2309.05685v1.pdf",
+        "text": "found around older stars. Second, we focus on the volatile elements and molecules andtherefore largely ignore the physics and chemistry of refractory elements bound up in dustparticles   for the purpose of this review, a  volatile  element or molecule is any species thatis present as a liquid or gas under typical terrestrial conditions, which includes most smalland mid-sized HOCNSP-molecules. The scope of this review is then the distributions andchemistry of volatiles in protoplanetary disks.1.2"
+    },
+    {
+        "id": 93,
+        "source": "2309.05685v1.pdf",
+        "text": ". Context: Protoplanetary Disk Formation and EvolutionProtoplanetary disks emerge within the context of star formation, when in-falling interstel-lar cloud material becomes distributed in disk-like structures to preserve angular momentum(Shu et al. 1987). The chemical composition of the resulting disk likely depends on bothdisk chemical processes and chemical inheritance from the preceding interstellar and pro-tostellar phases (e.g. Visser et al. 2009). The links between interstellar, protostell"
+    },
+    {
+        "id": 94,
+        "source": "2309.05685v1.pdf",
+        "text": "ar anddisk compositions was recently reviewed by  Oberg & Bergin (2021), Bergin et al. (2023)and van Dishoeck & Bergin (2021), and protostellar organic chemistry by J rgensen et al.(2020). Here we simply summarize a few aspects of interstellar and protostellar chemistryof especial relevance to protoplanetary disks and planet formation.In the diffuse interstellar medium, a substantial fraction of oxygen, and half of thecarbon, are incorporated into refractory grains. The remaining carbon and oxyg"
+    },
+    {
+        "id": 95,
+        "source": "2309.05685v1.pdf",
+        "text": "en, as wellas most nitrogen and hydrogen become bound up in stable molecules such as H2, CO, CO2,N2, NH3, and H2O at the interstellar cloud stage.Many of these carriers survive diskformation.Their chemical reactivities (or lack thereof) and different volatilities impactthe distribution of major volatile elements in disks. Molecular clouds also produce a firstgeneration of organic molecules, including carbon chains, CH4, CH3OH, and more complexorganics.At the onset of star and planet formation in"
+    },
+    {
+        "id": 96,
+        "source": "2309.05685v1.pdf",
+        "text": " molecular clouds, the majorityof these molecules are found in icy grain mantles. In the subsequent protostellar phase,additional complex organics form, which together with the interstellar volatiles and organicscan become incorporated into disks, setting the initial conditions for disk chemistry.The second context for this review is the local environment within which a disk issituated   the environment surrounding the disk sets the external radiation field, and maydynamically shape the disk str"
+    },
+    {
+        "id": 97,
+        "source": "2309.05685v1.pdf",
+        "text": "ucture and continue to feed the disk with gas and dust (Walshet al. 2014, Andrews 2015, Huang et al. 2021)   as well as the disk evolving structure anddynamical processes (Fig. 1). Protoplanetary disks were recently reviewed by Andrews(2020), while Aikawa et al. (2022) provide an introduction to many disk structures andprocesses relevant for disk chemistry.Within the disk the surface density is set by a combination of infall of material from thenatal cloud and protostellar envelope, inward gas a"
+    },
+    {
+        "id": 98,
+        "source": "2309.05685v1.pdf",
+        "text": "ccretion, outward gas spreading, accre-tion onto the star, disk winds, ongoing planet formation and other gap-opening mechanisms(e.g. Lynden-Bell & Pringle 1974, Bai & Stone 2013, Andrews et al. 2018). Gas and dust aretransported in disks both vertically and radially. Vertical gas transport happens throughlarge scale turbulence, diffusion, and meridonial flows into disk gaps (e.g. Meijerink et al.2009, Semenov & Wiebe 2011, Teague et al. 2019), while solids are preferentially movedtowards the mi"
+    },
+    {
+        "id": 99,
+        "source": "2309.05685v1.pdf",
+        "text": "dplane due to grain growth and settling. Radially, gas and small entrainedgrains are transported through advection, turbulent diffusion, and disk winds, while largerdust grains partially decouple from the gas and drift towards pressure maxima, which inthe absence of sub-structure entails inward transport of solids (e.g. D Alessio et al. 2006,www.annualreviews.org  Protoplanetary Disk Chemistry3"
+    },
+    {
+        "id": 100,
+        "source": "2309.05685v1.pdf",
+        "text": "Dimming over timeAccretion luminosityAccretion onto starDisk windsInward gas accretionOutward gas spreadingMeridional flows into gapsLocal heating and turbulence from protoplaneTurbulent flowsInfall of cloud materialInward grain driftDust grain settlingUV and X-raysRadiative heatingWater snowlineCO snowlineIce sublimationDiffusive flows and condensationGrain growthUV photodesorptionGrain surface (photo)chemistryGas-phase (photo)chemistryExternal UV irradiationCooling radiationFigure 1An non-exha"
+    },
+    {
+        "id": 101,
+        "source": "2309.05685v1.pdf",
+        "text": "ustive overview of the many processes in disks that either directly impact chemistryand the distribution of molecules, depend on the disk molecular composition, are traced bymolecular lines, and/or directly involve the destruction or formation of molecules or molecularphases. The processes labeled in black are stellar and disk dynamical processes that act on diskgas and dust regardless of their particular chemical makeup. Processes labeled in red are eitherchemical processes or processes that di"
+    },
+    {
+        "id": 102,
+        "source": "2309.05685v1.pdf",
+        "text": "rectly depend on the chemical composition. In theleft-hand-side of the illustration bare silicate grains are grey, water-ice-dominated grains are blue,and grains with a large reservoir of hypervolatiles, including CO, are pink.Ciesla & Cuzzi 2006). Taken together we should expect transport of gas and solids bothbetween the outer low density and inner high density disk regions, and between the diskmidplane and elevated layers.Disks are heated by stellar radiation, radiation from accretion shocks "
+    },
+    {
+        "id": 103,
+        "source": "2309.05685v1.pdf",
+        "text": "onto the star,and viscous dissipation (e.g. D Alessio et al. 1999), all which decrease over time due tostellar contraction and a decreasing accretion rate. The decrease is not monotonic, how-ever, and luminosity bursts may temporarily change the disk temperature structure (e.g.Armitage et al. 2001). The disk temperature further depends on the distribution of solidsand molecules in the disk atmosphere, which control cooling and heating in the disk (Woitkeet al. 2009). At disk radii dominated by r"
+    },
+    {
+        "id": 104,
+        "source": "2309.05685v1.pdf",
+        "text": "adiative heating, the disk temperature increaseswith disk height. Disks are also irradiated by UV and X-rays and Cosmic Rays from boththe central star and from external sources (e.g. Kastner et al. 1997, Cleeves et al. 2015b,Rab et al. 2018). The radiative transport of these high-energy particles and radiation iscomplex, especially in the presence of dust evolution and sub-structure, but generally thefluxes are high in the disk atmosphere and increasingly depleted towards the disk midplane.1.3. "
+    },
+    {
+        "id": 105,
+        "source": "2309.05685v1.pdf",
+        "text": "An Introduction to Inner and Outer Disk ChemistryWhen surveying the chemical processes that govern the distributions and evolution ofvolatiles in disks it is useful to consider the disk region interior to the water condensa-4 Oberg et al."
+    },
+    {
+        "id": 106,
+        "source": "2309.05685v1.pdf",
+        "text": "tion front or snowline (the inner disk where terrestrial planets form) separately from therest of the disk (the outer disk where gas and ice giants as well as comets originate). De-pendent on the stellar luminosity, this boundary between inner and outer disk falls betweena fraction of an au and  10 au. In the inner disk high densities and temperatures result incomplete sublimation of volatiles and short chemical timescales in the gas phase that resetsthe chemistry (e.g. Glassgold et al. 2009, Po"
+    },
+    {
+        "id": 107,
+        "source": "2309.05685v1.pdf",
+        "text": "ntoppidan et al. 2014, and references therein).In contrast to most phases of star and planet formation, three-body reactions, endothermicreactions, and reactions with a substantial energy barriers may all be all possible. The innerdisk may be considered to have an inner boundary at the silicate condensation line (Kresset al. 2010), and in between this and the water snowline, it should host a soot line, wherelarge carbon molecules and small carbon grains volatilize. Despite its high densities and"
+    },
+    {
+        "id": 108,
+        "source": "2309.05685v1.pdf",
+        "text": "temperatures, the inner disk chemistry may not be at equilibrium due to strong irradia-tion fields impinging on the disk atmosphere (e.g.  Ad amkovics et al. 2014), and continuoustransport of material from the outer disk.Outer disk chemistry has been reviewed by Henning & Semenov (2013), Dutrey et al.(2014) and Aikawa et al. (2022). In the outer disk, inheritance cannot be ignored, espe-cially in the disk midplane, where interstellar and protostellar chemical products may bepreserved (Visser et "
+    },
+    {
+        "id": 109,
+        "source": "2309.05685v1.pdf",
+        "text": "al. 2009). As a result, the outer disk likely begins with much of itsoxygen tied up in H2O and CO2-rich ices and therefore taken out of circulation from thegas-phase. Outer disks are chemically stratified both radially and vertically due to two-dimensional condensation fronts, which are referred to as snowlines in the disk midplane,and the dependence of chemical reactions of density, temperature, ionization, and disso-ciative radiation (Aikawa et al. 2002). The disk midplane may be chemically in"
+    },
+    {
+        "id": 110,
+        "source": "2309.05685v1.pdf",
+        "text": "ert, simplypreserving inherited reservoirs, or quite chemically active, dependent on its access to ioniz-ing irradiation (Cleeves et al. 2015b). In somewhat elevated disk layers neutral-neutral andion-molecule gas-phase reactions operate together with grain surface chemistry to producea so-called molecular layer, where the chemistry is neither completely reset nor completelyinherited. Finally the outer disk atmosphere is characterized by relatively low densities,moderately high temperatures and "
+    },
+    {
+        "id": 111,
+        "source": "2309.05685v1.pdf",
+        "text": "high irradiation fields, which drive a rapid radical andion based chemistry, qualitatively similar to a classical photondominated region (PDR).These different layers may all be dynamically and therefore chemically connected, however,blurring some of the described differences.2. DISK CHEMISTRY MODELINGDisk chemistry models are used to provide interpretative frameworks for observations, toexpand the kinds of species that can be characterized in disks beyond what is directlyobservable, and connect "
+    },
+    {
+        "id": 112,
+        "source": "2309.05685v1.pdf",
+        "text": "different evolutionary phases up until and sometimes includingplanet formation. In this section we introduce astrochemistry modeling starting with howto set up the  physical  disk structure (2.1), followed by different treatments of chemistrywithin such a framework (2.2), and interactions between chemistry and dynamics (2.3), andfinally how to compare models and observations (??).2.1. Establishing the Disk Physical StructureChemical reactivity depends on the local gas and dust grain densities, d"
+    },
+    {
+        "id": 113,
+        "source": "2309.05685v1.pdf",
+        "text": "ust grain opticaland material properties, gas and dust grain temperatures, energetic radiation fields, andwww.annualreviews.org  Protoplanetary Disk Chemistry5"
+    },
+    {
+        "id": 114,
+        "source": "2309.05685v1.pdf",
+        "text": "Stellar ParametersCR Ionization ISRFInitial Chemical Abundances(Small) Chemical Reaction NetworkInitial Chemical AbundancesChemical Reaction NetworkIteration to achieve a self-consistent modelRadiative TransferThermo-Chemical ModelingFinal Chemical ModelingFigure 2The steps involved in a typical disk chemistry modeling framework. Starting at the top, (initial)gas and dust density structures are combined with stellar parameters and the local irradiationenvironment to calculated the disk temperatu"
+    },
+    {
+        "id": 115,
+        "source": "2309.05685v1.pdf",
+        "text": "re, radiation and ionization structures usingradiative transfer. If a self-consistent model is desired these are then updated iteratively takinginto account the effect of chemical abundances on cooling and heating in a thermo-chemicalmodeling step. The final chemical abundances are determined once the disk physical structure hasconverged, and the observable molecular line properties are calculated using radiative transfer.ionization rates.Establishing these can be done relatively self-consistent"
+    },
+    {
+        "id": 116,
+        "source": "2309.05685v1.pdf",
+        "text": "ly taking intoaccount the interdependence of gas and dust densities and temperatures, radiation fieldsand chemistry, but parametric structures are also frequently used to simplify the modelingprocess, or some aspect of it. The choice of approach depends ultimately on the scientificquestion at hand, and especially on the the acceptable computational expense of each modelrun. Fig. 2 illustrates some common approaches that are described below.The establishment of the disk physical parameters begins"
+    },
+    {
+        "id": 117,
+        "source": "2309.05685v1.pdf",
+        "text": " with choosing an initial gasand dust density 2D structure using e.g.the steady-state solution for a protoplanetarydisk undergoing viscous evolution (Lynden-Bell & Pringle 1974, Hartmann et al. 1998), orparameterizations based on the minimum mass solar nebula (MMSN) or observations ofdisks (e.g., Chiang & Youdin 2010, Zhang et al. 2021a). The vertical density distributiondepends on the disk temperature, which can be accounted for by iteratively computing thegas temperature and vertical density d"
+    },
+    {
+        "id": 118,
+        "source": "2309.05685v1.pdf",
+        "text": "istribution (e.g. Nomura et al. 2007, Woitke et al.2009, Bruderer et al. 2012).The dust density structure commonly involves one or two6 Oberg et al."
+    },
+    {
+        "id": 119,
+        "source": "2309.05685v1.pdf",
+        "text": "dust populations, each described by a grain size distribution, set of opacities, and radialand vertical distribution; small dust grains (up to micron sizes) are assumed to couple tothe gas, while larger grains are not (e.g., D Alessio et al. 2006). The precise choice of dustproperties can have a big impact on the model since dust affects ionization, heating, cooling,and chemistry (e.g. Gavino et al. 2021). While smoothly varying disks have been the normin models, (sub)millimeter observations hav"
+    },
+    {
+        "id": 120,
+        "source": "2309.05685v1.pdf",
+        "text": "e motivated the investigation of more complexcases like transition disks, and disks with gaps opened by forming planets (e.g. Facchiniet al. 2018b, Alarc on et al. 2020).The disk gas and dust temperature, UV and X-ray radiation fields, and ionizationfractions can be initially estimated through radiative transfer calculations using the afore-mentioned density structures (Fig. 2 and e.g. van Zadelhoff et al. 2003, Nomura et al. 2007,Bethell & Bergin 2011, Rab et al. 2018). The temperature calculat"
+    },
+    {
+        "id": 121,
+        "source": "2309.05685v1.pdf",
+        "text": "ions also need to takeinto account viscous heating in the dense inner disk midplane and the decoupling of gasand dust temperatures in the disk atmosphere (Glassgold et al. 2004). The latter effect canbe solved explicitly taking into account dust and gas heating and cooling processes (Kamp& Dullemond 2004). The gas heating and cooling processes depend on the gas chemicalcomposition and therefore self-consistent determination of the temperature structure canonly be done using thermochemical models"
+    },
+    {
+        "id": 122,
+        "source": "2309.05685v1.pdf",
+        "text": " that iteratively calculate the disk gas temper-ature and chemical abundances (Woitke et al. 2009, Bruderer et al. 2012, Du & Bergin2014). Finally, cosmic rays permeate through the entire disk and are typically incorporatedat or below the hydrogen ionization rate in dense interstellar clouds (see e.g. Cleeves et al.2015b).Additional sources of ionization include radioactive decay and stellar energeticparticles (Cleeves et al. 2014, Rab et al. 2017).All of the above disk characteristics can also "
+    },
+    {
+        "id": 123,
+        "source": "2309.05685v1.pdf",
+        "text": "be approximated parametrically. The dustand gas density structures can be calculated by first adopting a surface density profile anda radial temperature profile and then calculating vertical densities assuming hydrostaticequilibrium (Chiang & Goldreich 1997) or prescribing a Gaussian profile with a scale height(e.g., Bruderer 2013).The vertical temperature structure is frequently estimated usingthe prescription of Dartois et al. (2003).Gas and dust thermal decoupling can also beapproximated with"
+    },
+    {
+        "id": 124,
+        "source": "2309.05685v1.pdf",
+        "text": " a parametric function (Pinte et al. 2006, Cleeves et al. 2015b). Theenergetic radiation fields and ionization rates can be parameterized as a function of hydrogencolumn density and a chosen dust-to-gas ratio (e.g. Wakelam et al. 2016, Le Gal et al. 2019b).In practice, most models combine parametric elements with self-consistent calculations thattake into account some aspects of the interdependencies between chemistry, temperatures,dust and gas vertical density structures, and/or UV and X-ray ra"
+    },
+    {
+        "id": 125,
+        "source": "2309.05685v1.pdf",
+        "text": "diation.2.2. Treatments of chemistryEarly theoretical work on chemistry in protoplanetary disks largely relied on thermochemicalequilibrium calculations (see Prinn 1993). While potentially appropriate for the inner diskmidplane, inner disk atmospheres and all layers in the outer disk require a non-equilibriumtreatment. Building on interstellar chemistry codes (van Dishoek et al. 1993, Bergin et al.1995), Aikawa et al. (1996) developed one of the first time dependent, rate equation-baseddisk chem"
+    },
+    {
+        "id": 126,
+        "source": "2309.05685v1.pdf",
+        "text": "istry models where abundances are calculated numerically based on formationand destruction rates, which depend on rate coefficients and abundances supplied from theprevious time step. This kind of model then require initial chemical abundances and anappropriate reaction network, in addition to pre- or co-calculated disk density, temperaturewww.annualreviews.org  Protoplanetary Disk Chemistry7"
+    },
+    {
+        "id": 127,
+        "source": "2309.05685v1.pdf",
+        "text": "and radiation structures (Fig. 2).There are two common choices of initial disk chemical abundances: inheritance of pro-tostellar abundances, where the abundances are supplied by interstellar or protostellar ob-servations or models (e.g., Nomura et al. 2009, Walsh et al. 2015a) and  reset  compositionsusing high-temperature thermal equilibrium products (Aikawa & Herbst 1999) or assuminga fully atomic composition (except for H2) (e.g., Walsh et al. 2010, Ballering et al. 2021).Based on chemical ti"
+    },
+    {
+        "id": 128,
+        "source": "2309.05685v1.pdf",
+        "text": "mescales, the reset approach is a reasonable approximation for modelsfocusing on the chemistry of the inner disk or disk atmosphere, while molecular inheritancebecomes increasingly important towards the cold and dense outer midplane (Visser et al.2009, Drozdovskaya et al. 2016, Eistrup et al. 2016). An additional aspect of the initial con-ditions concern the elemental abundance ratios, which are often assumed to be non-Solar(e.g., Najita et al. 2011, Cleeves et al. 2018), based on observational "
+    },
+    {
+        "id": 129,
+        "source": "2309.05685v1.pdf",
+        "text": "evidence (e.g., Du et al.2015, Miotello et al. 2019).The complexity of the model chemical reaction kinetic rate network can range fromonly considering phase changes of major volatile species (e.g., Piso et al. 2015) to incor-porating large and comprehensive kinetic rate networks of chemical reactions (see Henning& Semenov 2013, and references therein). The simpler chemical models have been usedto establish qualitative interpretative frameworks, and to couple disk dynamics and timedependent chemi"
+    },
+    {
+        "id": 130,
+        "source": "2309.05685v1.pdf",
+        "text": "stry.  Full  chemical reaction networks always include various forms oftwo-body chemical reactions, UV, X-ray, and cosmic ray driven chemistry, adsorption anddesorption of gas molecules on grain surfaces, and simple surface chemistry such as theformation of H2 (e.g., McElroy et al. 2013). Reaction data are available in databases likeUMIST (McElroy et al. 2013) and KIDA (Wakelam et al. 2012), from which appropriatechemical reaction networks can be developed (e.g., Semenov et al. 2004, Kamp et al."
+    },
+    {
+        "id": 131,
+        "source": "2309.05685v1.pdf",
+        "text": " 2017).Additional reactions are then added dependent on the particular science question. Mod-els developed to treat the formation of organic molecules and/or the chemical evolutionof icy grain mantles add surface chemistry reactions (Walsh et al. 2015a, Ruaud & Gorti2019, Furuya et al. 2022b), often inspired by protostellar chemistry models (J rgensen et al.2020, and references therein). Models focused on the inner disk often expand their networksto include high temperature gas-phase chemistry, "
+    },
+    {
+        "id": 132,
+        "source": "2309.05685v1.pdf",
+        "text": "3-body reactions, and/or warm surfacechemistry (Ag undez et al. 2008, Thi et al. 2020, Anderson et al. 2021). Isotope fractionationis included in models where the precise distributions of minor isotopologues is important(e.g. Aikawa & Herbst 1999, Lyons & Young 2005, Willacy & Woods 2009, Miotello et al.2014, Visser et al. 2018).To compare the calculated chemical structures (densities and column densities) withobservations, the disk gas and dust density and temperature structures, the chemical a"
+    },
+    {
+        "id": 133,
+        "source": "2309.05685v1.pdf",
+        "text": "bun-dance of the emitting species, and molecular line excitation data can be input into a radiativetransfer code (e.g. Brinch & Hogerheijde 2010) and then an observational simulator (thefinal step in Fig. 2).2.3. Modeling Chemistry in a Dynamical Disk EnvironmentThere is a growing list of observations that are difficult to explain with static models,and a frontier in disk chemistry modeling is the co-modeling of chemistry and dynamicalprocesses that occur on similar timescales to chemical reacti"
+    },
+    {
+        "id": 134,
+        "source": "2309.05685v1.pdf",
+        "text": "ons. Simulating the combinedeffects of all major physical, chemical, and dynamical processes throughout the entire diskis currently computationally too expensive, however, and models therefore need to make8 Oberg et al."
+    },
+    {
+        "id": 135,
+        "source": "2309.05685v1.pdf",
+        "text": "choices which physical and chemical processes to include and exclude. There are severalmodels that incorporate some aspects of vertical mixing (e.g., Semenov & Wiebe 2011,Furuya & Aikawa 2014), radial gas diffusion (e.g., Aikawa & Herbst 1999, Ilgner et al. 2004,Nomura et al. 2009, Bosman et al. 2018, Price et al. 2020) and dust evolution (e.g., Vasyuninet al. 2011, Akimkin et al. 2013, Krijt et al. 2018, Booth & Ilee 2019, Eistrup & Henning2022, Van Clepper et al. 2022), but many of these consi"
+    },
+    {
+        "id": 136,
+        "source": "2309.05685v1.pdf",
+        "text": "der a simplified chemistry, i.e. theyare not necessarily more  complete  than the static models with larger chemical networks.In addition to local mass transport processes, some models consider how global environ-mental changes affect the chemistry. The effects of the stellar evolution have been exploredby solving for chemical abundances while altering the disk environment at specified time-steps (Price et al. 2020). The impact of short-lived accretion outbursts from the young staron disk compos"
+    },
+    {
+        "id": 137,
+        "source": "2309.05685v1.pdf",
+        "text": "itions has also been investigated (Rab et al. 2017, Cleeves et al. 2017). Theoutbursts are found to generate chemical changes that persist beyond the duration of theevent (Molyarova et al. 2018), but the potential for long-term chemical changes or alterationof planetary compositions by such phenomena has yet to be determined.3. DISK CHEMISTRY OBSERVATIONSDisk chemistry is observationally characterized through a range of techniques, which arereviewed in  3.1.These observations directly produce mo"
+    },
+    {
+        "id": 138,
+        "source": "2309.05685v1.pdf",
+        "text": "lecular line emission fluxes orabsorption depths, from which molecular column densities, abundance structures, or higherlevel constraints on the disk chemistry and its environment can be retrieved ( 3.2). In  3.3we present the molecules detected to date, and in  3.4 provide an overview of how molecularinventories, column densities and abundances vary between disks. Finally,  3.5 and  3.6review observations of radial and vertical structures in disks.3.1. Observational TechniquesAn observational c"
+    },
+    {
+        "id": 139,
+        "source": "2309.05685v1.pdf",
+        "text": "hemical characterization of protoplanetary disks can be achieved by spec-troscopic studies at a wide range of frequencies and energy scales probing electronic, vi-brational and rotational transitions of atoms, molecules and ions. Each wavelength andtechnique probes a unique aspect of the disk chemistry, and a comprehensive disk chemicalcharacterization requires observations across the electromagnetic spectrum.Starting at the high-energy end of the spectrum, X-ray and UV transitions are usedto pr"
+    },
+    {
+        "id": 140,
+        "source": "2309.05685v1.pdf",
+        "text": "obe the elemental abundances of gas and dust that is being accreted onto the stellarsurface, which gives access to the composition of inner disk refractories. (e.g., Drake et al.2005, G unther et al. 2018, Ardila et al. 2013, Kama et al. 2016).UV observations offluorescent H2 and CO transitions are also used to probe hot gas in the innermost diskregion including its C/O/H ratio (France et al. 2012, Arulanantham et al. 2021). Opticalspectroscopy can be used to constrain the the elemental composit"
+    },
+    {
+        "id": 141,
+        "source": "2309.05685v1.pdf",
+        "text": "ion of the innermost diskregions (e.g., Facchini et al. 2016), and to characterize the compositions and dynamicsof disk winds from the upper layers of the inner disk regions (Pascucci et al. 2022, andreferences therein).The NIR-MIR regime enables observations of ro-vibrational and highly excited rota-tional lines of simple molecules in the upper disk layers of inner few au of disks, wheretemperatures and densities are high enough to collisionally excite these transitions (Pon-toppidan et al. 201"
+    },
+    {
+        "id": 142,
+        "source": "2309.05685v1.pdf",
+        "text": "4, and references therein). From space, the Spitzer mission was instru-www.annualreviews.org  Protoplanetary Disk Chemistry9"
+    },
+    {
+        "id": 143,
+        "source": "2309.05685v1.pdf",
+        "text": "mental in surveying a large number of disks in MIR emission lines (e.g. Carr & Najita 2008,Salyk et al. 2011b), but at fairly low spectral resolution ( /  < 700). These observa-tions have been complemented with high resolution spectroscopy from the ground, whichavoids line blending, and enables spectro-tomographic characterizations of the radial originof the emission lines (e.g. Brittain et al. 2007, Pontoppidan et al. 2010, Najita et al. 2018,Salyk et al. 2019, Banzatti et al. 2022). Line absor"
+    },
+    {
+        "id": 144,
+        "source": "2309.05685v1.pdf",
+        "text": "ption observations are possible in diskswith favorable inclinations and are used to provide complementary constraints on the gasinventory (e.g. Gibb et al. 2007, Najita et al. 2021). The NIR-MIR regime also enablesobservations of PAHs (Tielens 2008, and references therein) and disk solid state features,including ice compositions through 1) absorption spectroscopy against an IR bright source,and thus usually performed on edge-on disks (Thi et al. 2002, Pontoppidan et al. 2005,Aikawa et al. 2012, "
+    },
+    {
+        "id": 145,
+        "source": "2309.05685v1.pdf",
+        "text": "Terada & Tokunaga 2017), and 2) scattered light observations of waterice across the 3  m range (Honda et al. 2009). Observations at these wavelengths are setto be transformed by the James Webb Space Telescope (JWST).In the Far-Infrared (FIR), most of the spectroscopic surveys have been performed withthe Herschel mission, due to the prohibitive atmospheric transmission at these wavelengths.FIR wavelengths provide access to ground-state transitions of small hydrides, including HDand H2O (Bergin et"
+    },
+    {
+        "id": 146,
+        "source": "2309.05685v1.pdf",
+        "text": " al. 2013, Salinas et al. 2016, van Dishoeck et al. 2021), [OI], [CI] and[CII], and highly excited CO rotational transitions (Bruderer et al. 2012, Meeus et al. 2013,van der Wiel et al. 2014a, Fedele et al. 2016). The FIR can also be used to probe water icethermal emission features (van den Ancker et al. 2000, Min et al. 2016).Finally, sub-millimeter and millimeter observations enable the spectroscopic characteri-zation of cold gas, which includes most of the disk gas reservoir. Many small and a"
+    },
+    {
+        "id": 147,
+        "source": "2309.05685v1.pdf",
+        "text": "bundantmolecules present rotational transitions at these wavelengths, with typical upper energylevels of 5-500 K. Dependent on line and dust optical depths, these observations can probeall the way to the disk midplane, but more often access the outer disk upper layers. Mil-limeter lines were originally surveyed in disks using single dish telescopes (Dutrey et al.1996, Thi et al. 2004, Guilloteau et al. 2013, 2016). The development of (sub)millimeterinterferometers enabled the first spatially res"
+    },
+    {
+        "id": 148,
+        "source": "2309.05685v1.pdf",
+        "text": "olved disk chemistry studies at high spectralresolution ( /  < 107) (e.g. Sargent & Beckwith 1987, Qi et al. 2003, Dutrey et al.2007). In 2011 2014 (sub)millimeter observations of disks were transformed by the arrivalof ALMA, whose collecting area and long baselines enables the detections of rarer moleculesand the study of disk chemistry at higher spatial resolution studies on scales <10 au ( Oberget al. 2015b, Huang et al. 2018a). Disk chemistry has so far not been accessible at longerwavelengt"
+    },
+    {
+        "id": 149,
+        "source": "2309.05685v1.pdf",
+        "text": "hs, but a future more sensitive radio array may provide access to NH3 and largeorganic molecules in the disk midplane.3.2. Retrieval of Molecular Column Densities and AbundancesMolecular line emission strengths depend on molecular column densities and excitation, andon whether both are homogeneous within the beam. Deriving molecular column densities,abundances and/or information about the disk structure from molecular line observationsis therefore not trivial, and full forward modeling (Fig. 2),"
+    },
+    {
+        "id": 150,
+        "source": "2309.05685v1.pdf",
+        "text": " is the only way to fully accountfor these complexities when retrieving disk chemical properties. Forward modeling has beenused to derive disk chemical properties of individual sources using highly tuned models (e.g.,Cleeves et al. 2018, Calahan et al. 2021), as well as the generation of large grids of modelsthat can then be compared with observed disks with a range of properties (Miotello et al.10 Oberg et al."
+    },
+    {
+        "id": 151,
+        "source": "2309.05685v1.pdf",
+        "text": "2016, Woitke et al. 2019). For many applications the computational cost of full forwardmodeling is, however, prohibitive (though see recent initiatives to reduce computationalcost using machine learning (Smirnov-Pinchukov et al. 2022)), or unpractical due to poorconstraints on the disk structure. In these cases useful retrievals can still be made undersome simplifying assumptions.The simplest retrievals assume that the molecule excitation is well described by localthermodynamic equilibrium (LTE)"
+    },
+    {
+        "id": 152,
+        "source": "2309.05685v1.pdf",
+        "text": ", optically thin lines, optically thin continuum, and asimple emission geometry that results in the emission either completely filling the beam orfilling some fraction of the beam in a well-defined way. In this scenario the molecular columndensity can be calculated either by adopting an excitation temperature, or through rotationdiagram analysis using multiple lines (e.g. Goldsmith & Langer 1999, Najita et al. 2003).The calculations can be done using disk averaged fluxes to derive a disk average"
+    },
+    {
+        "id": 153,
+        "source": "2309.05685v1.pdf",
+        "text": "d columndensity, or spatially resolved fluxes to derive a column density profile. A modified methodcan be used when the lines are marginally optically thick (Najita et al. 2003, Loomis et al.2018b). Column densities can also be derived by fitting disk spectra assuming LTE andadopting some intrinsic line width, including the fitting of hyperfine lines in high resolutionspectra (Kastner et al. 2014, Hily-Blant et al. 2019, Bergner et al. 2019, Teague & Loomis2020). For many lines detected in the ("
+    },
+    {
+        "id": 154,
+        "source": "2309.05685v1.pdf",
+        "text": "sub-)mm regime, this LTE retrieval approach isvalid as long as molecular column densities vary slowly with radius and the lines originatebelow the disk atmosphere where the gas density exceeds the line critical density.In cases where LTE cannot be assumed, a limited forward modeling approach is neededto predict line excitation using the local disk density and temperature, and molecular col-lisional excitation coefficients. Cases where lines are likely in non-LTE include millimeterobservations of"
+    },
+    {
+        "id": 155,
+        "source": "2309.05685v1.pdf",
+        "text": " the disk atmosphere, and ro-vibrational lines. A common approach in thesecases is to use a LVG (Large Velocity Gradient) approximation (Pi etu et al. 2007, van derTak et al. 2007) or Monte Carlo-based radiative transfer codes (Hogerheijde & van der Tak2000, Brinch & Hogerheijde 2010) coupled with an observation simulator to extract molec-ular abundances. The disk abundance structure can be parametric (e.g. Qi et al. 2011) orthe product of a disk chemistry code (Bruderer et al. 2012, Du et al. 2"
+    },
+    {
+        "id": 156,
+        "source": "2309.05685v1.pdf",
+        "text": "015, Cleeves et al.2018), but in either case the retrieval is achieved by quantifying the goodness of fit of thedifferent abundance structures to the observations. For IR lines, fast line ray-tracers canalso be coupled to thermo-chemical codes to predict the rich line emission from disk regionswith large velocity gradients (Pontoppidan et al. 2009, Bosman et al. 2017, Woitke et al.2018). In addition to molecular abundances, these kind of retrieval methods are also usedto constrain disk environme"
+    },
+    {
+        "id": 157,
+        "source": "2309.05685v1.pdf",
+        "text": "ntal parameters such as gas mass, thermal structure, CO de-pletion, elemental ratios and ionization (Pi etu et al. 2007, Kamp et al. 2010, Dutrey et al.2014, Cleeves et al. 2015b, Anderson et al. 2019, Miotello et al. 2019, Woitke et al. 2019).Finally, we note, that in all these cases, retrievals rely on detailed spectroscopic data forthe observed molecular lines, which are provided in databases such as HITRAN (Gordonet al. 2022), the Cologne Database for Molecular Spectroscopy (CDMS; M uller et"
+    },
+    {
+        "id": 158,
+        "source": "2309.05685v1.pdf",
+        "text": " al. 2001,2005, Endres et al. 2016), JPL spectral line catalog (Pickett et al. 1998), and the LeidenAtomic and Molecular Database (LAMDA Sch oier et al. 2005). These in their turn rely onlaboratory experiments and computations.www.annualreviews.org  Protoplanetary Disk Chemistry11"
+    },
+    {
+        "id": 159,
+        "source": "2309.05685v1.pdf",
+        "text": "3.3. Disk Molecular InventoriesThere are 31 detected molecules in disks, not counting isotopologues, most (26) of which arepresented in McGuire (2022, and references therein) with recent additions from Booth et al.(2021a), Canta et al. (2021), Phuong et al. (2021) and Brunken et al. (2022). The majorityof these are detected at millimeter wavelengths (24), followed by IR (10), and far-IR (6).Figure 3 shows these molecules and their observed isotopologues (also presented in McGuire(2022) except fo"
+    },
+    {
+        "id": 160,
+        "source": "2309.05685v1.pdf",
+        "text": "r 13CO2 (Grant et al. 2022) and HC18O+ (Furuya et al. 2022b)), organizedinto seven chemical  families : inorganic neutrals (excluding CO and S-molecules), COisotopologues, molecular ions, nitriles and iso-nitriles, hydrocarbons, O-containing organics,and S-molecules.Inorganic NeutralsIonsNitriles and Iso-nitrilesHydrocarbonsCO Isotop.O-OrganicsS-MoleculesIRFIR(sub)mmC2SH2SN2H+HCO+CH+H2CSSOOHH2CH3CNC2H2H2OCH3OCHO*HCOOHCH3OCH3CH3OHH2CONH3CO2CO13COC18OC17OCONH3H2O*13CSC34SOHH2OHDNON2D+H2SS34O2CO13C"
+    },
+    {
+        "id": 161,
+        "source": "2309.05685v1.pdf",
+        "text": "OC18OC17O13C18OH13CO+HC18O+DCO+HC3NHNCCNCH2CNHCNHCN13CNC15NHC15NH13CNDCNDNCc-C3H2C2HC2DSO2CSCH4Figure 3Illustration of the molecules detected so far in disks at IR (red), FIR (yellow), and (sub)mm(blue) wavelengths. An  *  indicates a tentative detection.IR observations have resulted in large disk samples with detections of gas-phase inor-ganic neutrals (H2, OH, H2O, CO, 13CO, C18O, C17O, NH3, and CO2), but also of thesmall organics HCN and C2H2, and of H2S (e.g. Lahuis et al. 2007, Carr & Najit"
+    },
+    {
+        "id": 162,
+        "source": "2309.05685v1.pdf",
+        "text": "a 2011,Mandell et al. 2012, Najita et al. 2021), which together can be used to constrain the in-ner disk chemistry. In addition to narrow gas emission and absorption lines, IR spectratowards some disks also contain features from polycyclic aromatic hydrocarbons (PAHs)(Acke et al. 2004, Geers et al. 2006), and of ice-phase H2O, CO2 and CO (Pontoppidanet al. 2005, Aikawa et al. 2012). We expect both the gas and ice IR inventory to growrapidly in the coming years through JWST observations, and alre"
+    },
+    {
+        "id": 163,
+        "source": "2309.05685v1.pdf",
+        "text": "ady early JWST sciencehas presented one new inner disk molecule detection: 13CO2 (Grant et al. 2022).At Far-IR wavelengths the only molecule detected towards more than a handful objectsis CO (Meeus et al. 2013).The few HD, OH, H2O and NH3 detections that do existdo provide unique constraints on disk physics and chemistry, however, and have been thesubjects of a large number of studies (e.g. Fedele et al. 2013, Bergin et al. 2013, Riviere-Marichalar et al. 2015, Salinas et al. 2016, van Dishoeck "
+    },
+    {
+        "id": 164,
+        "source": "2309.05685v1.pdf",
+        "text": "et al. 2021). The importance ofthis group of hydrides is that they currently present the only constraints we have on cold12 Oberg et al."
+    },
+    {
+        "id": 165,
+        "source": "2309.05685v1.pdf",
+        "text": "water and ammonia in disks, as well as provide a unique handle on the disk gas mass (HD).Millimeter and submillimeter disk observations have resulted in a relatively large sam-ple of CO isotopologue, HCO+, HCN and C2H detections, and  10 detections of N2H+,DCN, CN, H2CO and CS (see 3.4. The remaining 28 molecules and isotopologues havebeen either rarely targeted (e.g.HNC), or rarely detected.One aspect in Fig 3 worthnoting is the prominence of the nitrile and iso-nitrile family, especially compa"
+    },
+    {
+        "id": 166,
+        "source": "2309.05685v1.pdf",
+        "text": "red to O-bearing organics. This can be compared to the IR observations, where the detection rateof O-bearing molecules, nitriles and hydrocarbons appear more balanced, indicative of verydifferent chemical environments in inner and outer disk regions.3.4. Molecular DemographicsMolecular line detection rates and intensities across disk samples provide a first measure ofthe diversity of chemical environments during planet formation, even though any interpre-tation is complicated by possible differe"
+    },
+    {
+        "id": 167,
+        "source": "2309.05685v1.pdf",
+        "text": "nces in line excitation. At far-IR wavelengths thedetection rate has been too small to establish clear demographic patterns, though e.g. thelow detection rate of water in T Tauri disks is in itself informative. This section thereforefocuses on IR and (sub)mm constraints.The inner disk molecular demographics probed by IR observations was reviewed byPontoppidan et al. (2014) and have not been substantially revised since. Lines from waterand small organics are common (30 50% detection rates with Sp"
+    },
+    {
+        "id": 168,
+        "source": "2309.05685v1.pdf",
+        "text": "itzer) in disks around Solar-type stars, and we speculate this will increase to close to 100% with JWST. The detectionrate is much lower for more massive stars, and somewhat lower for cooler stars. In thelatter case there is evidence for a different disk chemistry based on distinct HCN/C2H2ratios compared to more luminous stars (Pascucci et al. 2009, 2013). There is also evidenceof a lower detection rate towards so-called transition disks, disks with a large central cavity,though the sample is s"
+    },
+    {
+        "id": 169,
+        "source": "2309.05685v1.pdf",
+        "text": "mall.These differences in line detections and intensities acrossdifferent disk families may be due to different inner disk chemistry because of differentlevels of stellar irradiation, differences in line excitation, or different levels of influx oficy pebbles, or a combination of all three (e.g. Salyk et al. 2011b, Pascucci et al. 2013,Antonellini et al. 2016, Najita et al. 2018, Banzatti et al. 2020), but some of the observeddifferences may also be due to molecular excitation. Distinguishing be"
+    },
+    {
+        "id": 170,
+        "source": "2309.05685v1.pdf",
+        "text": "tween these differentexplanations is currently complicated by the low spectral resolution and limited sensitivityof Spitzer, and by small observing windows of higher resolution ground-based observations.Medium-resolution observations with JWST should directly address these difficulties and anew demographic understanding of inner disk chemistry is likely forthcoming.Millimeter line surveys of disks are not yet mature enough to enable determinationsof detection rates and how they vary across popul"
+    },
+    {
+        "id": 171,
+        "source": "2309.05685v1.pdf",
+        "text": "ations. Instead Fig. 4 (upper panel)shows the distributions of reported disk integrated fluxes normalized to 150 pc for a sub-set of commonly observed molecules using their brightest 1 mm transition (e.g. CO 2 1)1. These observations were taken from a large number of publications including  Oberget al. (2021b), Bergner et al. (2020), Pegues et al. (2021), Miotello et al. (2019), Ansdellet al. (2016), Guilloteau et al. (2016), Anderson et al. (2022), Long et al. (2017), Barenfeld1When a different"
+    },
+    {
+        "id": 172,
+        "source": "2309.05685v1.pdf",
+        "text": " line flux was instead reported, e.g. CO 1 0 or 3 2, the 1 mm line flux wasestimated assuming optically thick emission for  bright  lines and optically thin emission for  weak lines, and an excitation temperature of 20 K.www.annualreviews.org  Protoplanetary Disk Chemistry13"
+    },
+    {
+        "id": 173,
+        "source": "2309.05685v1.pdf",
+        "text": "CO13CO C18O HCO + N2H +HCNDCNCNC2HH2COCS101102103104105Flux @150 pc [mJy km s1]COHCO + N2H +HCNDCNCNC2HHC3N CH3CN H2CO10121014101610181020N(X) @100 au [cm2]Figure 4Upper panel: Disk integrated fluxes from 1 mm transitions, corresponding to ALMA B6,normalized to a distance of 150 pc. Lower panel: Outer disk column densities extracted fromspatially resolved ALMA observations. In these violin plots the width of the distribution denotesthe number of disks that fall within a certain flux or column de"
+    },
+    {
+        "id": 174,
+        "source": "2309.05685v1.pdf",
+        "text": "nsity range, and each horizontalline signifies an individual measurement.et al. (2016), Huang et al. (2017),  Oberg et al. (2010, 2011c). When interpreting thesedistributions it is important to note that the line flux floor for each species is set by thesurvey sensitivity and hence not very informative. The maximum fluxes for each species areinformative, however, and show that the CO line is about an order of magnitude brighterthan 13CO, HCO+, HCN and CN, followed by C18O, C2H and CS. N2H+, H2CO"
+    },
+    {
+        "id": 175,
+        "source": "2309.05685v1.pdf",
+        "text": " and DCNpresent the weakest emission among these commonly observed molecules.Many of theflux distributions are bimodal due to a focus in the literature on either small samples oflarge and bright disks (e.g. Dutrey et al. 2007, Bergner et al. 2020), or on larger samplesthat are dominated by the more common smaller-sized and less bright disks (Ansdell et al.2016, van Terwisga et al. 2019). The range of observed line fluxes for a single species musttherefore be interpreted with caution, but it is s"
+    },
+    {
+        "id": 176,
+        "source": "2309.05685v1.pdf",
+        "text": "till interesting to note that it frequentlyspans two orders of magnitude, indicative of substantially different molecular reservoirsamong planet-forming disks.A similar source-to-source variation is seen among the small number of disks that havewell constrained column density radial profiles in multiple species. Fig. 4 (lower panel) usesdata from Zhang et al. (2018),  Oberg et al. (2021a), Terwisscha van Scheltinga et al. (2021),Qi et al. (2013), Zhang et al. (2021a), Cataldi et al. (2021), Qi e"
+    },
+    {
+        "id": 177,
+        "source": "2309.05685v1.pdf",
+        "text": "t al. (2019), Guzm an et al.(2021), Bergner et al. (2021), Qi et al. (2011), Phuong et al. (2021), Zhang et al. (2019),Bergner et al. (2019), Facchini et al. (2021) to show the range in column densities at14 Oberg et al."
+    },
+    {
+        "id": 178,
+        "source": "2309.05685v1.pdf",
+        "text": " 100 au2. Even within this small and highly biased sample there are orders of magnitudedifferences in column densities. Possible causes of this chemical diversity include differencesin temperature structures, levels of CO freeze-out, high-energy radiation fluxes, disk ages,and initial chemical conditions across the disk sample.To obtain more detailed demo-graphics, we need surveys that address the current sample biases and have the sensitivityto detect a range of molecular abundances.3.5. Molecu"
+    },
+    {
+        "id": 179,
+        "source": "2309.05685v1.pdf",
+        "text": "lar Sub-StructuresHD 163296HCN 32AS 209C2H 32PDS 70HCO + 43TW HyaCN 21Figure 5Examples of chemical sub-structures towards disks showing the four rings in HCN emissiontowards HD 163296 (  Oberg et al. 2021b), a single broad ring in C2H emission towards AS 209( Oberg et al. 2021b), a ring and central peak in HCO+ emission towards PDS 70 (Facchini et al.2021), and a ring, a plateau and a central peak in CN emission towards TW Hya (Nomura et al.2021). The scale bar in the lower right corner signifie"
+    },
+    {
+        "id": 180,
+        "source": "2309.05685v1.pdf",
+        "text": "s 20 au, and the oval in the lower left cornerthe synthesized beam.Within both the inner and outer disk regions we expect chemical sub-structure dueto gradients in radiation flux, ionization and temperature, as well as dust and gas surfacedensity gaps and rings ( 1.2). Analogous to dust sub-structures, which can be identified boththrough resolved images and through modeling of spectral energy distributions (Andrews2020), molecular sub-structures can be observed through chemical imaging (Fig. 5),"
+    },
+    {
+        "id": 181,
+        "source": "2309.05685v1.pdf",
+        "text": " andline excitation analysis. Furthermore, in a Keplerian disk, the spectral line shape can beused for spectroastrometry, and to map different spectral line regions to different disk radii,which provides additional tools to characterize chemical disk structures at smaller scalesthan are accessible with imaging alone.Spectroastrometry, line excitation modeling, and spectral profile analysis of spectrallyresolved lines are been especially important to access sub-structure in the inner disk (e.g.Po"
+    },
+    {
+        "id": 182,
+        "source": "2309.05685v1.pdf",
+        "text": "ntoppidan et al. 2008, Najita et al. 2010, Thi et al. 2014, Fedele et al. 2013). Threeexamples of how line excitation and line spectral profiles can reveal chemical sub-structureare 1) the finding of Salyk et al. (2011b) that OH, C2H2, HCN, CO2, and H2O have differentexcitation temperatures, suggestive of a radially progressive inner disk composition, 2) anobserved trend between CO emitting radii and the stellar luminosity based on the COspectral profiles (Pontoppidan et al. 2011, Salyk et al. 2"
+    },
+    {
+        "id": 183,
+        "source": "2309.05685v1.pdf",
+        "text": "011a), and 3) the discovery of aradially varying H2O/CO ratio based on a combination of excitation and spectral profileanalysis (Banzatti et al. 2022).Spectral line profile analysis has also been applied to2For two disks where 100 au data was not available we instead use reported column densities at70 and 240 auwww.annualreviews.org  Protoplanetary Disk Chemistry15"
+    },
+    {
+        "id": 184,
+        "source": "2309.05685v1.pdf",
+        "text": "millimeter line observations to map out the molecular emission structure in disks (e.g.Dutrey et al. 2008, Rosenfeld et al. 2012, Bosman et al. 2021c), which has revealed gasand/or CO chemistry sub structure on scales of a few au, spanning the radial gap betweentypical IR and millimeter sub-structure constraints.Most millimeter wavelength evidence for chemical sub-structure comes from spatiallyresolved observations, however, using millimeter interferometers. Early examples includethe discoveries"
+    },
+    {
+        "id": 185,
+        "source": "2309.05685v1.pdf",
+        "text": " of a H2CO ring towards DM Tau (Aikawa et al. 2003), a DCO+ ring towardsTW Hya (Qi et al. 2008) and C2H rings towards several disks (Henning et al. 2010). Higherresolution images emerged with the arrival of ALMA and currently  10 disks have beenchemically characterized at scales of 0 .1 0 .2. Among these disks, chemical sub-structure isubiquitous. The ALMA Large Program MAPS alone, which surveyed five disks, identified 250 rings, gaps, and shoulders (Law et al. 2021a). Figure 5 illustrates the d"
+    },
+    {
+        "id": 186,
+        "source": "2309.05685v1.pdf",
+        "text": "iversity ofchemical sub-structures that has been observed, ranging from single rings to four-ringedsystems, and ring and gap widths from unresolved (<20 au), to 100s of au.HD 163296C2HHCN13COAS 209GM Aur050100150Radius[au]101102103104Line flux [mJy km s1 + offset]MWC 480CNCSTW HyaH13CNPDS 70Figure 6Comparisons of dust sub-structure (background) and molecular emission radial profiles (lines)towards six disks (Law et al. 2021a, Nomura et al. 2021, Facchini et al. 2021). The beam size ofthe dust an"
+    },
+    {
+        "id": 187,
+        "source": "2309.05685v1.pdf",
+        "text": "d lines have been homogenized and is between 10 and 25 au towards the different disks.There are multiple possible origins of the observed inner and outer disk chemical diskstructures. The (gas-phase) formation and destruction of some species is temperature sensi-tive and this should result in peak abundances at certain disk radii. This may explain someof the inner disk chemical differentiation as well as broader chemical rings in the outer disk.Similarly, molecules that depend on photochemistry "
+    },
+    {
+        "id": 188,
+        "source": "2309.05685v1.pdf",
+        "text": "for formation or destruction shouldvary across the disk due a decreasing UV flux with disk radius and this may explain otherbroad chemical structures (e.g. Cazzoletti et al. 2018, Bergner et al. 2021). A third poten-tial cause of sub-structure is snowlines (see 4.1), though they are excluded as explanations16 Oberg et al."
+    },
+    {
+        "id": 189,
+        "source": "2309.05685v1.pdf",
+        "text": "for a majority of the currently observed chemical sub-structures (Long et al. 2018, Huanget al. 2018b, Law et al. 2021a). Finally, gaps in dust and gas may produce chemical sub-structure due to enhanced photochemistry in dust gaps (Bosman et al. 2021a), differentthermal structures in dust gaps and rings (Facchini et al. 2018b, Alarc on et al. 2020), de-creased grain surface chemistry in dust gaps, and lower molecular gas column densities in(H2) gas gaps (Teague et al. 2017). Observational tests "
+    },
+    {
+        "id": 190,
+        "source": "2309.05685v1.pdf",
+        "text": "of these proposed relationships aresomewhat ambiguous. There is no one-to-one correspondence between dust and chemicalstructures (Jiang et al. 2022), but as shown in Fig. 6 there are some coincidences betweendust and chemical sub-structures, suggestive of that specific dust gap and ring propertiesmay be needed to shape the chemical structures of disks. Conversely, it may be possible touse molecular emission sub-structure as probes of disk gap and ring properties, includingwhether a gap is formed"
+    },
+    {
+        "id": 191,
+        "source": "2309.05685v1.pdf",
+        "text": " by a planet (Bergner et al. 2019). In addition, these observationssuggest that the local chemical environment within which a planet assembles could be quitedistinct from the chemistry at nearby disk radii.3.6. Vertical Chemical Gradients and Sub-structureAs introduced in  1.3, the disk chemistry is vertically highly structured. In the disk atmo-sphere, molecular abundances are regulated by photodissociation, which results in molecule-specific and, for CO and N2 isotopologue specific, photodisso"
+    },
+    {
+        "id": 192,
+        "source": "2309.05685v1.pdf",
+        "text": "ciation fronts (e.g. Visser et al.2009, Miotello et al. 2014). Towards the disk midplane, molecular abundances are boundedby vertical condensation fronts or snow surfaces, though a combination of turbulence andnon-thermal desorption may maintain a small amount of volatiles also in the coldest part ofthe disk midplane (e.g. Hersant et al. 2009). As a result most molecules should be presentin distinct vertical layers, which together constitute the disk  molecular layer  (Aikawa et al.2002). Charac"
+    },
+    {
+        "id": 193,
+        "source": "2309.05685v1.pdf",
+        "text": "terizing the resulting vertical chemical stratification is key to benchmarkingdisk chemistry models and constraining the overall disk chemistry evolution.12CO 2-1100 auCS 5-414161820T (K)5.07.510.012.5T (K)Figure 7Tomographically reconstructed distribution of 12CO and CS in the Flyng Saucer (data fromDutrey et al. 2017).At (sub)millimeter wavelengths, interferometers provide high enough angular resolutionto spatially resolve vertical gradients in bright molecular line emission, and by exploiting"
+    },
+    {
+        "id": 194,
+        "source": "2309.05685v1.pdf",
+        "text": "the position and velocity information, it is possible to reconstruct the full 3D tomographyof the line intensity (Dutrey et al. 2017, Teague et al. 2020). Figure 7 shows a text-bookcase of CO and CS emitting from different layers in the edge-on disk the Flying Saucer(Dutrey et al. 2017), where the lack of CO emission in the disk midplane is explained bywww.annualreviews.org  Protoplanetary Disk Chemistry17"
+    },
+    {
+        "id": 195,
+        "source": "2309.05685v1.pdf",
+        "text": "CO freeze-out. The emission of CS 5-4 originates from a z/r  0.1 layer, close to the diskmidplane, demonstrating that the molecular layer can extend deep into the disk. Emissionsurfaces can also be extracted for disks at other inclinations by exploiting the Keplerianrotation pattern and disk geometry (Pinte et al. 2018a). This methodology requires highangular resolution and signal-to-noise and has therefore only been applied to particularlybright, optically thick molecular lines. As a consequenc"
+    },
+    {
+        "id": 196,
+        "source": "2309.05685v1.pdf",
+        "text": "e, disk (frontside) emission heightsexist for 12CO towards a fairly large sample, for rare CO isotopologues towards a handfulof sources, and for other molecules towards even fewer disks (Huang et al. 2020, Law et al.2021b, 2022, Paneque-Carre no et al. 2022). In these sources CO (isotopologue) emissionbecomes optically thick at a range of z/r, indicating that the extent of the warm molecularlayer and the CO abundance vary substantially between disks.The molecular emissionheight derived from the "
+    },
+    {
+        "id": 197,
+        "source": "2309.05685v1.pdf",
+        "text": "disk backside should trace the snow surface, but this has onlybeen achieved for CO towards three disks so far, though there is active development ofthis technique (Pinte et al. 2018b, Casassus et al. 2021, Izquierdo et al. 2022). In the fewdisks for which constraints exist, CN is present in the disk atmosphere, in agreement witha main formation route of CN being UV-pumped H2 interacting with atomic N (Cazzolettiet al. 2018), while other small organics, especially HCN, resides closer to the plane"
+    },
+    {
+        "id": 198,
+        "source": "2309.05685v1.pdf",
+        "text": "t-formingmidplane.For cases where direct imaging of vertical chemical structures are impractical or im-possible, which includes inner disk line observations as well as weaker (sub)millimeter linesemitting in the outer disk, line excitation analysis offers an alternative approach to char-acterize the disk vertical chemical structure as long as the disk temperature structure isconstrained.The approach has so far not been extensively used in the inner disk dueto large uncertainties in the vertical "
+    },
+    {
+        "id": 199,
+        "source": "2309.05685v1.pdf",
+        "text": "temperature gradient, but this may soon change asmedium-resolution JWST disk spectra analysis techniques are developed. The chemistryof the warm and highly irradiated disk atmosphere of the outer disk has been probed byhigh-J CO lines, and the atomic oxygen line at 63  m in the far-IR (Bruderer et al. 2012,Kamp et al. 2013). The excitation temperatures of other small and mid-sized moleculeshave been retrieved from medium and high spatial resolution data, and at 15 40 K theyare consistent with mo"
+    },
+    {
+        "id": 200,
+        "source": "2309.05685v1.pdf",
+        "text": "dels of the disk midplane and molecular layer (Loomis et al. 2018a,Bergner et al. 2019, Pegues et al. 2021, Guzm an et al. 2021, Ilee et al. 2021, Cataldi et al.2021, Facchini et al. 2021). Interestingly the excitation temperatures of several of the morecomplex organic molecules, including CH3CN, place them close to the midplane at z/r  0 0.2 (Loomis et al. 2018a, Ilee et al. 2021), which suggest they may contribute to the organicbudget of forming planets.Interpretation of such data is complicat"
+    },
+    {
+        "id": 201,
+        "source": "2309.05685v1.pdf",
+        "text": "ed, however, by thepossibility of non-LTE excitation and e.g. for CN there is a range of derived excitationtemperatures and inferred emission heights (Chapillon et al. 2012, Hily-Blant et al. 2017,Teague et al. 2020).4. THE DISTRIBUTIONS AND CHEMISTRY OF DISK VOLATILESThe distribution of volatiles in disks, including volatile organics, provides the initial condi-tions for planet volatile compositions and chemistry. The perhaps most important conceptto predict these distributions is condensation "
+    },
+    {
+        "id": 202,
+        "source": "2309.05685v1.pdf",
+        "text": "fronts or snowlines, which is introduced in 4.1.  4.2 reviews the existing observational evidence for how the major volatile elementsOCNSP are distributed across the disk.  4.3 focuses in on the volatile organics in disks,and the importance of inheritance and in situ UV chemistry for disk organic reservoirs.18 Oberg et al."
+    },
+    {
+        "id": 203,
+        "source": "2309.05685v1.pdf",
+        "text": "An important tool to trace the origins and evolution of volatiles in disks are stable isotoperatios, and  4.4 presents observed disk isotopologue ratios and the associated constraintson isotope fractionation chemistry.4.1. SnowlinesVolatile condensation fronts were briefly introduced in  3.5 and  3.6, as causes of chemicalsubstructure and vertical chemical gradients. In this section we focus on the radial dimen-sion i.e. on snowlines, and review the theory and observations that have been develop"
+    },
+    {
+        "id": 204,
+        "source": "2309.05685v1.pdf",
+        "text": "ed topredict and constrain snowline locations. These locations matter for several reasons. First,freeze-out of major volatiles changes both the gas and grain surface chemical trajectories.For example freeze-out of CO both enables the formation of O-rich organics in the ice,and may promote a C-rich gas-phase organic chemistry (e.g. Walsh et al. 2015a, Schwarzet al. 2018). Second, in planet formation models, snowlines of major carriers of O, C andN determine the volatile compositions of primary at"
+    },
+    {
+        "id": 205,
+        "source": "2309.05685v1.pdf",
+        "text": "mospheres and planetary envelopes,and have emerged as a major explanatory framework for observed exoplanet atmosphericcompositions ( Oberg et al. 2011a, Cridland et al. 2020). Third, snowlines, especially thewater snowline, are also expected to affect dust grain evolution (e.g. Gundlach & Blum2015, Okuzumi & Tazaki 2019), and may regulate when and where planet cores assemble,and hence formation locations of terrestrial planets vs Neptune-like planets and Gas Giants(Drazkowska et al. 2022).Figure"
+    },
+    {
+        "id": 206,
+        "source": "2309.05685v1.pdf",
+        "text": " 8Left panel: Expected gas-phase abundances of five major CNO carriers in the disk midplaneassuming a simple T Tauri disk temperature model (see text) and inheritance of interstellarvolatiles. The sharp abundance overturns mark the respective snowlines. Right panels:Observations of C18O and N2H+ with ALMA towards TW Hya. The outer edge of C18O and theinner edge of the N2H+ should both trace the CO snowline (Qi et al. 2013, Schwarz et al. 2016).Figure 8 (left panel) illustrates the five major sno"
+    },
+    {
+        "id": 207,
+        "source": "2309.05685v1.pdf",
+        "text": "wline locations in a generic disk modelfor a solar-type star using the disk framework, binding energies and abundances from  Oberg& Wordsworth (2019) and  Oberg & Bergin (2021), except that we adopt a midplane temper-ature profile with T1au = 150K and a power of -0.47. This simple parametric model providesa useful starting point for discussing snowline locations, but it is important to keep in mindthat it presumes a specific temperature profile that is not generally applicable, and thatin realit"
+    },
+    {
+        "id": 208,
+        "source": "2309.05685v1.pdf",
+        "text": "y snowline models are complicated by a range of dynamical and chemical effects.To begin with, the disk temperature structure changes over time, sometimes abruptly duean accretion burst. Such accretion bursts would move snowlines outwards, while stellarwww.annualreviews.org  Protoplanetary Disk Chemistry19"
+    },
+    {
+        "id": 209,
+        "source": "2309.05685v1.pdf",
+        "text": "evolution results in an inward migration of snowline locations over time (Ciesla & Cuzzi2006, Price et al. 2021, Cieza et al. 2016, Banzatti et al. 2015). Furthermore, inward driftof pebbles often occurs on timescales similar to desorption, which can readily move theeffective snowline a factor of two inwards (Piso et al. 2016). Snowline locations also de-pend on the chemical compositions of icy grains, since volatile binding energies depend onthe grain surface material (e.g. Collings et al. 2003"
+    },
+    {
+        "id": 210,
+        "source": "2309.05685v1.pdf",
+        "text": ", Fayolle et al. 2016, Kamp et al. 2017,Potapov et al. 2018a). In addition H2O and CO2 ices can entrap hypervolatiles effectivelyproducing two snowlines, one at the expected location and one at the location where theice matrix desorbs or crystallizes (Bar-Nun et al. 1985, Lunine & Stevenson 1985, Collingset al. 2004, Simon et al. 2019). The impact of snowlines on gas and solid abundances isalso more complex than is indicated in Fig. 8, which only considers a balance betweendesorption and adsorpt"
+    },
+    {
+        "id": 211,
+        "source": "2309.05685v1.pdf",
+        "text": "ion. If the disk is somewhat turbulent, gas diffusion should resultin a depletion of vapor inside of the snowline, and build-up of ice outside of the snowlines(e.g. Cuzzi & Zahnle 2004, Ros & Johansen 2013, Krijt et al. 2016). Finally, the inheritedvolatiles may chemically evolve over the disk lifetime (Schwarz et al. 2018, Eistrup et al.2016), which will change the abundances of volatiles and therefore the relative importanceof different snowlines.Snowline locations have been observationally co"
+    },
+    {
+        "id": 212,
+        "source": "2309.05685v1.pdf",
+        "text": "nstrained through at least six differenttechniques: 1) images of major volatiles with important snowlines, 2) images of gas-phasechemical tracers (Fig. 8), 3) tomography using spectrally resolved lines (Carr et al. 2018,Salyk et al. 2019), 4) line excitation studies (Zhang et al. 2013, Blevins et al. 2016), 5)changes in dust spectroscopic properties at a snowline (Cieza et al. 2016), and 6) associationof disk dust sub-structures with snowlines (Zhang et al. 2015). Each of these techniques hasadv"
+    },
+    {
+        "id": 213,
+        "source": "2309.05685v1.pdf",
+        "text": "antages and disadvantages. Direct imaging of snowlines is currently only possible forCO using rare isotopologues, and even for CO it is often unclear if the observed drop-off inCO vapor corresponds to the CO snowline, a decrease in C and O elemental abundances, oran overall decrease in gas surface density. There are plausible gas-phase chemical probes ofH2O, CO and N2 snowlines that can be used to extract snowline locations (Qi et al. 2013,Bjerkeli et al. 2016, Qi et al. 2019, Leemker et al. 202"
+    },
+    {
+        "id": 214,
+        "source": "2309.05685v1.pdf",
+        "text": "1), but these probes are not alwaysunique to depletion of the targeted volatile at its snowline and therefore require carefulinterpretation (van  t Hoff et al. 2017). Spectral tomography (the estimation of the spacialdistribution from spectral information taking advantage of Keplerian rotation) of snowlinesis limited by the possible presence of non-Keplerian motion. Furthermore the water IRspectral lines that are accessible from the ground, and hence at high spectral resolution,are not well matc"
+    },
+    {
+        "id": 215,
+        "source": "2309.05685v1.pdf",
+        "text": "hed to snowline excitation conditions.Snowline constraints from lineexcitation depend on the assumed disk temperature structure, which is often uncertain.The fifth approach, observing changes in dust spectroscopic properties across snowlinesdepend on models of e.g. increased fragmentation at major snowlines, and are hence quiteindirect.Finally, a proposed association between disk dust sub-structure and snowlineshas not yet been demonstrated and this approach hence remains highly speculative (Lon"
+    },
+    {
+        "id": 216,
+        "source": "2309.05685v1.pdf",
+        "text": "get al. 2018, Huang et al. 2018b). Given the inherent uncertainties in all these techniques,a snowline location should ideally be observed using at least two different methods to beconsidered secure.20 Oberg et al."
+    },
+    {
+        "id": 217,
+        "source": "2309.05685v1.pdf",
+        "text": "4.2. Elemental O, C, N, S and P Disk AbundancesThe elemental abundances of OCNSP across disks regulate the volatile compositions offorming planets and planetesimals. There are at least four factors that influence the OCNSPabundance patterns: the nature of the OCNSP carriers inherited from the interstellar andprotostellar phases, chemical transformations in the disks, locations of condensation fronts,and transport processes. In this section we review existing constraints on elemental OCNSPdisk ab"
+    },
+    {
+        "id": 218,
+        "source": "2309.05685v1.pdf",
+        "text": "undances, organized by disk location (outer vs. inner disk) and phase (solid vs. gas).We proceed from the expected least processed volatiles (outer disk solids) to most (innerdisk gas), but note that efficient radial and vertical transport may blur distinctions betweenprocessed and pristine volatile reservoirs in disks.In the outer disk, OCNSP are present in both refractory and icy solids. Oxygen is amajor component of silicates, which is observed to be abundant in disks, while C is presentin re"
+    },
+    {
+        "id": 219,
+        "source": "2309.05685v1.pdf",
+        "text": "fractory carbon.Based on comet observations (Altwegg et al. 2019), the latter isabundant and may either be inherited from the interstellar medium, or a product of diskorganic chemistry, or a combination of both. There is some evidence, based on observedhigh gas-phase C/O ratios, that a portion of this refractory C reservoir is transformed intoC gas during the disk life time (Bosman et al. 2021b). Nitrogen is often assumed to nothave a significant refractory phase, but recent cometary measurement"
+    },
+    {
+        "id": 220,
+        "source": "2309.05685v1.pdf",
+        "text": "s, as well as previousinterstellar ice spectroscopy, suggests that ammonium salts may be an important carrier ofN (Boogert et al. 2015, Altwegg et al. 2020). The outer disk ice reservoir is constrainedby interstellar ice observations (setting the initial conditions), a small set of disk ice obser-vations (e.g. Pontoppidan et al. 2005, Aikawa et al. 2012), comet compositions (Mumma& Charnley 2011, Altwegg et al. 2019), and disk gas-phase observations of sublimated ice.The latter is possible follo"
+    },
+    {
+        "id": 221,
+        "source": "2309.05685v1.pdf",
+        "text": "wing a stellar luminosity burst, and in sources where the outerdisk is exposed to high levels of stellar radiation due to the combination of a higher-massstar and a large inner cavity (Banzatti et al. 2012, 2015, Cieza et al. 2016, Lee et al. 2019,Booth et al. 2021b, van der Marel et al. 2021). The disk and comet observations indicate,that similar to the interstellar medium, disk icy grains mainly consist of H2O, CO2, CO,NH3 and O-rich organics. Based on theory we also expect N2 to be present in"
+    },
+    {
+        "id": 222,
+        "source": "2309.05685v1.pdf",
+        "text": " the coldestdisk regions. The H2O ice is likely largely inherited from the ISM based on models (seee.g. Visser et al. 2009), and Solar System H2O D/H ratios (Cleeves et al. 2014), while thecontribution of inheritance vs in situ chemistry to the other major O, C and N carriers isless well constrained. The outer disk ices also appear to contain substantial amounts of S(Altwegg et al. 2019, Booth et al. 2021a), as well as some P (Altwegg et al. 2019), thoughmost S and P are expected to be present i"
+    },
+    {
+        "id": 223,
+        "source": "2309.05685v1.pdf",
+        "text": "n refractory carriers (see below).The outer disk gas OCNSP composition can be directly constrained by observing CO,H2O and NH3, the three expected major carriers that are observable at far-IR and millimeterwavelengths. CO gas appears to be often depleted in disks (see  5.1), reducing the C andO gas abundances. This may be explained by a combination of CO processing, formingless volatile species, and dynamics (Schwarz et al. 2018, Krijt et al. 2020).H2O vaporhas only been detected in one T Tauri "
+    },
+    {
+        "id": 224,
+        "source": "2309.05685v1.pdf",
+        "text": "disk and a handful of Herbig Ae disks, providingindependent evidence that the outer upper disk layers are generally dry and therefore O-poor (Hogerheijde et al. 2011, Meeus et al. 2012, Du & Bergin 2014, van Dishoeck et al.2021, Pirovano et al. 2022), though the inferred H2O depletion level does depend on theassumed disk structure and water excitation (Kamp et al. 2013). Finally NH3 has beenobserved in only one disk (Salinas et al. 2016), and its contribution to the outer disk Nreservoir remains"
+    },
+    {
+        "id": 225,
+        "source": "2309.05685v1.pdf",
+        "text": " rather unclear. There have been no observations of P-bearing species inwww.annualreviews.org  Protoplanetary Disk Chemistry21"
+    },
+    {
+        "id": 226,
+        "source": "2309.05685v1.pdf",
+        "text": "disks, and observations of gas-phase S molecules, such as CS and H2S, indicate that lessthan 1% of S is in the gas-phase (Phuong et al. 2018, Le Gal et al. 2021, Rivi`ere-Marichalaret al. 2022), and hence 99% is present in refractory grains and ices. Most constraints on theouter disk gas is less direct, however, and originates from observations of chemical probes ofgas-phase elemental ratios, such as C2H/CO and CS/SO abundance ratios (Cleeves et al.2018, Miotello et al. 2019, Fedele & Favre 2020"
+    },
+    {
+        "id": 227,
+        "source": "2309.05685v1.pdf",
+        "text": ", Le Gal et al. 2021). These studies confirmthat the outer disk gas is depleted in O, resulting in enhanced C/O ratios, which can exceedunity (Bosman et al. 2021b). Disks may also be somewhat depleted in Cm while there isso far no indication of N depletion, implying super-solar N/O and N/C ratios in the outerdisk gas (Cleeves et al. 2018).In the inner disk, the solid composition is constrained by disk IR spectroscopy of sili-cates, gas-phase abundances inside of refractory dust sublimation front"
+    },
+    {
+        "id": 228,
+        "source": "2309.05685v1.pdf",
+        "text": "s, and Solar Systemabundance patterns. Based on IR spectroscopic observations, silicate grains are an impor-tant O-carrier in the inner disk (van Boekel et al. 2004, Natta et al. 2007, Bouwman et al.2008), while the abundance of refractory C is less clear; the Solar System record suggeststhat the inner Solar Nebula solids were C-poor, and observations of low C/O ratios onwhite dwarfs polluted by infalling planet debris indicate that C-poor solids in inner diskregions is a general phenomenon (Lod"
+    },
+    {
+        "id": 229,
+        "source": "2309.05685v1.pdf",
+        "text": "ders 2003, Wilson et al. 2016). The N content in innerSolar System solids also appears to have been low. By contrast, meteoritic measurementssuggest that almost all P and about half of S are present in refractory grains in inner disks(Lodders 2003). The abundance of refractory S in inner disks has also been estimated byobservations of S elemental abundances in accretion flows onto Herb Ae stars, confirmingthat it is mainly present in refractory grains in disks (Kama et al. 2019).If the inner dis"
+    },
+    {
+        "id": 230,
+        "source": "2309.05685v1.pdf",
+        "text": "k, all O, C and N not bound up in refractory grains are expected to bepresent in the gas-phase. Major O and C carriers H2O, CO and CO2 are directly accessiblein the inner disk atmosphere through IR observations, while the major N carrier, N2 is not,and NH3 is present at low abundances (Pontoppidan et al. 2019, Najita et al. 2021). Theinferred gas composition around Solar-like stars is generally dominated by CO and H2O(Pontoppidan et al. 2014), but the gas-phase C/O ratio is currently not well-co"
+    },
+    {
+        "id": 231,
+        "source": "2309.05685v1.pdf",
+        "text": "nstrainedand may vary substantially between disks due to different levels of icy pebble flux andsequestration of water in the outer disk (Najita et al. 2011, Banzatti et al. 2020). S andP carriers have not been detected in the inner disk gas to date. It is finally important tonote that the link between these disk atmospheric abundances and midplane reservoirs isnot obvious.Combining the above constraints, the inner disk refractory solids appear C- and N-poor, and O-, S- and P-rich. The inner dis"
+    },
+    {
+        "id": 232,
+        "source": "2309.05685v1.pdf",
+        "text": "k gas composition varies between disks and likelydepends on a combination of local processes and the influx (or lack thereof) of icy grainsfrom the outer disk. As a result it may present a range of C/N/O ratios. In the outer diskthe icy solids are initially O-dominated, but become more and more enriched in C and Ntowards the outermost disk regions where the most volatile C and N carriers (CO, smallhydrocarbons, and N2) freeze out. Conversely the gas is generally O-poor, but also appearssomewhat "
+    },
+    {
+        "id": 233,
+        "source": "2309.05685v1.pdf",
+        "text": "depleted in C, probably due to CO depletion through a combination of freeze-outand chemical conversions. Only in the outermost disk would we expect the gas to also bedepleted in N2 based on the presence of N2 snowlines (Qi et al. 2019).22 Oberg et al."
+    },
+    {
+        "id": 234,
+        "source": "2309.05685v1.pdf",
+        "text": "4.3. Organic Disk ChemistryAccess to organic feedstock molecules constitute a key aspect of chemical habitability. Diskorganic molecules can be delivered to terrestrial planets through impacts of planetesimalsthat originate in both the inner and outer disk regions, as well as accretion of a primaryatmosphere from the local disk gas. This motivates explorations of organic chemistry acrossall disk radii. Protoplanetary disks serve both as conduits of the inherited interstellar andprotostellar orga"
+    },
+    {
+        "id": 235,
+        "source": "2309.05685v1.pdf",
+        "text": "nic chemistry to planets and planetesimals, and as active producers of neworganic molecules using the disk inorganic and organic carbon reservoirs. This combinationof inheritance and local organic chemistry results in a distribution of organics in disks thatis complicated and evolving over time.Carbon enters the disk in the form of volatile inorganic and organic gas and ice (e.g.CO and CH3OH), and more refractory large aromatic and aliphatic hydrocarbons, PAHsand carbon grains. In the chemically"
+    },
+    {
+        "id": 236,
+        "source": "2309.05685v1.pdf",
+        "text": " active layers of the disk, some of the inherited re-fractory carbon may be vaporized and feed a C-rich top-down gas-phase organic chemistry(Siebenmorgen & Heymann 2012, Bosman et al. 2021b). What remains provides disks witha unique organic reservoir that is characterized by aromatic groups, and relatively low lev-els of oxygen, especially compared to inherited organic ices. Interstellar and protostellarices often contain high abundances of simple organics in the forms of CH4, CH3OH andperhaps H"
+    },
+    {
+        "id": 237,
+        "source": "2309.05685v1.pdf",
+        "text": "COOH ( Oberg et al. 2011a, Boogert et al. 2015). These can be energeticallyand non-energetically processed to form more complex organic molecules (Bernstein et al.2002, Mu noz Caro et al. 2002,  Oberg et al. 2015a, Chuang et al. 2017, Ioppolo et al. 2021,J rgensen et al. 2020). Importantly this complex organic chemistry takes place in an O-richenvironment, i.e. the H2O, CO and CO2 dominated ice mantle, and therefore tend favorthe production of O-rich organics such as alcohols, organic acids, ald"
+    },
+    {
+        "id": 238,
+        "source": "2309.05685v1.pdf",
+        "text": "ehydes, ethers, andketones. Early evidence for the inheritance of interstellar and protostellar ices came fromSolar System observations of comet organics, which have an O-rich contingent (Mumma& Charnley 2011), and this is supported by more recent comparisons between comet andprotostellar inventories (e.g. Drozdovskaya et al. 2019). O-bearing organics that likely origi-nate from interstellar or protostellar ice sublimation have also been observed in young disks(van  t Hoff et al. 2018a, Lee et a"
+    },
+    {
+        "id": 239,
+        "source": "2309.05685v1.pdf",
+        "text": "l. 2019, Podio et al. 2020). The strongest evidence to datefor substantial inheritance of interstellar and protostellar ice chemistry comes from recentobservations of gas-phase CH3OH and more complex organic molecules in disks that are toowarm to sustain CH3OH production from CO ice (van der Marel et al. 2021, Booth et al.2021a, Brunken et al. 2022), the major CH3OH production channel in the ISM (Tielens& Hagen 1982, Hidaka et al. 2004, Fuchs et al. 2009). The observed COMs in these disksare hen"
+    },
+    {
+        "id": 240,
+        "source": "2309.05685v1.pdf",
+        "text": "ce inferred to originate from sublimation of inherited organic ices. Such ices canbe further processed in disks when icy grains are lofted up from the relatively chemicallyinert midplane into the disk upper layers (Ciesla & Sandford 2012, Bergner & Ciesla 2021).In either case, icy planet building blocks should generally contain substantial amounts ofO-rich complex organics, which may soon be confirmed by JWST observations disk icecompositions.Most current inner and outer disk observations probe "
+    },
+    {
+        "id": 241,
+        "source": "2309.05685v1.pdf",
+        "text": "the gas compositions of disklayers with relatively short chemical timescales (e.g. Henning et al. 2010), where detectedorganics are products of disk in situ organic chemistry. This chemistry is regulated by hightemperatures and high energy radiation in the inner disk and by high energy radiation (UVand X-rays) alone in the outer disk (e.g., Ag undez et al. 2008, Semenov & Wiebe 2011,Walsh et al. 2015a, Bergner et al. 2019, Bosman et al. 2021b). As reviewed in greater detailwww.annualreviews.org "
+    },
+    {
+        "id": 242,
+        "source": "2309.05685v1.pdf",
+        "text": " Protoplanetary Disk Chemistry23"
+    },
+    {
+        "id": 243,
+        "source": "2309.05685v1.pdf",
+        "text": "by Henning & Semenov (2013), the presence of the small organics C2H2, HCN and CH4in the inner disk, is readily explained by high-temperature gas chemistry (e.g. Willacy &Millar 1998, Ilgner et al. 2004, Najita &  Ad amkovics 2017, Walsh et al. 2015b). There areongoing efforts to also explore the role of irradiation fields, detailed radiative transfer, non-solar elemental ratios, transport and grain-gas interactions on this chemistry (e.g. Brudereret al. 2015, Najita &  Ad amkovics 2017, Woitke e"
+    },
+    {
+        "id": 244,
+        "source": "2309.05685v1.pdf",
+        "text": "t al. 2018, Wei et al. 2019, Price et al.2020, Anderson et al. 2021, Duval et al. 2022). In either case, the presence of a hot innerdisk organic chemistry implies a gas-phase organic reservoir in the terrestrial planet formingzone that is completely different from the outer disk and interstellar medium.In the outer disk, C2H, HCN, and H2CO have been widely detected in sources across arange of stellar masses and ages (Bergner et al. 2019, Pegues et al. 2020, Guzm an et al. 2021).Larger organics, "
+    },
+    {
+        "id": 245,
+        "source": "2309.05685v1.pdf",
+        "text": "such as HC3N, c-C3H2 and CH3CN, are also quite commonly detected(Chapillon et al. 2012,  Oberg et al. 2015a, Bergner et al. 2018, Ilee et al. 2021). High spatial-resolution, multi-line observations have located these larger nitriles and hydrocarbons in thedisk molecular layer ( Oberg et al. 2021b, Ilee et al. 2021). By contrast larger O-containingorganics are relatively rare with only one detection of CH3OH in a disk not obviouslyexperiencing extensive ice desorption (Walsh et al. 2015a). Outer "
+    },
+    {
+        "id": 246,
+        "source": "2309.05685v1.pdf",
+        "text": "disk in situ gas chemistryis then characterized by an O-poor and N-rich organic chemistry, consistent with otherevidence of O-poor gas in outer disk layers (see  4.2). There is increasing evidence thatthis chemistry is qualitatively similar to that of classical photondominated regions (PDRs)(Kamp & Dullemond 2004, Jonkheid et al. 2004, Chapillon et al. 2012, Ag undez et al.2018, Le Gal et al. 2019a). The organic products of this PDR-like and O-poor disk gaschemistry, including the prebiotically "
+    },
+    {
+        "id": 247,
+        "source": "2309.05685v1.pdf",
+        "text": "interesting nitriles, may become incorporated intoplanet atmospheres in the outer disk, and also freeze out onto comet-forming pebbles.This latter scenario would provide planetesimals with a second reservoir of organics thatis distinct from the inherited protostellar one, which may at a later stage be delivered toterrestrial planets through impacts.The importance of this reservoir would depend ona combination of the disk lifetime production of nitriles and downward transport of diskatmosphere ch"
+    },
+    {
+        "id": 248,
+        "source": "2309.05685v1.pdf",
+        "text": "emistry products.4.4. Isotope Fractionation ChemistryIsotopic fractionation occurs at low temperatures due to small differences in zero-pointenergies between heavier and lighter molecules, and in photon-dominated regions due toisotopologue-specific photo dissociation (e.g. Aikawa & Herbst 2001, Willacy 2007, Visseret al. 2009, Ceccarelli et al. 2014, Miotello et al. 2014). Isotopic fractionation patterns inmolecules in disks are generally used for two purposes: to assess the current thermal orir"
+    },
+    {
+        "id": 249,
+        "source": "2309.05685v1.pdf",
+        "text": "radiation environment, and to link together different evolutionary phases (Ceccarelli et al.2014). The former use case assumes fast chemical timescales such that observed D/H andother isotopic ratios reflect disk environmental conditions. This assumption is generallyvalid for gas-phase molecules in the disk atmosphere and intermediate vertical layers thatare probed by mm and IR gas observations.The second use case makes the oppositeassumption such that the observed isotopologue ratio reflects th"
+    },
+    {
+        "id": 250,
+        "source": "2309.05685v1.pdf",
+        "text": "e environmental conditionsof an earlier stage and can be used to infer inheritance. In disks, this might hold for ices indisk midplane, dependent on the degree of vertical and radial mixing. This could be testedthrough isotopic gas observations in disks where ice sublimation control the gas abundances(Booth et al. 2021a), and perhaps also through ice observations of e.g. deuterated water24 Oberg et al."
+    },
+    {
+        "id": 251,
+        "source": "2309.05685v1.pdf",
+        "text": "0.51.01.52.0M * [M]103102101100D/HN2H +HCO +HCN0.51.01.52.0M * [M]12M * [M]0100200300400HCN/HC15N0255075100125150R[au]103102101DCN/HCNHD 16329601020304050R[au]100200300400HCN/HC15NTW HyaFigure 9Top Panels: Disk integrated D/H ratios for HCN, HCO+ and N2H+ (left panel shows diskaveraged values and middle panel shows the extracted ranges from spatially resolved observations),and 14N/15N ratios for HCN towards a sample of protoplanetary disks. The shaded region depictsD/H values in comet volatiles,"
+    },
+    {
+        "id": 252,
+        "source": "2309.05685v1.pdf",
+        "text": " and the range of 14N/15N in cometary HCN (Bockel ee-Morvanet al. 2015, Altwegg et al. 2019). Data is from Fuente et al. (2010), Teague et al. (2015), Huanget al. (2017), Guzm an et al. (2017), Bergner et al. (2020), Cataldi et al. (2021), Salinas et al.(2017), Hily-Blant et al. (2017, 2019), Pegues et al. (2021). Bottom Panels: radially resolvedDCN/HCN and and HCN/HC15N ratios from Cataldi et al. (2021), Hily-Blant et al. (2017, 2019).with JWST. In the meantime all our isotopic measurements in "
+    },
+    {
+        "id": 253,
+        "source": "2309.05685v1.pdf",
+        "text": "disks originates from thechemically active disk atmosphere and intermediate layers.Five molecules have been detected in both their deuterated and non-deuterated forms:HCO+, HCN, N2H+, HNC, and C2H (Qi et al. 2008, Huang &  Oberg 2015, Loomis et al.2020). The latter two have single detections, however and are not further considered here.For HCO+ and HCN, the disk integrated D/H ratios are elevated above the cosmic D/Hratio by several orders of magnitude. This implies an active deuterium chemistry"
+    },
+    {
+        "id": 254,
+        "source": "2309.05685v1.pdf",
+        "text": " in theouter disk   deuterium fractionation of these and related species can occur through thecold H2D+ channel or the warmer CH2D+ channel and both appear to be active in disks(e.g. Willacy 2007, Huang et al. 2017, Salinas et al. 2017, Aikawa et al. 2018, Cataldi et al.2021). The D/H ratios in HCN and HCO+ are quite similar, indicative of a shared formationenvironment, while N2H+ is substantially more deuterated (Fig. 9). The latter is expectedif most N2H+ originates close to the cold disk midp"
+    },
+    {
+        "id": 255,
+        "source": "2309.05685v1.pdf",
+        "text": "lane between the CO and N2 snowlines(Aikawa et al. 2018). There is no clear pattern in degree of deuteration with stellar massand luminosity, as might be expected from a cold-chemistry tracer. This lack of a patternmay be an effect of the present small and biased sample, however, which only includeshotter stars with large disks, and hence substantial cool disk regions. Within individualdisks, the D/H ratio in all three molecules generally increase with disk radius as would bewww.annualreviews.or"
+    },
+    {
+        "id": 256,
+        "source": "2309.05685v1.pdf",
+        "text": "g  Protoplanetary Disk Chemistry25"
+    },
+    {
+        "id": 257,
+        "source": "2309.05685v1.pdf",
+        "text": "expected from their status as low-temperature tracers (Fig. 9 and Qi et al. 2008, Cataldiet al. 2021), but the sample is still very small.There are theoretical reasons to expect non-Solar C and O isotopologue ratios in disks(e.g. Miotello et al. 2016), and observations of 13C isotopologues in disks exist for CO,HCO+, HCN, CN and CS, and of 18O and/of 17O isotopologues for CO and HCO+. Frac-tionation in carbon and oxygen could therefore in theory be extracted. In practice thishas proven difficult"
+    },
+    {
+        "id": 258,
+        "source": "2309.05685v1.pdf",
+        "text": " due to high or unknown optical depths of the main isotopologue lines,and instead minor isotopologues are often used to constrain the optical depth of the majorisotopologue assuming local ISM iostopic ratios (e.g. Williams & Best 2014, Booth et al.2019, Zhang et al. 2021a). An exception is Smith et al. (2015), who used IR absorption lineobservations to derive a non-Solar 13C/12C in CO in a couple of disks, but the explanationsof these isotopic heterogenities is not yet clear.15N/14N ratios have "
+    },
+    {
+        "id": 259,
+        "source": "2309.05685v1.pdf",
+        "text": "been extracted forHCN towards a handful of disks, and HCN is always enriched in 15N. In the two disks withspatially resolved HCN fractionation observations, the HCN/HC15N ratio increases withradius, i.e. the disk gas is the most fractionated in 15N close to the star (Guzm an et al.2018, Hily-Blant et al. 2017, 2019). This is the opposite behavior of deuterium enrichmentin HCN, and strongly indicates that HCN enrichment in 15N is due to isotopologue selectivephotodissociation (Heays et al. 2014),"
+    },
+    {
+        "id": 260,
+        "source": "2309.05685v1.pdf",
+        "text": " rather than cold isotope fractionation. In one disk,TW Hya, both CN and HCN fractionation in 15N has been measured, and CN is much lessenriched than HCN (Hily-Blant et al. 2017), which indicates the presence of two differentN reservoirs in disks.Isotopologue ratios could be used to assess disk chemistry contributions to comet inven-tories. In the case of HCN the disk averaged 15N/14N is consistent with comet values, andfor disks with radially resolved emission, disk values agree with comets in "
+    },
+    {
+        "id": 261,
+        "source": "2309.05685v1.pdf",
+        "text": "the inner 10s ofau of the disk (Fig. 9), which is where most comets formed in the Solar System (Mumma& Charnley 2011). If disk fractionation chemistry is important for cometary isotopic ratios,the lower fractionation observed at larger disk radii should imprint on planetesimals assem-bling in the outskirts of disks, which could be tested by measuring 15N/14N in Solar Systembodies that assembled beyond 40 au. In the case of HCN D/H ratios, disk averaged valuesare orders of magnitude higher than c"
+    },
+    {
+        "id": 262,
+        "source": "2309.05685v1.pdf",
+        "text": "omet ratios, but radially resolved data has showncometary D/H values in the inner 30 au in some disks (Cataldi et al. 2021). In summary,isotopologue ratios in disks and comets appear consistent, but this is not enough on its ownto ascribe a causal link between the two. More detailed data on the fate of disk gas-phasefractionation products, as well as disk chemistry models that take into account both dynam-ics and isotopic fractionation in ices are needed to address this question (Faure et al. 20"
+    },
+    {
+        "id": 263,
+        "source": "2309.05685v1.pdf",
+        "text": "15).In addition, if disk H2O and CH3OH D/H values become available (see above), comparisonbetween those and comet values would provide constraints on the relative contributions ofinheritance and in situ disk chemistry for volatiles and small O-rich organics.5. CHEMICAL PROBES OF DISKS AND PLANET FORMATIONMolecular observations often provide the best and sometimes the only path to constrainingphysical disk properties of importance to disk evolution and planet formation. This sectionreviews chemic"
+    },
+    {
+        "id": 264,
+        "source": "2309.05685v1.pdf",
+        "text": "al probes of disk gas mass and surface density (5.1), ionization (5.2), tem-perature (5.3), and dynamics, including planet formation (5.4). In each case we provide abrief overview of how disk chemistry and molecular emission are linked to the disk propertyor process in question, review the deployed chemical probe(s), and discuss some key results26 Oberg et al."
+    },
+    {
+        "id": 265,
+        "source": "2309.05685v1.pdf",
+        "text": "that have emerged or are expected in the near future.5.1. Disk Gas Mass and Surface DensityDisk masses and column densities of both gas and solids determine the planet formationpotential of protoplanetary disks. Neither can be directly observed, however, and instead arange of proxies have been developed, each with their own advantages and disadvantages.The most common proxies for disk masses are the mm flux density for the dust compo-nent, and CO isotopologue fluxes for the gas counterpart (Andr"
+    },
+    {
+        "id": 266,
+        "source": "2309.05685v1.pdf",
+        "text": "ews 2020, Miotello et al.2022, and references therein). The utility of the CO gas mass probe depends on the COabundance in disks, which is fundamentally a chemical problem. The disk CO abundancestructure has been modeled with different levels of sophistication including CO freeze-outand photodissociation (e.g. Williams & Best 2014), self-shielding and isotope-selective pho-todissociation (Miotello et al. 2014), C and O isotopic fractionation chemistry (Miotelloet al. 2016), and source specific t"
+    },
+    {
+        "id": 267,
+        "source": "2309.05685v1.pdf",
+        "text": "hermo-chemical models (van der Marel et al. 2015, 2016,Woitke et al. 2019, Zhang et al. 2021a). When the CO model grids are compared withresolved or disk-integrated CO isotopologue fluxes, the extracted gas-to-dust ratio is fre-quently one to two orders of magnitude below the typical ISM ratio of 100 (Miotello et al.2017), which suggests that most models overestimate the CO abundance. Furthermore, in afew cases gas masses can be estimated using HD observations, and these reveal substantialCO dep"
+    },
+    {
+        "id": 268,
+        "source": "2309.05685v1.pdf",
+        "text": "letion compared to the ISM for T Tauri disks (Bergin et al. 2013, McClure et al.2016), while CO abundances may be more similar to the ISM in Herbig disks (Kama et al.2020).Bare grainsCO rich gasCO poor gasCO snow-surfaceN2 snow-surfaceC18O abundanceN2H+ abundanceISM CO abundanceDepleted CO abundance COCH3OHCOCO2Grain surface chemistryVertical mixingRadial drift CO desorptionCO rich gasCOC2H2CO2Gas-phase chemistry Freeze-outCO poor gasCO icy grainsH2O icy grainsCosmic raysCOFigure 10Left: main ph"
+    },
+    {
+        "id": 269,
+        "source": "2309.05685v1.pdf",
+        "text": "ysico-chemical processes reducing the CO gas abundance in protoplanetary disks,highlighting the three main concurring processes: vertical mixing and grain growth, gas phasechemistry and freeze-out, and grain surface chemistry. Right: C18O (red) and N2H+ (green)abundances for depleted and ISM-like CO gas abundances, with the N2H+ being abundantbetween the CO and N2 snow surfaces.The observational evidence for CO depletion from the gas phase has triggered extensivewww.annualreviews.org  Protoplane"
+    },
+    {
+        "id": 270,
+        "source": "2309.05685v1.pdf",
+        "text": "tary Disk Chemistry27"
+    },
+    {
+        "id": 271,
+        "source": "2309.05685v1.pdf",
+        "text": "modeling to understand its physico-chemical cause(s). Figure 10 illustrates some of themost commonly proposed scenarios: 1) Gas and dust vertical mixing, driven by large scalemotions or turbulence, can remove gaseous CO from the disk upper layers by freezing itonto large dust grains in the disk midplane (Kama et al. 2016, Schwarz et al. 2016, Powellet al. 2022, Furuya et al. 2022a). The same mechanism has been invoked to explain the lowwater abundance in the disk upper layers (Meijerink et al. 2"
+    },
+    {
+        "id": 272,
+        "source": "2309.05685v1.pdf",
+        "text": "009, Hogerheijde et al. 2011, Duet al. 2015). 2) Gas-phase reactions can convert CO into less volatile species, such as CO2(Aikawa & Herbst 1999) and small hydrocarbons (Aikawa & Herbst 1999, Yu et al. 2017),which subsequently freeze-out onto dust grains. 3) Frozen-out CO may be transformed intomolecules with higher binding energy, such as CO2 or CH3OH ice, through grain-surfacechemistry (Schwarz et al. 2018, Bosman et al. 2018).1) and 3) should mainly operateoutside of the CO snowline, though r"
+    },
+    {
+        "id": 273,
+        "source": "2309.05685v1.pdf",
+        "text": "adial diffusion may extend 1) somewhat inwards. Theevidence that CO depletion is less severe in warm disks where the CO snowline is furtherout supports these scenarios, and recent models by Krijt et al. (2020) and Van Clepperet al. (2022) show that both are needed to reproduce the derived low CO abundances ofsome T Tauri disks. These models also indicate that if dust radial drift is very effective,the CO abundance should be enhanced interior to the CO snowline, which has also beenobserved toward"
+    },
+    {
+        "id": 274,
+        "source": "2309.05685v1.pdf",
+        "text": "s some disks (e.g. Zhang et al. 2019).TWHyaDMTauGMAurLupusUpperSco105104103102101Disk Gas Mass [M ]From COFrom HDFrom CO & N2H+Figure 11Comparison of total H2 gas mass estimates using different molecular tracers: CO (black), HD(red), and N2H+ combined with CO (blue) (Thi et al. 2010, Miotello et al. 2016, 2017, Zhanget al. 2019, Anderson et al. 2019, Zhang et al. 2021a, Trapman et al. 2022, Anderson et al. 2022).In light of the limitations of CO as a gas mass tracer, the community has exploredco"
+    },
+    {
+        "id": 275,
+        "source": "2309.05685v1.pdf",
+        "text": "mplementary observational mass diagnostics, and N2H+ has emerged as a promisingcandidate. N2H+ should correlate with CO depletion (Fig. 10) due to competition betweenN2 and CO molecules for H+3 , and N2H+ destruction by gas-phase CO. The combinationof N2H+ and CO isotopologues should therefore probe both CO-rich and CO-poor gasand provide better mass estimates than CO-based ones (Trapman et al. 2022, Andersonet al. 2022). Figure 11 shows that these chemical mass estimates are generally in goodag"
+    },
+    {
+        "id": 276,
+        "source": "2309.05685v1.pdf",
+        "text": "reement with constraints from the HD measurements when available. However, N2H+28 Oberg et al."
+    },
+    {
+        "id": 277,
+        "source": "2309.05685v1.pdf",
+        "text": "fluxes also depend on ionizing radiation fluxes and the cosmic ray ionization rate, and anadditional independent proxy of disk ionization (e.g., HCO+) may be needed to consistentlyobtain accurate disk gas masses with this approach (van  t Hoff et al. 2017, Anderson et al.2022).Other, complementary molecule-based methods to estimate gas masses are alsounder development. The H2 density could be derived from excitation analysis of moleculesnot in LTE at a range of disk heights and radii (Teague & L"
+    },
+    {
+        "id": 278,
+        "source": "2309.05685v1.pdf",
+        "text": "oomis 2020). Finally, locationsof snowlines may also be used to derive disk masses due to their dependence on pebble driftif all other aspects of snowline formation are well understood (Powell et al. 2019).5.2. Disk IonizationThe ionization fraction of protoplanetary disks affects their dynamical and chemical evo-lution (see also discussion in Bergin et al. 2007). It regulates the coupling of the disk gasto magnetic field lines and the efficacy of the magneto rotational instability (MRI) as amea"
+    },
+    {
+        "id": 279,
+        "source": "2309.05685v1.pdf",
+        "text": "ns of producing turbulence and driving disk evolution, including determining locationsof non-turbulent  dead zones  that are potentially favorable locations for planet formation(Gressel et al. 2012). Ionization also sets many chemical time scales. Ion-molecular reactionrates depend directly on ion abundances, and most grain surface and neutral-neutral gas-phase chemistry, include an ion recombination reaction to form the reactants. An exampleof the latter is the production of H atoms needed to f"
+    },
+    {
+        "id": 280,
+        "source": "2309.05685v1.pdf",
+        "text": "orm water on grain surfaces (Cleeveset al. 2014,  Oberg & Bergin 2021).Disk ionization studies typically have two goals: to determine the ionization fractionand to constrain the main source(s) of ionization (see  2.1). The ionization fraction is setby a balance between the ionization and recombination rates, both of which depend onthe chemical composition of the disk (see Semenov et al. 2004, Xu et al. 2019) as well ason the radiative transfer of the ionizing radiation. Due to the chemical strat"
+    },
+    {
+        "id": 281,
+        "source": "2309.05685v1.pdf",
+        "text": "ification ofprotoplanetary disks, the main positive charge carrier varies between different disk regions(Fig. 12) and the use of atomic and molecular ions as probes of ionization therefore dependson detailed models and observations of disk chemistry. Theoretically, atomic ions dominatenear the directly irradiated, PDR-like disk surface, while, molecular ions produced viaprotonation of abundant volatile species (H2O, CO, N2, NH3) by H+3 dominate in thedeeper layers. As shown in Fig. 12, the thick"
+    },
+    {
+        "id": 282,
+        "source": "2309.05685v1.pdf",
+        "text": "ness of the atomic ion layer and the regionin which molecular ion is the major charge carrier are both highly sensitive to the overallchemical state of a disk: in a disk depleted in C/H and O/H (see  4.2), the C+ region isreduced in favor of H+ and He+, and the HCO+ and H3O+ regions are reduced in favor ofN-bearing molecular ions N2H+ and NH+4 . Molecular ion abundances also depend on otherelemental abundances, which act as electron donors (Ilgner & Nelson 2006). In addition toatomic and molecul"
+    },
+    {
+        "id": 283,
+        "source": "2309.05685v1.pdf",
+        "text": "ar ions, PAHs and grains can be significant charge carriers in the disk(not included in Fig. 12; see e.g., Thi et al. 2019).Because of the complexity of the atomic and molecular ion structure of disks, there isno consensus on the typical ionization level in different disk environments. Only a handfulof disks have been studied in detail with regard to ionization, and the conclusions diverge.Based on a combined analysis of HCO+ and N2H+ emission in TW Hya, Cleeves et al.(2015b) found a low ionizat"
+    },
+    {
+        "id": 284,
+        "source": "2309.05685v1.pdf",
+        "text": "ion level, which constrain the cosmic-ray ionization rate tobe  0.01  the interstellar value. By contrast Aikawa et al. (2021) found relatively highionization rates in both the warm molecular layer and midplane of other disks, consistentwith standard assumptions about X-ray ionization and relatively high cosmic ray ionizationwww.annualreviews.org  Protoplanetary Disk Chemistry29"
+    },
+    {
+        "id": 285,
+        "source": "2309.05685v1.pdf",
+        "text": "100101102Radius [au]0.00.10.20.30.40.5Height / RadiusH+He+C+S+H3O+HCO+N2H+NH4+ISM abundances100101102Radius [au]0.00.10.20.30.40.5CO depletedFigure 12Dominant ion species across a T Tauri disk for models with interstellar abundances of C and O(left) and with initial C and O abundances depleted by 100 . Other minor species not listed inthe legend are shown in gray. The models (Anderson et al. 2021, 2022) assume a stellar UVspectrum from a low-mass T Tauri star, a total X-ray luminosity of 1030 er"
+    },
+    {
+        "id": 286,
+        "source": "2309.05685v1.pdf",
+        "text": "g s 1, and a cosmicray ionization rate of 10 18 s 1 per H2 at the disk surface.rates.Finally, Seifert et al. (2021) found a gradient in the cosmic ray ionization rateacross the IM Lup disk, and if this is a general feature it may help to explain some of thediverging results. More studies at high spatial resolution that combine multiple opticallythin ionization probes with probes of other disk properties are needed to settle the diskionization levels across disks.The relative importance of differ"
+    },
+    {
+        "id": 287,
+        "source": "2309.05685v1.pdf",
+        "text": "ent sources of ionization should vary across disks(Cleeves et al. 2015b, Rab et al. 2018), and between disks around different stars (Walshet al. 2015a) and situated in different radiation environments (Walsh et al. 2013). In theorythe contributions of different ionizing sources could be deduced from observations of ions indisks because different ionizing sources impact disk ion abundances in different disk regions.This was e.g. used by Cleeves et al. (2015b) to extract a relatively limited contr"
+    },
+    {
+        "id": 288,
+        "source": "2309.05685v1.pdf",
+        "text": "ibution fromcosmic ray ionization, and a larger than expected contribution from X-rays in one disk, sug-gesting a flaring X-ray stage. X-ray flares may have a time-resolved impact on ionization asseen in Cleeves et al. (2017). The full potential of ionization probes have yet to be realized,however, mainly due to a lack of comprehensive, spatially resolved molecular ion data setson samples of disks.5.3. Disk TemperatureDetailed disk temperature structures are necessary to correctly interpret mole"
+    },
+    {
+        "id": 289,
+        "source": "2309.05685v1.pdf",
+        "text": "cular lineobservations, to model planet formation, and to predict the chemical evolution of disks (seealso  4.1 and  4.2). Molecular and atomic line observations constitute our best tools toconstrain individual disk temperature structures, as well as to benchmark disk models (e.g.Dartois et al. 2003, Pi etu et al. 2007, Kamp et al. 2010, Calahan et al. 2021). For spectrallywell resolved, optically thick lines, the peak brightness temperature (Tb) is a direct tracerof the local kinetic temperatur"
+    },
+    {
+        "id": 290,
+        "source": "2309.05685v1.pdf",
+        "text": "e and optically thick lines (such as the CO ladder in theFIR) can be used to constrain disk gas temperatures by comparing observational datato radiative transfer models (e.g., Bruderer et al. 2012, van der Wiel et al. 2014b). Highspatial resolution observations of optically thick lines provide more direct constraints on thetemperature profiles of the emitting layers (Dartois et al. 2003, Zhang et al. 2017, Pinte et al.2018a), and by combining optically thick lines emitting from different disk he"
+    },
+    {
+        "id": 291,
+        "source": "2309.05685v1.pdf",
+        "text": "ights, which30 Oberg et al."
+    },
+    {
+        "id": 292,
+        "source": "2309.05685v1.pdf",
+        "text": "can be constrained observationally in mid-inclined disks ( 3.6), it is possible to reconstructa 2D (R z) map of the disk temperature structure. This has so far mostly been done usingCO isotopologues due to required high SNRs for this method (Law et al. 2021b), but futurestudies are also expected to make use of other molecules that emit from a larger range ofdisk layers due to either different chemistry or line excitation, and therefore enable a morecomplete temperature reconstruction (see e.g. H"
+    },
+    {
+        "id": 293,
+        "source": "2309.05685v1.pdf",
+        "text": "uang et al. 2020).For optically thin (or marginally optically thick) lines, single transitions cannot breakthe degeneracy between column density and excitation temperature, but rotational exci-tation temperatures can instead be derived with molecular population diagrams using twoor more transitions with well characterized energy levels and transition probabilities. Thequality of ALMA data allows the construction of molecular population diagrams of a largenumber of molecules, in several cases als"
+    },
+    {
+        "id": 294,
+        "source": "2309.05685v1.pdf",
+        "text": "o with spatially resolved data. Excitation temper-atures have been derived for molecules such as HCN, H2CO, CH3OH, CH3CN, CN, c-C3H2(e.g., Teague et al. 2015, Loomis et al. 2018a, Pegues et al. 2020, Teague & Loomis 2020,Facchini et al. 2021, Ilee et al. 2021, van der Marel et al. 2021). For marginally opticallythick lines, it is possible to account for the line intensity saturation and correct for it (Gold-smith & Langer 1999). For the majority of rotational transitions, their critical density "
+    },
+    {
+        "id": 295,
+        "source": "2309.05685v1.pdf",
+        "text": "is< 108 cm 3, below the H/H2 density where the lines originate, and an LTE approximationis valid; the excitation temperature therefore directly traces the gas kinetic temperature andcan be used as a gas thermometer when the emission location is known. Conversely, when-ever the temperature structure is known through other means, the excitation temperatureof molecules can be used to locate the vertical layer where the lines originate, anchoringdisk chemistry models (Ilee et al. 2021).In cases wher"
+    },
+    {
+        "id": 296,
+        "source": "2309.05685v1.pdf",
+        "text": "e molecular excitation temperatures are challenging to extract, includingin the disk midplane, chemical structures can be used to constrain gas and dust tempera-tures. The most prominent examples are snow-lines and snow-surfaces (see  4.1 and  3.6):identification of snow-surfaces via chemical markers (as N2H+ for CO, or H13CO+ for H2O)uniquely associates a specific region of a disk to the range of sublimation temperatures thatlaboratory experiments obtain for that given molecule (Fayolle et al. "
+    },
+    {
+        "id": 297,
+        "source": "2309.05685v1.pdf",
+        "text": "2016, Qi et al. 2019,Zhang et al. 2021a). Intensity ratios of some molecules have also been associated to specificgas temperatures and could be deployed as thermometers. An example is the HNC/HCN ra-tio because of temperature-dependent destruction pathways for the two isomers (Graningeret al. 2015, Hacar et al. 2020, Long et al. 2021).The deployment of these different temperature probes, including using them to tunesource-specific models, has confirmed general expectations on temperature structu"
+    },
+    {
+        "id": 298,
+        "source": "2309.05685v1.pdf",
+        "text": "res (e.g.Dartois et al. 2003, Law et al. 2021b), but also demonstrated the importance of gas heatingin low density disk environments (e.g. Fedele et al. 2016), and revealed unexpected thermalsub-structure, such as temperature inversions in outer disk regions, resulting in secondarysnowlines of CO ( Oberg et al. 2015a, Dutrey et al. 2017, Cleeves 2016, Facchini et al. 2017).An analogous thermal inversion can occur in the disk upper layers, where the dust andgas can sometimes thermally de-couple a"
+    },
+    {
+        "id": 299,
+        "source": "2309.05685v1.pdf",
+        "text": "t lower heights than foreseen in typical thermo-chemical models not accounting for settling (e.g. Facchini et al. 2017). An open question indisk thermal structure modeling concerns the gas temperature in dust gaps, and hence thechemical evolution in the vicinity of the planets that produce them. A higher penetrationof energetic photons should increase both the gas and the dust temperatures (van der Marelet al. 2018, Rab et al. 2020, Alarc on et al. 2020), but efficient gas-cooling may counteract"
+    },
+    {
+        "id": 300,
+        "source": "2309.05685v1.pdf",
+        "text": "this in severely dust-depleted gaps (Facchini et al. 2018b). Observational constraints on thewww.annualreviews.org  Protoplanetary Disk Chemistry31"
+    },
+    {
+        "id": 301,
+        "source": "2309.05685v1.pdf",
+        "text": "gas temperature of dust gaps are inconclusive, but in at least two transition disk cavitiesthe gas temperature is enhanced (Leemker et al. 2022).5.4. Disk Dynamics and Planet FormationPlanet forming disks are highly dynamical environments ( 1.2 and recent reviews by DiskDynamics Collaboration et al. 2020, Pinte et al. 2022), and many of these dynamicaltimescales are of the same order (or shorter) than typical chemical timescales (e.g., Se-menov & Wiebe 2011), complicating disk chemical modeling "
+    },
+    {
+        "id": 302,
+        "source": "2309.05685v1.pdf",
+        "text": "( 2.3).At the same time,chemistry can affect gas dynamics in disks through its impact on disk ionization and tem-perature ( 5.2 and  5.3) and a complete chemo-dynamical disk model would need to takethis chemical feedback into account. The complex interplay between chemistry and dy-namics is one of the major challenges for disk chemistry studies going forward. It is also apotential advantage, however, since it implies that chemical disk structures could be usedas probes of disk dynamics and ongoi"
+    },
+    {
+        "id": 303,
+        "source": "2309.05685v1.pdf",
+        "text": "ng planet formation.A set of proposed chemical probes of dynamics exploits the impact of radial advectionof volatiles in the gas and/or ice form on inner disk molecular abundances ( 1.2). Efficientinward radial drift of icy pebbles should increase the H2O vapor in the inner disk andproduce a sub-stellar C/O ratio.This has tentatively been observed by Banzatti et al.(2020) who found an anti-correlation between inner disk H2O line flux and pebble disk size,where a larger disk size implies less peb"
+    },
+    {
+        "id": 304,
+        "source": "2309.05685v1.pdf",
+        "text": "ble drift (probably due to dust-substructure). Ifinstead water is sequestrated in the outer disk due to the efficient transformation of pebblesinto boulders, the inner disk should be water poor and the C/O ratio super-stellar. Najitaet al. (2013) suggests that this process would explain an observed trend between the HCN-H2O water ratio in the inner disk and disk mass. Upcoming JWST data may be able todistinguish between the two scenarios. Another possible probe of drift is the relative C/Hratios"
+    },
+    {
+        "id": 305,
+        "source": "2309.05685v1.pdf",
+        "text": " in the inner and outer disk regions (McClure 2019, Sturm et al. 2022). Disk modelsthat include inward accretion flows have also noted large effects on the inner disk organicchemistry (Semenov & Wiebe 2011, Price et al. 2020), but this has not yet been convertedinto an observational probe.Chemical disk structures can also be used to trace time-dependent changes in disktemperature and radiation structures. In an FU Ori outburst, a sudden increase in stellarluminosity and accretion rate moves the "
+    },
+    {
+        "id": 306,
+        "source": "2309.05685v1.pdf",
+        "text": "icelines of molecules as H2O and CH3OH to largeradii. These extended snowlines remain for some time after the outburst and can thereforebe used to infer an energetic past. This has been observed in younger disks, but not yet inmature protoplanetary disks (van  t Hoff et al. 2018b, Lee et al. 2019). In warped disks,a misaligned inner disk can cast shadows onto the outer regions (Facchini et al. 2018a)and the resulting azimuthal gradient in the illumination pattern is expected to cause largescale "
+    },
+    {
+        "id": 307,
+        "source": "2309.05685v1.pdf",
+        "text": "asymmetries in the intensity of molecular lines particularly sensitive to photochemistry(Young et al. 2021). Finally, theoretical models predict that heating from massive planetsand UV excess caused by high accretion rates during the run-away phase could imprintthe thermal and chemical structure of close-by gas, as warm hot-spots detectable with longALMA integrations (Cleeves et al. 2015a). Such features have not yet been detected inthe proximity of kinematically-inferred planets (Pinte et al. 2"
+    },
+    {
+        "id": 308,
+        "source": "2309.05685v1.pdf",
+        "text": "018a, Casassus & P erez 2019,Izquierdo et al. 2022), or directly-detected planets (Facchini et al. 2021), but constitute apotential unique probe of planet formation.In addition to chemical probes, observations of molecular lines at high angular and32 Oberg et al."
+    },
+    {
+        "id": 309,
+        "source": "2309.05685v1.pdf",
+        "text": "spatial resolution can be used to directly constrain the gas dynamics of planet formingdisks. To date almost all studies make use of the brightest molecular lines, i.e. CO 2 1 or3 2, without much regard for chemistry (e.g., Teague et al. 2019, Casassus & P erez 2019,Izquierdo et al. 2021). There is real potential to further develop such probes, however, toextract density and abundance gradients for different molecular species, by mapping thevelocity fields across the disk radial and vertical ext"
+    },
+    {
+        "id": 310,
+        "source": "2309.05685v1.pdf",
+        "text": "ent. In the meantime, these kinds ofstudies have revealed several kinematic structures of relevance to the chemistry of planetformation.In particular there are large scale convective flows co-located with annularsubstructures in dust continuum (Teague et al. 2019, Yu et al. 2021). These meridionalflows show that chemical abundances probed in disk molecular layers can access the planet-forming disk midplane, and deliver chemically evolved gas to the proximity of growingprotoplanets (Cridland et a"
+    },
+    {
+        "id": 311,
+        "source": "2309.05685v1.pdf",
+        "text": "l. 2020).6. LINKING DISK CHEMISTRY AND PLANET COMPOSITIONSThis review is to a large extent motivated by a close connection between disk chemicalstructures and processes on the one hand, and the outcome of planet formation on theother. In this final section we review the links between disk chemistry and planet formationand discuss possible directions for future development.To begin with snowline locations ( 4.1) may impact the architectures of planetary sys-tems. Snowlines of different volatiles "
+    },
+    {
+        "id": 312,
+        "source": "2309.05685v1.pdf",
+        "text": "are predicted to impact the grain coagulation rate,resulting in higher (or lower) rates of planet formation in the vicinity of snowline locations.In the Solar System, the presence of Jupiter at 5 au has long been associated with gas giantformation just outside the water snowline in the Solar nebula (e.g. Stevenson & Lunine1988). There is also evidence for a pile-up of gas giant exoplanets around 2 au (Fernandeset al. 2019), which may coincide with the location of the water snowline during the re"
+    },
+    {
+        "id": 313,
+        "source": "2309.05685v1.pdf",
+        "text": "levantdisk evolutionary stage.Better exoplanet statistics, as well as observations of snowlinelocations in samples of disks are needed, however, to establish such links between planetformation and snowline locations with confidence. Currently CO and N2 snowlines haveonly been observed towards a handful of disks, while H2O snowline constraints are moreindirect (and fewer), and no constraints exist for other major snowlines. This small numberstatistic is made worse by a clear bias towards large an"
+    },
+    {
+        "id": 314,
+        "source": "2309.05685v1.pdf",
+        "text": "d bright disks that are not typical,and it is therefore difficult to extrapolate from existing disk snowline data to snowline lo-cations in  typical  planet-forming disks. High-resolution ALMA data towards larger andless biased disk samples would resolve current uncertainties regarding CO and N2 snowlinelocations, while the path forward for other snowline determinations is less clear and mayrequire a combination of methods development and new facilities.Snowlines, or rather planet formation loca"
+    },
+    {
+        "id": 315,
+        "source": "2309.05685v1.pdf",
+        "text": "tions with respect to snowlines, should alsoimpact planet compositions ( 4.2). This idea has been used to constrain where in the Solarnebula Jupiter and other planets formed based on their compositions (e.g. Owen et al. 1999,Lodders 2004, Morbidelli et al. 2016,  Oberg & Wordsworth 2019, Bosman et al. 2019), and toprovide an interpretive framework for exoplanet compositions (Madhusudhan 2019) with afocus on atmospheric C/O ratios ( Oberg et al. 2011b). Indeed atmospheric elemental ratioshave gre"
+    },
+    {
+        "id": 316,
+        "source": "2309.05685v1.pdf",
+        "text": "at potential to trace exoplanet histories, and while C/O ratios cannot on their ownbe used to assign an unambiguous planet formation location, C/O combined with C/N,C/H and C/S should yield more informative constraints for gas giants ( Oberg et al. 2011b,Piso et al. 2016, Hobbs et al. 2022), while other elemental ratios may be developed to tracewww.annualreviews.org  Protoplanetary Disk Chemistry33"
+    },
+    {
+        "id": 317,
+        "source": "2309.05685v1.pdf",
+        "text": "the formation of smaller planets. The success of this method will require a more preciseunderstanding of the distribution of elements in disks than is currently available.Thisentails better models of the interactions between disk dynamics and molecule condensationand sublimation, as well as laboratory data on ice sublimation in different disk contexts(e.g. Fayolle et al. 2011, Potapov et al. 2018b, Simon et al. 2019, Kruczkiewicz et al. 2021).In addition, if in situ chemistry is important for de"
+    },
+    {
+        "id": 318,
+        "source": "2309.05685v1.pdf",
+        "text": "termining the major elemental carriers,then more complex model development will be needed, as well as laboratory experimentson the relevant chemical transformations.Most of the current work linking disk and planet compositions has focused on theformation of giant planets and the elemental composition of their atmospheres, but in thenear future the study of Earth analog atmospheres will become feasible. The atmospheresand hydrospheres of rocky planets are shaped by a range of processes, including"
+    },
+    {
+        "id": 319,
+        "source": "2309.05685v1.pdf",
+        "text": " outgassing ofmagma, the length of a magma ocean phase, plate tectonics (see e.g. Lichtenberg et al. 2022,and references therein), and impacts of meteorites and comets. The latter two connects thedisk molecular inventories with rocky planet compositions, and comprehensive data setson the distribution of key organics in asteroid and comet-forming disk environments aretherefore needed to predict the prebiotic chemistry on young rocky planets. This will includeboth innovative observational constrai"
+    },
+    {
+        "id": 320,
+        "source": "2309.05685v1.pdf",
+        "text": "nts on disk icy reservoirs, such as those provided byBooth et al. (2021a), and models and laboratory data on the formation and transformationof organic molecules in disks. In the meantime, comparisons of organics in Solar Systemcomets and a handful of protostellar and protoplanetary disks indicate that exoplanets atleast sometimes assemble in a similar chemical environment to the solar nebula ( Oberget al. 2015b, Drozdovskaya et al. 2019,  Oberg et al. 2021b). In addition, constraining thedistri"
+    },
+    {
+        "id": 321,
+        "source": "2309.05685v1.pdf",
+        "text": "bution of life-enabling elements like C, N, O and P across disk solids will be crucialfor determining their availability to terrestrial exoplanets (Bergin et al. 2015). For Earth-analogs it is also important to explore the links between refractory compositions of both theinner disk solids and planet cores and mantles. The planet core composition is difficult toobserve in regular planets, but can be probed using data from extrasolar planetary bodiesthat have polluted white dwarf atmospheres (Jura"
+    },
+    {
+        "id": 322,
+        "source": "2309.05685v1.pdf",
+        "text": " & Young 2014).Finally, isotopic ratios in gas and solids provide a tool to map out the origins of cometaryand planetary volatiles. This has so far been almost exclusively applied to the Solar Systemto constrain the origin of water on Earth and other planets, as well as in comets and asteroids(see Ceccarelli et al. 2014, Altwegg et al. 2019, for reviews). More recently the first isotopicratio in an exoplanet atmosphere has been reported, potentially unlocking isotopic ratiosas a complementary to"
+    },
+    {
+        "id": 323,
+        "source": "2309.05685v1.pdf",
+        "text": "ol to elementary ratios when extracting a planet s formation history(Zhang et al. 2021b). The deployment of this method requires a detailed understanding ofthe isotopic composition and fractionation chemistry of disks, however, which is currentlyincomplete. Additional observations, modeling and experiments are all needed to establisha comprehensive interpretative framework for planetary volatile isotopic compositions.SUMMARY POINTS1. Observations across the electromagnetic spectrum, from UV to r"
+    },
+    {
+        "id": 324,
+        "source": "2309.05685v1.pdf",
+        "text": "adio wavelengths,are needed to characterize disk solid and gas compositions at the radii relevant toplanet formation.2. Disk chemical models, anchored in astrochemical computations and laboratory ex-periments, are essential to estimate the complete chemical compositions of disks34 Oberg et al."
+    },
+    {
+        "id": 325,
+        "source": "2309.05685v1.pdf",
+        "text": "and how they evolve over time.3. Disk gas and solid elemental compositions often deviate from those of the theirhost stars, which has a direct impact on both the disk organic chemistry, and onthe elemental and chemical makeup of planets.4. The disk chemical structure and evolution is set by an interplay between chemicalinheritance and a rich in situ chemistry, and taking account of both is especiallyimportant when considering the major carriers of the volatile elements and theorganic inventory a"
+    },
+    {
+        "id": 326,
+        "source": "2309.05685v1.pdf",
+        "text": "t different disk radii.5. There are multiple lines of evidence for substantial volatile transport and mixingin disks, which chemically connect inner and outer disks as well as disk midplanesand atmospheres.6. Disk chemistry is closely interlinked with disk temperature, and radiation struc-tures, as well as with disk dynamics, which explains the great potential of moleculesas probes of non-chemical disk processes.FUTURE ISSUES1. During the past decade ALMA disk chemistry observations have mostly "
+    },
+    {
+        "id": 327,
+        "source": "2309.05685v1.pdf",
+        "text": "focusedon a small and highly biased sample of disks, and statistical samples of outer diskchemical compositions are needed to constrain the chemistry of  typical  planetformation and to link disk and exoplanet compositions.2. Icy grains constitute the major reservoir of O, C, S and P in disks, and IR observa-tions, informed by laboratory experiments, offer a great opportunity to characterizeboth their compositions and whether they are inherited intact from the ISM or re-formed in the disk.3. Est"
+    },
+    {
+        "id": 328,
+        "source": "2309.05685v1.pdf",
+        "text": "ablishing clear chemodynamical links between different disk regions will requireboth the realization of new observational probes, and development of 2D (andeventually 3D) models that combine comprehensive chemical networks with a rangeof gas and dust dynamics and grain evolution.4. The gas and solid compositions that are most relevant for terrestrial planet forma-tion are currently not well constrained outside of the Solar System, which should beaddressed by spectroscopic observations at the rel"
+    },
+    {
+        "id": 329,
+        "source": "2309.05685v1.pdf",
+        "text": "evant scales and models that con-nect the compositions of observable disk layers with the planet-forming midplane.5. Several outstanding questions in disk chemistry studies, including the locations ofkey snowlines, the distribution of water, and the organic inventory across most ofthe planet-forming disk, may only be fully addressed by new observatories provideaccess to the FIR, and higher sensitivity at (sub)millimeter and radio wavelengths.DISCLOSURE STATEMENTThe authors are not aware of any a"
+    },
+    {
+        "id": 330,
+        "source": "2309.05685v1.pdf",
+        "text": "ffiliations, memberships, funding, or financial holdingsthat might be perceived as affecting the objectivity of this review.www.annualreviews.org  Protoplanetary Disk Chemistry35"
+    },
+    {
+        "id": 331,
+        "source": "2309.05685v1.pdf",
+        "text": "ACKNOWLEDGMENTSWe are grateful to Yuri Aikawa, Inga Kamp, and Jennifer Bergner for insightful comments onan early version of the manuscript. We thank Anne Dutrey, Chunhua Qi, Kamber Schwarz,Hideko Nomura and Charles Law for sharing data that have been used in this review. Thiswork was supported by a grant from the Simons Foundation (686302, KI O) an award fromthe Simons Foundation (321183FY19, KI O), and an NSF AAG Grant (#1907653, KI O).D.E.A. acknowledges support from the Virginia Initiative o"
+    },
+    {
+        "id": 332,
+        "source": "2309.05685v1.pdf",
+        "text": "n Cosmic Origins (VICO) Post-doctoral Fellowship and Carnegie Postdoctoral Fellowship. S.F. is funded by the EuropeanUnion under the European Union s Horizon Europe Research & Innovation Programme101076613 (UNVEIL). Views and opinions expressed are however those of the author(s)only and do not necessarily reflect those of the European Union or the European ResearchCouncil. Neither the European Union nor the granting authority can be held responsiblefor them.LITERATURE CITEDAcke B, van den Ancker"
+    },
+    {
+        "id": 333,
+        "source": "2309.05685v1.pdf",
+        "text": " ME, Dullemond CP, van Boekel R, Waters LBFM. 2004. A&A 422:621 626 Ad amkovics M, Glassgold AE, Najita JR. 2014. ApJ 786:135Ag undez M, Cernicharo J, Goicoechea JR. 2008. A&A 483:831 837Ag undez M, Roueff E, Le Petit F, Le Bourlot J. 2018. A&A 616:A19Aikawa Y, Cataldi G, Yamato Y, Zhang K, Booth AS, et al. 2021. arXiv e-prints :arXiv:2109.06419Aikawa Y, Furuya K, Hincelin U, Herbst E. 2018. ApJ 855:119Aikawa Y, Herbst E. 1999. A&A 351:233 246Aikawa Y, Herbst E. 2001. A&A 371:1107 1117Aikawa Y, "
+    },
+    {
+        "id": 334,
+        "source": "2309.05685v1.pdf",
+        "text": "Kamuro D, Sakon I, Itoh Y, Terada H, et al. 2012. A&A 538:A57Aikawa Y, Miyama SM, Nakano T, Umebayashi T. 1996. ApJ 467:684Aikawa Y, Momose M, Thi W, van Zadelhoff G, Qi C, et al. 2003. PASJ 55:11 15Aikawa Y, Okuzumi S, Pontoppidan K. 2022. arXiv e-prints :arXiv:2212.14529Aikawa Y, van Zadelhoff GJ, van Dishoeck EF, Herbst E. 2002. A&A 386:622 632Akimkin V, Zhukovska S, Wiebe D, Semenov D, Pavlyuchenkov Y, et al. 2013. ApJ 766:8Alarc on F, Teague R, Zhang K, Bergin EA, Barraza-Alfaro M. 2020. Ap"
+    },
+    {
+        "id": 335,
+        "source": "2309.05685v1.pdf",
+        "text": "J 905:68Altwegg K, Balsiger H, Fuselier SA. 2019. ARA&A 57:113 155Altwegg K, Balsiger H, H anni N, Rubin M, Schuhmann M, et al. 2020. Nature Astronomy 4:533 540Anderson DE, Blake GA, Bergin EA, Zhang K, Carpenter JM, et al. 2019. ApJ 881:127Anderson DE, Blake GA, Cleeves LI, Bergin EA, Zhang K, et al. 2021. ApJ 909:55Anderson DE, Cleeves LI, Blake GA, Bergin EA, Zhang K, et al. 2022. ApJ 927:229Andrews SM. 2015. PASP 127:961Andrews SM. 2020. ARA&A 58:483 528Andrews SM, Huang J, P erez LM, Isella"
+    },
+    {
+        "id": 336,
+        "source": "2309.05685v1.pdf",
+        "text": " A, Dullemond CP, et al. 2018. ApJL 869:L41Ansdell M, Williams JP, van der Marel N, Carpenter JM, Guidi G, et al. 2016. ApJ 828:46Antonellini S, Kamp I, Lahuis F, Woitke P, Thi WF, et al. 2016. A&A 585:A61Ardila DR, Herczeg GJ, Gregory SG, Ingleby L, France K, et al. 2013. ApJs 207:1Armitage PJ, Livio M, Pringle JE. 2001. MNRAS 324:705 711Arulanantham N, France K, Hoadley K, Schneider PC, Espaillat CC, et al. 2021. AJ 162:185Bai XN, Stone JM. 2013. ApJ 769:76Ballering NP, Cleeves LI, Anderson DE"
+    },
+    {
+        "id": 337,
+        "source": "2309.05685v1.pdf",
+        "text": ". 2021. ApJ 920:115Banzatti A, Meyer MR, Bruderer S, Geers V, Pascucci I, et al. 2012. ApJ 745:90Banzatti A, Pascucci I, Bosman AD, Pinilla P, Salyk C, et al. 2020. ApJ 903:124Banzatti A, Pinilla P, Ricci L, Pontoppidan KM, Birnstiel T, Ciesla F. 2015. ApJL 815:L1536 Oberg et al."
+    },
+    {
+        "id": 338,
+        "source": "2309.05685v1.pdf",
+        "text": "Banzatti A, Pontoppidan KM, P erez Ch avez J, Diehl L, Salyk C, et al. 2022. arXiv e-prints:arXiv:2209.08216Bar-Nun A, Herman G, Laufer D, Rappaport ML. 1985. Icarus 63:317 332Barenfeld SA, Carpenter JM, Ricci L, Isella A. 2016. ApJ 827:142Bergin EA, Aikawa Y, Blake GA, van Dishoeck EF. 2007. The Chemical Evolution of ProtoplanetaryDisks. In Protostars and Planets V, eds. B Reipurth, D Jewitt, K KeilBergin EA, Alexander C, Drozdovskaya M, Gounelle M, Pfalzner S. 2023. arXiv e-prints:arXiv:2301.0"
+    },
+    {
+        "id": 339,
+        "source": "2309.05685v1.pdf",
+        "text": "5212Bergin EA, Blake GA, Ciesla F, Hirschmann MM, Li J. 2015. Proceedings of the National Academyof Science 112:8965 8970Bergin EA, Cleeves LI, Gorti U, Zhang K, Blake GA, et al. 2013. Nature 493:644 646Bergin EA, Langer WD, Goldsmith PF. 1995. ApJ 441:222 243Bergner JB, Ciesla F. 2021. ApJ 919:45Bergner JB, Guzm an VG,  Oberg KI, Loomis RA, Pegues J. 2018. ApJ 857:69Bergner JB,  Oberg KI, Bergin EA, Andrews SM, Blake GA, et al. 2020. ApJ 898:97Bergner JB,  Oberg KI, Bergin EA, Loomis RA, Pegues"
+    },
+    {
+        "id": 340,
+        "source": "2309.05685v1.pdf",
+        "text": " J, Qi C. 2019. ApJ 876:25Bergner JB,  Oberg KI, Guzm an VV, Law CJ, Loomis RA, et al. 2021. ApJs 257:11Bernstein MP, Dworkin JP, Sandford SA, Cooper GW, Allamandola LJ. 2002. Nature 416:401 403Bethell TJ, Bergin EA. 2011. ApJ 739:78Bjerkeli P, J rgensen JK, Bergin EA, Frimann S, Harsono D, et al. 2016. A&A 595:A39Blevins SM, Pontoppidan KM, Banzatti A, Zhang K, Najita JR, et al. 2016. ApJ 818:22Bockel ee-Morvan D, Calmonte U, Charnley S, Duprat J, Engrand C, et al. 2015. SSRv 197:47 83Boogert A"
+    },
+    {
+        "id": 341,
+        "source": "2309.05685v1.pdf",
+        "text": "CA, Gerakines PA, Whittet DCB. 2015. ARA&A 53:541 581Booth AS, van der Marel N, Leemker M, van Dishoeck EF, Ohashi S. 2021a. A&A 651:L6Booth AS, Walsh C, Ilee JD, Notsu S, Qi C, et al. 2019. ApJL 882:L31Booth AS, Walsh C, Terwisscha van Scheltinga J, van Dishoeck EF, Ilee JD, et al. 2021b. NatureAstronomyBooth RA, Ilee JD. 2019. MNRAS 487:3998 4011Bosman AD, Alarc on F, Bergin EA, Zhang K, van t Hoff MLR, et al. 2021a. ApJs 257:7Bosman AD, Alarc on F, Zhang K, Bergin EA. 2021b. ApJ 910:3Bosman A"
+    },
+    {
+        "id": 342,
+        "source": "2309.05685v1.pdf",
+        "text": "D, Bergin EA, Loomis RA, Andrews SM, van t Hoff MLR, et al. 2021c. ApJs 257:15Bosman AD, Bruderer S, van Dishoeck EF. 2017. A&A 601:A36Bosman AD, Cridland AJ, Miguel Y. 2019. A&A 632:L11Bosman AD, Walsh C, van Dishoeck EF. 2018. A&A 618:A182Bouwman J, Henning T, Hillenbrand LA, Meyer MR, Pascucci I, et al. 2008. ApJ 683:479 498Brinch C, Hogerheijde MR. 2010. A&A 523:A25Brittain SD, Simon T, Najita JR, Rettig TW. 2007. ApJ 659:685 704Bruderer S. 2013. A&A 559:A46Bruderer S, Harsono D, van Dishoec"
+    },
+    {
+        "id": 343,
+        "source": "2309.05685v1.pdf",
+        "text": "k EF. 2015. A&A 575:A94Bruderer S, van Dishoeck EF, Doty SD, Herczeg GJ. 2012. A&A 541:A91Brunken NGC, Booth AS, Leemker M, Nazari P, van der Marel N, van Dishoeck EF. 2022. A&A659:A29Calahan JK, Bergin EA, Zhang K, Schwarz KR,  Oberg KI, et al. 2021. ApJs 257:17Canta A, Teague R, Le Gal R,  Oberg KI. 2021. ApJ 922:62Carr JS, Najita JR. 2008. Science 319:1504 Carr JS, Najita JR. 2011. ApJ 733:102Carr JS, Najita JR, Salyk C. 2018. RNAAS 2:169Casassus S, Christiaens V, C arcamo M, P erez S, Weber "
+    },
+    {
+        "id": 344,
+        "source": "2309.05685v1.pdf",
+        "text": "P, et al. 2021. MNRAS 507:3789 3809Casassus S, P erez S. 2019. ApJL 883:L41Cataldi G, Yamato Y, Aikawa Y, Bergner JB, Furuya K, et al. 2021. ApJs 257:10Cazzoletti P, van Dishoeck EF, Visser R, Facchini S, Bruderer S. 2018. A&A 609:A93www.annualreviews.org  Protoplanetary Disk Chemistry37"
+    },
+    {
+        "id": 345,
+        "source": "2309.05685v1.pdf",
+        "text": "Ceccarelli C, Caselli P, Bockel ee-Morvan D, Mousis O, Pizzarello S, et al. 2014. Deuterium Frac-tionation: The Ariadne s Thread from the Precollapse Phase to Meteorites and Comets Today.In Protostars and Planets VI, eds. H Beuther, RS Klessen, CP Dullemond, T HenningChapillon E, Dutrey A, Guilloteau S, Pi etu V, Wakelam V, et al. 2012. ApJ 756:58Chiang E, Youdin AN. 2010. Annual Review of Earth and Planetary Sciences 38:493 522Chiang EI, Goldreich P. 1997. ApJ 490:368Chuang KJ, Fedoseev G, Qasi"
+    },
+    {
+        "id": 346,
+        "source": "2309.05685v1.pdf",
+        "text": "m D, Ioppolo S, van Dishoeck EF, Linnartz H. 2017. MNRAS467:2552 2565Ciesla FJ, Cuzzi JN. 2006. Icarus 181:178 204Ciesla FJ, Sandford SA. 2012. Science 336:452Cieza LA, Casassus S, Tobin J, Bos SP, Williams JP, et al. 2016. Nature 535:258 261Cleeves LI. 2016. ApJL 816:L21Cleeves LI, Bergin EA, Alexander CMO, Du F, Graninger D, et al. 2014. Science 345:1590 1593Cleeves LI, Bergin EA, Harries TJ. 2015a. ApJ 807:2Cleeves LI, Bergin EA,  Oberg KI, Andrews S, Wilner D, Loomis R. 2017. ApJL 843:L3Clee"
+    },
+    {
+        "id": 347,
+        "source": "2309.05685v1.pdf",
+        "text": "ves LI, Bergin EA, Qi C, Adams FC,  Oberg KI. 2015b. ApJ 799:204Cleeves LI,  Oberg KI, Wilner DJ, Huang J, Loomis RA, et al. 2018. ApJ 865:155Collings MP, Anderson MA, Chen R, Dever JW, Viti S, et al. 2004. MNRAS 354:1133 1140Collings MP, Dever JW, Fraser HJ, McCoustra MRS. 2003. Ap&SS 285:633 659Cridland AJ, van Dishoeck EF, Alessi M, Pudritz RE. 2020. A&A 642:A229Cuzzi JN, Zahnle KJ. 2004. ApJ 614:490 496D Alessio P, Calvet N, Hartmann L, Franco-Hern andez R, Serv n H. 2006. ApJ 638:314 335D A"
+    },
+    {
+        "id": 348,
+        "source": "2309.05685v1.pdf",
+        "text": "lessio P, Calvet N, Hartmann L, Lizano S, Cant o J. 1999. ApJ 527:893 909Dartois E, Dutrey A, Guilloteau S. 2003. A&A 399:773 787Disk Dynamics Collaboration, Armitage PJ, Bae J, Benisty M, Bergin EA, et al. 2020. arXiv e-prints :arXiv:2009.04345Drake JJ, Testa P, Hartmann L. 2005. ApJL 627:L149 L152Drazkowska J, Bitsch B, Lambrechts M, Mulders GD, Harsono D, et al. 2022. arXiv e-prints:arXiv:2203.09759Drozdovskaya MN, van Dishoeck EF, Rubin M, J rgensen JK, Altwegg K. 2019. MNRAS 490:50 79Drozdo"
+    },
+    {
+        "id": 349,
+        "source": "2309.05685v1.pdf",
+        "text": "vskaya MN, Walsh C, van Dishoeck EF, Furuya K, Marboeuf U, et al. 2016. MNRAS462:977 993Du F, Bergin EA. 2014. ApJ 792:2Du F, Bergin EA, Hogerheijde MR. 2015. ApJL 807:L32Dutrey A, Guilloteau S, Duvert G, Prato L, Simon M, et al. 1996. A&A 309:493 504Dutrey A, Guilloteau S, Pi etu V, Chapillon E, Gueth F, et al. 2008. A&A 490:L15 L18Dutrey A, Guilloteau S, Pi etu V, Chapillon E, Wakelam V, et al. 2017. A&A 607:A130Dutrey A, Henning T, Guilloteau S, Semenov D, Pi etu V, et al. 2007. A&A 464:615 6"
+    },
+    {
+        "id": 350,
+        "source": "2309.05685v1.pdf",
+        "text": "23Dutrey A, Semenov D, Chapillon E, Gorti U, Guilloteau S, et al. 2014. Physical and Chemical Struc-ture of Planet-Forming Disks Probed by Millimeter Observations and Modeling. In Protostarsand Planets VI, eds. H Beuther, RS Klessen, CP Dullemond, T HenningDuval SE, Bosman AD, Bergin EA. 2022. ApJL 934:L25Eistrup C, Henning T. 2022. arXiv e-prints :arXiv:2208.07390Eistrup C, Walsh C, van Dishoeck EF. 2016. A&A 595:A83Endres CP, Schlemmer S, Schilke P, Stutzki J, M uller HSP. 2016. Journal of Mol"
+    },
+    {
+        "id": 351,
+        "source": "2309.05685v1.pdf",
+        "text": "ecular Spectroscopy327:95 104Facchini S, Birnstiel T, Bruderer S, van Dishoeck EF. 2017. A&A 605:A16Facchini S, Juh asz A, Lodato G. 2018a. MNRAS 473:4459 4475Facchini S, Manara CF, Schneider PC, Clarke CJ, Bouvier J, et al. 2016. A&A 596:A38Facchini S, Pinilla P, van Dishoeck EF, de Juan Ovelar M. 2018b. A&A 612:A104Facchini S, Teague R, Bae J, Benisty M, Keppler M, Isella A. 2021. AJ 162:9938 Oberg et al."
+    },
+    {
+        "id": 352,
+        "source": "2309.05685v1.pdf",
+        "text": "Faure M, Quirico E, Faure A, Schmitt B, Theul e P, Marboeuf U. 2015. Icarus 261:14 30Fayolle EC, Balfe J, Loomis R, Bergner J, Graninger D, et al. 2016. ApJL 816:L28Fayolle EC, Bertin M, Romanzin C, Michaut X,  Oberg KI, et al. 2011. ApJL 739:L36Fedele D, Bruderer S, van Dishoeck EF, Carr J, Herczeg GJ, et al. 2013. A&A 559:A77Fedele D, Favre C. 2020. A&A 638:A110Fedele D, van Dishoeck EF, Kama M, Bruderer S, Hogerheijde MR. 2016. A&A 591:A95Fernandes RB, Mulders GD, Pascucci I, Mordasini C, Ems"
+    },
+    {
+        "id": 353,
+        "source": "2309.05685v1.pdf",
+        "text": "enhuber A. 2019. ApJ 874:81France K, Schindhelm R, Herczeg GJ, Brown A, Abgrall H, et al. 2012. ApJ 756:171Fuchs GW, Cuppen HM, Ioppolo S, Romanzin C, Bisschop SE, et al. 2009. A&A 505:629 639Fuente A, Cernicharo J, Ag undez M, Bern e O, Goicoechea JR, et al. 2010. A&A 524:A19Furuya K, Aikawa Y. 2014. ApJ 790:97Furuya K, Lee S, Nomura H. 2022a. ApJ 938:29Furuya K, Tsukagoshi T, Qi C, Nomura H, Cleeves LI, et al. 2022b. ApJ 926:148Gavino S, Dutrey A, Wakelam V, Guilloteau S, Kobus J, et al. 2021."
+    },
+    {
+        "id": 354,
+        "source": "2309.05685v1.pdf",
+        "text": " A&A 654:A65Geers VC, Augereau JC, Pontoppidan KM, Dullemond CP, Visser R, et al. 2006. A&A 459:545 556Gibb EL, Van Brunt KA, Brittain SD, Rettig TW. 2007. ApJ 660:1572 1579Glassgold AE, Meijerink R, Najita JR. 2009. ApJ 701:142 153Glassgold AE, Najita J, Igea J. 2004. ApJ 615:972 990Goldsmith PF, Langer WD. 1999. ApJ 517:209 225Gordon IE, Rothman LS, Hargreaves RJ, Hashemi R, Karlovets EV, et al. 2022. JQSRT 277:107949Graninger D,  Oberg KI, Qi C, Kastner J. 2015. ApJL 807:L15Grant SL, van Dish"
+    },
+    {
+        "id": 355,
+        "source": "2309.05685v1.pdf",
+        "text": "oeck EF, Tabone B, Gasman D, Henning T, et al. 2022. arXiv e-prints:arXiv:2212.08047Gressel O, Nelson RP, Turner NJ. 2012. MNRAS 422:1140 1159Guilloteau S, Di Folco E, Dutrey A, Simon M, Grosso N, Pi etu V. 2013. A&A 549:A92Guilloteau S, Reboussin L, Dutrey A, Chapillon E, Wakelam V, et al. 2016. A&A 592:A124Gundlach B, Blum J. 2015. ApJ 798:34G unther HM, Birnstiel T, Huenemoerder DP, Principe DA, Schneider PC, et al. 2018. AJ 156:56Guzm an VV, Bergner JB, Law CJ,  Oberg KI, Walsh C, et al. 202"
+    },
+    {
+        "id": 356,
+        "source": "2309.05685v1.pdf",
+        "text": "1. ApJs 257:6Guzm an VV, Huang J, Andrews SM, Isella A, P erez LM, et al. 2018. ApJL 869:L48Guzm an VV,  Oberg KI, Huang J, Loomis R, Qi C. 2017. ApJ 836:30Hacar A, Bosman AD, van Dishoeck EF. 2020. A&A 635:A4Hartmann L, Calvet N, Gullbring E, D Alessio P. 1998. ApJ 495:385Heays AN, Visser R, Gredel R, Ubachs W, Lewis BR, et al. 2014. A&A 562:A61Henning T, Semenov D. 2013. Chemical Reviews 113:9016 9042Henning T, Semenov D, Guilloteau S, Dutrey A, Hersant F, et al. 2010. ApJ 714:1511 1520Hersant"
+    },
+    {
+        "id": 357,
+        "source": "2309.05685v1.pdf",
+        "text": " F, Wakelam V, Dutrey A, Guilloteau S, Herbst E. 2009. A&A 493:L49 L52Hidaka H, Watanabe N, Shiraki T, Nagaoka A, Kouchi A. 2004. ApJ 614:1124 1131Hily-Blant P, Magalhaes V, Kastner J, Faure A, Forveille T, Qi C. 2017. A&A 603:L6Hily-Blant P, Magalhaes de Souza V, Kastner J, Forveille T. 2019. A&A 632:L12Hobbs R, Shorttle O, Madhusudhan, Nikku. 2022. MNRASHogerheijde MR, Bergin EA, Brinch C, Cleeves LI, Fogel JKJ, et al. 2011. Science 334:338 Hogerheijde MR, van der Tak FFS. 2000. A&A 362:697 71"
+    },
+    {
+        "id": 358,
+        "source": "2309.05685v1.pdf",
+        "text": "0Honda M, Inoue AK, Fukagawa M, Oka A, Nakamoto T, et al. 2009. ApJL 690:L110 L113Huang J, Andrews SM, Cleeves LI,  Oberg KI, Wilner DJ, et al. 2018a. ApJ 852:122Huang J, Andrews SM, Dullemond CP, Isella A, P erez LM, et al. 2018b. ApJL 869:L42Huang J, Andrews SM, Dullemond CP,  Oberg KI, Qi C, et al. 2020. ApJ 891:48Huang J, Bergin EA,  Oberg KI, Andrews SM, Teague R, et al. 2021. ApJS 257:19Huang J,  Oberg KI. 2015. ApJL 809:L26Huang J,  Oberg KI, Qi C, Aikawa Y, Andrews SM, et al. 2017. ApJ 8"
+    },
+    {
+        "id": 359,
+        "source": "2309.05685v1.pdf",
+        "text": "35:231Ilee JD, Walsh C, Booth AS, Aikawa Y, Andrews SM, et al. 2021. ApJs 257:9www.annualreviews.org  Protoplanetary Disk Chemistry39"
+    },
+    {
+        "id": 360,
+        "source": "2309.05685v1.pdf",
+        "text": "Ilgner M, Henning T, Markwick AJ, Millar TJ. 2004. A&A 415:643 659Ilgner M, Nelson RP. 2006. A&A 445:205 222Ioppolo S, Fedoseev G, Chuang KJ, Cuppen HM, Clements AR, et al. 2021. Nature Astronomy5:197 205Izquierdo AF, Facchini S, Rosotti GP, van Dishoeck EF, Testi L. 2022. ApJ 928:2Izquierdo AF, Testi L, Facchini S, Rosotti GP, van Dishoeck EF. 2021. A&A 650:A179Jiang H, Zhu W, Ormel CW. 2022. ApJL 924:L31Jonkheid B, Faas FGA, van Zadelhoff G, van Dishoeck EF. 2004. A&A 428:511 521J rgensen JK, "
+    },
+    {
+        "id": 361,
+        "source": "2309.05685v1.pdf",
+        "text": "Belloche A, Garrod RT. 2020. ARA&A 58:727 778Jura M, Young ED. 2014. Annual Review of Earth and Planetary Sciences 42:45 67Kama M, Bruderer S, Carney M, Hogerheijde M, van Dishoeck EF, et al. 2016. A&A 588:A108Kama M, Shorttle O, Jermyn AS, Folsom CP, Furuya K, et al. 2019. ApJ 885:114Kama M, Trapman L, Fedele D, Bruderer S, Hogerheijde MR, et al. 2020. A&A 634:A88Kamp I, Dullemond CP. 2004. ApJ 615:991 999Kamp I, Thi WF, Meeus G, Woitke P, Pinte C, et al. 2013. A&A 559:A24Kamp I, Thi WF, Woitke"
+    },
+    {
+        "id": 362,
+        "source": "2309.05685v1.pdf",
+        "text": " P, Rab C, Bouma S, M enard F. 2017. A&A 607:A41Kamp I, Tilling I, Woitke P, Thi WF, Hogerheijde M. 2010. A&A 510:A18Kastner JH, Hily-Blant P, Rodriguez DR, Punzi K, Forveille T. 2014. ApJ 793:55Kastner JH, Zuckerman B, Weintraub DA, Forveille T. 1997. Science 277:67 71Kress ME, Tielens AGGM, Frenklach M. 2010. Advances in Space Research 46:44 49Krijt S, Bosman AD, Zhang K, Schwarz KR, Ciesla FJ, Bergin EA. 2020. ApJ 899:134Krijt S, Ciesla FJ, Bergin EA. 2016. ApJ 833:285Krijt S, Schwarz KR, Ber"
+    },
+    {
+        "id": 363,
+        "source": "2309.05685v1.pdf",
+        "text": "gin EA, Ciesla FJ. 2018. ApJ 864:78Kruczkiewicz F, Vitorino J, Congiu E, Theul e P, Dulieu F. 2021. A&A 652:A29Lahuis F, van Dishoeck EF, Blake GA, Evans Neal J. I, Kessler-Silacci JE, Pontoppidan KM. 2007.ApJ 665:492 511Law CJ, Crystian S, Teague R,  Oberg KI, Rich EA, et al. 2022. ApJ 932:114Law CJ, Loomis RA, Teague R,  Oberg KI, Czekala I, et al. 2021a. ApJs 257:3Law CJ, Teague R, Loomis RA, Bae J,  Oberg KI, et al. 2021b. ApJs 257:4Le Gal R, Brady MT,  Oberg KI, Roueff E, Le Petit F. 2019a."
+    },
+    {
+        "id": 364,
+        "source": "2309.05685v1.pdf",
+        "text": " ApJ 886:86Le Gal R,  Oberg KI, Loomis RA, Pegues J, Bergner JB. 2019b. ApJ 876:72Le Gal R,  Oberg KI, Teague R, Loomis RA, Law CJ, et al. 2021. ApJs 257:12Lee JE, Lee S, Baek G, Aikawa Y, Cieza L, et al. 2019. Nature Astronomy 3:314 319Leemker M, Booth AS, van Dishoeck EF, P erez-S anchez AF, Szul agyi J, et al. 2022. A&A 663:A23Leemker M, van t Hoff MLR, Trapman L, van Gelder ML, Hogerheijde MR, et al. 2021. A&A646:A3Lichtenberg T, Schaefer LK, Nakajima M, Fischer RA. 2022. arXiv e-prints :arX"
+    },
+    {
+        "id": 365,
+        "source": "2309.05685v1.pdf",
+        "text": "iv:2203.10023Lodders K. 2003. ApJ 591:1220 1247Lodders K. 2004. ApJ 611:587 597Long F, Bosman AD, Cazzoletti P, van Dishoeck EF,  Oberg KI, et al. 2021. A&A 647:A118Long F, Herczeg GJ, Pascucci I, Drabek-Maunder E, Mohanty S, et al. 2017. ApJ 844:99Long F, Pinilla P, Herczeg GJ, Harsono D, Dipierro G, et al. 2018. ApJ 869:17Loomis RA, Cleeves LI,  Oberg KI, Aikawa Y, Bergner J, et al. 2018a. ApJ 859:131Loomis RA,  Oberg KI, Andrews SM, Bergin E, Bergner J, et al. 2020. ApJ 893:101Loomis RA,  Obe"
+    },
+    {
+        "id": 366,
+        "source": "2309.05685v1.pdf",
+        "text": "rg KI, Andrews SM, Walsh C, Czekala I, et al. 2018b. AJ 155:182Lunine JI, Stevenson DJ. 1985. ApJs 58:493 531Lynden-Bell D, Pringle JE. 1974. MNRAS 168:603 637Lyons JR, Young ED. 2005. Photochemical Speciation of Oxygen Isotopes in the Solar Nebula. InChondrites and the Protoplanetary Disk, eds. AN Krot, ERD Scott, B Reipurth, vol. 341 ofAstronomical Society of the Pacific Conference SeriesMadhusudhan N. 2019. ARA&A 57:617 66340 Oberg et al."
+    },
+    {
+        "id": 367,
+        "source": "2309.05685v1.pdf",
+        "text": "Mandell AM, Bast J, van Dishoeck EF, Blake GA, Salyk C, et al. 2012. ApJ 747:92McClure MK. 2019. A&A 632:A32McClure MK, Bergin EA, Cleeves LI, van Dishoeck EF, Blake GA, et al. 2016. ApJ 831:167McElroy D, Walsh C, Markwick AJ, Cordiner MA, Smith K, Millar TJ. 2013. A&A 550:A36McGuire BA. 2022. ApJs 259:30Meeus G, Montesinos B, Mendigut a I, Kamp I, Thi WF, et al. 2012. A&A 544:A78Meeus G, Salyk C, Bruderer S, Fedele D, Maaskant K, et al. 2013. A&A 559:A84Meijerink R, Pontoppidan KM, Blake GA, Po"
+    },
+    {
+        "id": 368,
+        "source": "2309.05685v1.pdf",
+        "text": "elman DR, Dullemond CP. 2009. ApJ 704:1471 1481Min M, Bouwman J, Dominik C, Waters LBFM, Pontoppidan KM, et al. 2016. A&A 593:A11Miotello A, Bruderer S, van Dishoeck EF. 2014. A&A 572:A96Miotello A, Facchini S, van Dishoeck EF, Cazzoletti P, Testi L, et al. 2019. A&A 631:A69Miotello A, Kamp I, Birnstiel T, Cleeves LI, Kataoka A. 2022. arXiv e-prints :arXiv:2203.09818Miotello A, van Dishoeck EF, Kama M, Bruderer S. 2016. A&A 594:A85Miotello A, van Dishoeck EF, Williams JP, Ansdell M, Guidi G, et "
+    },
+    {
+        "id": 369,
+        "source": "2309.05685v1.pdf",
+        "text": "al. 2017. A&A 599:A113Molyarova T, Akimkin V, Semenov D,  Abrah am P, Henning T, et al. 2018. ApJ 866:46Morbidelli A, Bitsch B, Crida A, Gounelle M, Guillot T, et al. 2016. Icarus 267:368 376Mu noz Caro GM, Meierhenrich UJ, Schutte WA, Barbier B, Arcones Segovia A, et al. 2002. Nature416:403 406M uller HSP, Schl oder F, Stutzki J, Winnewisser G. 2005. Journal of Molecular Structure 742:215 227M uller HSP, Thorwirth S, Roth DA, Winnewisser G. 2001. A&A 370:L49 L52Mumma MJ, Charnley SB. 2011. ARA&"
+    },
+    {
+        "id": 370,
+        "source": "2309.05685v1.pdf",
+        "text": "A 49:471 524Najita J, Carr JS, Mathieu RD. 2003. ApJ 589:931 952Najita JR,  Ad amkovics M. 2017. ApJ 847:6Najita JR,  Ad amkovics M, Glassgold AE. 2011. ApJ 743:147Najita JR, Carr JS, Brittain SD, Lacy JH, Richter MJ, Doppmann GW. 2021. ApJ 908:171Najita JR, Carr JS, Pontoppidan KM, Salyk C, van Dishoeck EF, Blake GA. 2013. ApJ 766:134Najita JR, Carr JS, Salyk C, Lacy JH, Richter MJ, DeWitt C. 2018. ApJ 862:122Najita JR, Carr JS, Strom SE, Watson DM, Pascucci I, et al. 2010. ApJ 712:274 286Natta"
+    },
+    {
+        "id": 371,
+        "source": "2309.05685v1.pdf",
+        "text": " A, Testi L, Calvet N, Henning T, Waters R, Wilner D. 2007. Dust in Protoplanetary Disks:Properties and Evolution. In Protostars and Planets V, eds. B Reipurth, D Jewitt, K KeilNomura H, Aikawa Y, Nakagawa Y, Millar TJ. 2009. A&A 495:183 188Nomura H, Aikawa Y, Tsujimoto M, Nakagawa Y, Millar TJ. 2007. ApJ 661:334 353Nomura H, Tsukagoshi T, Kawabe R, Muto T, Kanagawa KD, et al. 2021. ApJ 914:113 Oberg KI, Bergin EA. 2021. Physics Reports 893:1 48. Astrochemistry and compositions of plane-tary sys"
+    },
+    {
+        "id": 372,
+        "source": "2309.05685v1.pdf",
+        "text": "tems Oberg KI, Boogert ACA, Pontoppidan KM, van den Broek S, van Dishoeck EF, et al. 2011a. ApJ740:109 Oberg KI, Cleeves LI, Bergner JB, Cavanaro J, Teague R, et al. 2021a. AJ 161:38 Oberg KI, Furuya K, Loomis R, Aikawa Y, Andrews SM, et al. 2015a. ApJ 810:112 Oberg KI, Guzm an VV, Furuya K, Qi C, Aikawa Y, et al. 2015b. Nature 520:198 201 Oberg KI, Guzm an VV, Walsh C, Aikawa Y, Bergin EA, et al. 2021b. ApJs 257:1 Oberg KI, Murray-Clay R, Bergin EA. 2011b. ApJL 743:L16 Oberg KI, Qi C, Fogel JKJ"
+    },
+    {
+        "id": 373,
+        "source": "2309.05685v1.pdf",
+        "text": ", Bergin EA, Andrews SM, et al. 2010. ApJ 720:480 493 Oberg KI, Qi C, Fogel JKJ, Bergin EA, Andrews SM, et al. 2011c. ApJ 734:98 Oberg KI, Wordsworth R. 2019. AJ 158:194Okuzumi S, Tazaki R. 2019. ApJ 878:132Owen T, Mahaffy P, Niemann HB, Atreya S, Donahue T, et al. 1999. Nature 402:269 270Paneque-Carre no T, Miotello A, van Dishoeck EF, P erez LM, Facchini S, et al. 2022. arXiv e-prints:arXiv:2207.08827Pascucci I, Apai D, Luhman K, Henning T, Bouwman J, et al. 2009. ApJ 696:143 159www.annualrevi"
+    },
+    {
+        "id": 374,
+        "source": "2309.05685v1.pdf",
+        "text": "ews.org  Protoplanetary Disk Chemistry41"
+    },
+    {
+        "id": 375,
+        "source": "2309.05685v1.pdf",
+        "text": "PascucciI,CabritS,EdwardsS,GortiU,GresselO,SuzukiT.2022.arXive-prints:arXiv:2203.10068Pascucci I, Herczeg G, Carr JS, Bruderer S. 2013. ApJ 779:178Pegues J,  Oberg KI, Bergner JB, Huang J, Pascucci I, et al. 2021. ApJ 911:150Pegues J,  Oberg KI, Bergner JB, Loomis RA, Qi C, et al. 2020. ApJ 890:142Phuong NT, Chapillon E, Majumdar L, Dutrey A, Guilloteau S, et al. 2018. A&A 616:L5Phuong NT, Dutrey A, Chapillon E, Guilloteau S, Bary J, et al. 2021. A&A 653:L5Pickett HM, Poynter RL, Cohen EA, Delit"
+    },
+    {
+        "id": 376,
+        "source": "2309.05685v1.pdf",
+        "text": "sky ML, Pearson JC, M uller HSP. 1998. JQSRT 60:883 890Pi etu V, Dutrey A, Guilloteau S. 2007. A&A 467:163 178Pinte C, M enard F, Duch ene G, Bastien P. 2006. A&A 459:797 804Pinte C, M enard F, Duch ene G, Hill T, Dent WRF, et al. 2018a. A&A 609:A47Pinte C, Price DJ, M enard F, Duch ene G, Dent WRF, et al. 2018b. ApJL 860:L13PinteC,TeagueR,FlahertyK,HallC,FacchiniS,CasassusS.2022.arXive-prints:arXiv:2203.09528Pirovano LM, Fedele D, van Dishoeck EF, Hogerheijde MR, Lodato G, Bruderer S. 2022. arX"
+    },
+    {
+        "id": 377,
+        "source": "2309.05685v1.pdf",
+        "text": "ive-prints :arXiv:2207.10744Piso AMA,  Oberg KI, Birnstiel T, Murray-Clay RA. 2015. ApJ 815:109Piso AMA, Pegues J,  Oberg KI. 2016. ApJ 833:203Podio L, Garufi A, Codella C, Fedele D, Bianchi E, et al. 2020. A&A 642:L7Pontoppidan KM, Blake GA, Smette A. 2011. ApJ 733:84Pontoppidan KM, Blake GA, van Dishoeck EF, Smette A, Ireland MJ, Brown J. 2008. ApJ684:1323 1329Pontoppidan KM, Dullemond CP, van Dishoeck EF, Blake GA, Boogert ACA, et al. 2005. ApJ622:463 481Pontoppidan KM, Meijerink R, Dullemond"
+    },
+    {
+        "id": 378,
+        "source": "2309.05685v1.pdf",
+        "text": " CP, Blake GA. 2009. ApJ 704:1482 1494Pontoppidan KM, Salyk C, Banzatti A, Blake GA, Walsh C, et al. 2019. ApJ 874:92Pontoppidan KM, Salyk C, Bergin EA, Brittain S, Marty B, et al. 2014. Volatiles in ProtoplanetaryDisks. In Protostars and Planets VI, eds. H Beuther, RS Klessen, CP Dullemond, T HenningPontoppidan KM, Salyk C, Blake GA, Meijerink R, Carr JS, Najita J. 2010. ApJ 720:887 903Potapov A, J ager C, Henning T. 2018a. ApJ 865:58Potapov A, J ager C, Henning T. 2018b. ApJ 865:58Powell D, Ga"
+    },
+    {
+        "id": 379,
+        "source": "2309.05685v1.pdf",
+        "text": "o P, Murray-Clay R, Zhang X. 2022. Nature AstronomyPowell D, Murray-Clay R, P erez LM, Schlichting HE, Rosenthal M. 2019. ApJ 878:116Price EM, Cleeves LI, Bodewits D,  Oberg KI. 2021. ApJ 913:9Price EM, Cleeves LI,  Oberg KI. 2020. ApJ 890:154Prinn RG. 1993. Chemistry and Evolution of Gaseous Circumstellar Disks. In Protostars and Plan-ets III, eds. EH Levy, JI LunineQi C, D Alessio P,  Oberg KI, Wilner DJ, Hughes AM, et al. 2011. ApJ 740:84Qi C, Kessler JE, Koerner DW, Sargent AI, Blake GA. 200"
+    },
+    {
+        "id": 380,
+        "source": "2309.05685v1.pdf",
+        "text": "3. ApJ 597:986 997Qi C,  Oberg KI, Espaillat CC, Robinson CE, Andrews SM, et al. 2019. ApJ 882:160Qi C,  Oberg KI, Wilner DJ, D Alessio P, Bergin E, et al. 2013. Science 341:630 632Qi C, Wilner DJ, Aikawa Y, Blake GA, Hogerheijde MR. 2008. ApJ 681:1396 1407Rab C, Elbakyan V, Vorobyov E, G udel M, Dionatos O, et al. 2017. A&A 604:A15Rab C, G udel M, Woitke P, Kamp I, Thi WF, et al. 2018. A&A 609:A91Rab C, Kamp I, Dominik C, Ginski C, Muro-Arena GA, et al. 2020. A&A 642:A165Riviere-Marichalar P, E"
+    },
+    {
+        "id": 381,
+        "source": "2309.05685v1.pdf",
+        "text": "lliott P, Rebollido I, Bayo A, Ribas A, et al. 2015. A&A 584:A22Rivi`ere-Marichalar P, Fuente A, Esplugues G, Wakelam V, le Gal R, et al. 2022. arXiv e-prints:arXiv:2207.06716Ros K, Johansen A. 2013. A&A 552:A137Rosenfeld KA, Qi C, Andrews SM, Wilner DJ, Corder SA, et al. 2012. ApJ 757:12942 Oberg et al."
+    },
+    {
+        "id": 382,
+        "source": "2309.05685v1.pdf",
+        "text": "Ruaud M, Gorti U. 2019. ApJ 885:146Salinas VN, Hogerheijde MR, Bergin EA, Cleeves LI, Brinch C, et al. 2016. A&A 591:A122Salinas VN, Hogerheijde MR, Mathews GS,  Oberg KI, Qi C, et al. 2017. A&A 606:A125Salyk C, Blake GA, Boogert ACA, Brown JM. 2011a. ApJ 743:112Salyk C, Lacy J, Richter M, Zhang K, Pontoppidan K, et al. 2019. ApJ 874:24Salyk C, Pontoppidan KM, Blake GA, Najita JR, Carr JS. 2011b. ApJ 731:130Sargent AI, Beckwith S. 1987. ApJ 323:294Sch oier FL, van der Tak FFS, van Dishoeck EF, B"
+    },
+    {
+        "id": 383,
+        "source": "2309.05685v1.pdf",
+        "text": "lack JH. 2005. A&A 432:369 379Schwarz KR, Bergin EA, Cleeves LI, Blake GA, Zhang K, et al. 2016. ApJ 823:91Schwarz KR, Bergin EA, Cleeves LI, Zhang K,  Oberg KI, et al. 2018. ApJ 856:85Seifert RA, Cleeves LI, Adams FC, Li ZY. 2021. ApJ 912:136Semenov D, Wiebe D. 2011. ApJs 196:25Semenov D, Wiebe D, Henning T. 2004. A&A 417:93 106Shu FH, Adams FC, Lizano S. 1987. ARA&A 25:23 81Siebenmorgen R, Heymann F. 2012. A&A 543:A25Simon M, Guilloteau S, Beck TL, Chapillon E, Di Folco E, et al. 2019. ApJ 884"
+    },
+    {
+        "id": 384,
+        "source": "2309.05685v1.pdf",
+        "text": ":42Smirnov-Pinchukov GV, Molyarova T, Semenov DA, Akimkin VV, van Terwisga S, et al. 2022.A&A 666:L8Smith RL, Pontoppidan KM, Young ED, Morris MR. 2015. ApJ 813:120Stevenson DJ, Lunine JI. 1988. Icarus 75:146 155Sturm JA, McClure MK, Harsono D, Facchini S, Long F, et al. 2022. A&A 660:A126Teague R, Bae J, Bergin EA. 2019. Nature 574:378 381Teague R, Jankovic MR, Haworth TJ, Qi C, Ilee JD. 2020. MNRAS 495:451 459Teague R, Loomis R. 2020. ApJ 899:157Teague R, Semenov D, Gorti U, Guilloteau S, Henn"
+    },
+    {
+        "id": 385,
+        "source": "2309.05685v1.pdf",
+        "text": "ing T, et al. 2017. ApJ 835:228Teague R, Semenov D, Guilloteau S, Henning T, Dutrey A, et al. 2015. A&A 574:A137Terada H, Tokunaga AT. 2017. ApJ 834:115Terwisscha van Scheltinga J, Hogerheijde MR, Cleeves LI, Loomis RA, Walsh C, et al. 2021. ApJ906:111Thi W, van Zadelhoff G, van Dishoeck EF. 2004. A&A 425:955 972Thi WF, Hocuk S, Kamp I, Woitke P, Rab C, et al. 2020. A&A 635:A16Thi WF, Lesur G, Woitke P, Kamp I, Rab C, Carmona A. 2019. A&A 632:A44Thi WF, Mathews G, M enard F, Woitke P, Meeus G, e"
+    },
+    {
+        "id": 386,
+        "source": "2309.05685v1.pdf",
+        "text": "t al. 2010. A&A 518:L125Thi WF, Pinte C, Pantin E, Augereau JC, Meeus G, et al. 2014. A&A 561:A50Thi WF, Pontoppidan KM, van Dishoeck EF, Dartois E, d Hendecourt L. 2002. A&A 394:L27 L30Tielens AGGM. 2008. ARA&A 46:289 337Tielens AGGM, Hagen W. 1982. A&A 114:245 260Trapman L, Zhang K, van t Hoff MLR, Hogerheijde MR, Bergin EA. 2022. ApJL 926:L2van Boekel R, Min M, Leinert C, Waters LBFM, Richichi A, et al. 2004. Nature 432:479 482Van Clepper E, Bergner JB, Bosman AD, Bergin E, Ciesla FJ. 2022. A"
+    },
+    {
+        "id": 387,
+        "source": "2309.05685v1.pdf",
+        "text": "pJ 927:206van den Ancker ME, Bouwman J, Wesselius PR, Waters LBFM, Dougherty SM, van Dishoeck EF.2000. A&A 357:325 329van der Marel N, Booth AS, Leemker M, van Dishoeck EF, Ohashi S. 2021. A&A 651:L5van der Marel N, van Dishoeck EF, Bruderer S, Andrews SM, Pontoppidan KM, et al. 2016. A&A585:A58van der Marel N, van Dishoeck EF, Bruderer S, P erez L, Isella A. 2015. A&A 579:A106van der Marel N, Williams JP, Bruderer S. 2018. ApJL 867:L14van der Tak FFS, Black JH, Sch oier FL, Jansen DJ, van Disho"
+    },
+    {
+        "id": 388,
+        "source": "2309.05685v1.pdf",
+        "text": "eck EF. 2007. A&A 468:627 635van der Wiel MHD, Naylor DA, Kamp I, M enard F, Thi WF, et al. 2014a. MNRAS 444:3911 3925van der Wiel MHD, Naylor DA, Kamp I, M enard F, Thi WF, et al. 2014b. MNRAS 444:3911 3925van Dishoeck EF, Bergin EA. 2021. Astrochemistry and Planet Formation. In ExoFrontiers; Bigwww.annualreviews.org  Protoplanetary Disk Chemistry43"
+    },
+    {
+        "id": 389,
+        "source": "2309.05685v1.pdf",
+        "text": "Questions in Exoplanetary Science, ed. N Madhusudhan. 14 1van Dishoeck EF, Kristensen LE, Mottram JC, Benz AO, Bergin EA, et al. 2021. A&A 648:A24van Dishoek EF, Blake GA, Draine BT, Lunine JI. 1993. The chemical evolution of protostellarand protoplanetary matter. In Protostars and Planets III, eds. EH Levy, JI Luninevan  t Hoff MLR, Persson MV, Harsono D, Taquet V, J rgensen JK, et al. 2018a. A&A 613:A29van  t Hoff MLR, Tobin JJ, Trapman L, Harsono D, Sheehan PD, et al. 2018b. ApJL 864:L23van  "
+    },
+    {
+        "id": 390,
+        "source": "2309.05685v1.pdf",
+        "text": "t Hoff MLR, Walsh C, Kama M, Facchini S, van Dishoeck EF. 2017. A&A 599:A101van Terwisga SE, van Dishoeck EF, Cazzoletti P, Facchini S, Trapman L, et al. 2019. A&A 623:A150van Zadelhoff G, Aikawa Y, Hogerheijde MR, van Dishoeck EF. 2003. A&A 397:789 802Vasyunin AI, Wiebe DS, Birnstiel T, Zhukovska S, Henning T, Dullemond CP. 2011. ApJ 727:76Visser R, Bruderer S, Cazzoletti P, Facchini S, Heays AN, van Dishoeck EF. 2018. A&A 615:A75Visser R, van Dishoeck EF, Doty SD, Dullemond CP. 2009. A&A 495:8"
+    },
+    {
+        "id": 391,
+        "source": "2309.05685v1.pdf",
+        "text": "81 897Wakelam V, Herbst E, Loison JC, Smith IWM, Chandrasekaran V, et al. 2012. ApJs 199:21Wakelam V, Ruaud M, Hersant F, Dutrey A, Semenov D, et al. 2016. A&A 594:A35Walsh C, Millar TJ, Nomura H. 2010. ApJ 722:1607 1623Walsh C, Millar TJ, Nomura H. 2013. ApJL 766:L23Walsh C, Millar TJ, Nomura H, Herbst E, Widicus Weaver S, et al. 2014. A&A 563:A33Walsh C, Nomura H, van Dishoeck E. 2015a. A&A 582:A88Walsh C, Nomura H, van Dishoeck E. 2015b. A&A 582:A88Wei CE, Nomura H, Lee JE, Ip WH, Walsh C, Mi"
+    },
+    {
+        "id": 392,
+        "source": "2309.05685v1.pdf",
+        "text": "llar TJ. 2019. ApJ 870:129Willacy K. 2007. ApJ 660:441 460Willacy K, Millar TJ. 1998. MNRAS 298:562 568Willacy K, Woods PM. 2009. ApJ 703:479 499Williams JP, Best WMJ. 2014. ApJ 788:59Wilson DJ, G ansicke BT, Farihi J, Koester D. 2016. MNRAS 459:3282 3286Woitke P, Kamp I, Antonellini S, Anthonioz F, Baldovin-Saveedra C, et al. 2019. PASP 131:064301Woitke P, Kamp I, Thi WF. 2009. A&A 501:383 406Woitke P, Min M, Thi WF, Roberts C, Carmona A, et al. 2018. A&A 618:A57Xu R, Bai XN,  Oberg K, Zhang H."
+    },
+    {
+        "id": 393,
+        "source": "2309.05685v1.pdf",
+        "text": " 2019. ApJ 872:107Young AK, Alexander R, Walsh C, Nealon R, Booth A, Pinte C. 2021. MNRAS 505:4821 4837Yu H, Teague R, Bae J,  Oberg K. 2021. ApJL 920:L33Yu M, Evans Neal J. I, Dodson-Robinson SE, Willacy K, Turner NJ. 2017. ApJ 850:169Zhang K, Bergin EA, Blake GA, Cleeves LI, Schwarz KR. 2017. Nature Astronomy 1:0130Zhang K, Bergin EA, Schwarz K, Krijt S, Ciesla F. 2019. ApJ 883:98Zhang K, Blake GA, Bergin EA. 2015. ApJL 806:L7Zhang K, Booth AS, Law CJ, Bosman AD, Schwarz KR, et al. 2021a. ApJs"
+    },
+    {
+        "id": 394,
+        "source": "2309.05685v1.pdf",
+        "text": " 257:5Zhang K, Pontoppidan KM, Salyk C, Blake GA. 2013. ApJ 766:82Zhang S, Zhu Z, Huang J, Guzm an VV, Andrews SM, et al. 2018. The Astrophysical Journal869:L47Zhang Y, Snellen IAG, Molli`ere P. 2021b. A&A 656:A7644 Oberg et al."
     }
 ]

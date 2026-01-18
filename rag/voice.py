@@ -3,14 +3,14 @@ import wave
 import sys,os
 import pyaudio,struct
 import pvporcupine
-from rag.globals import wake_event,mic_lock,input_queue,output_queue,audio_queue
+from rag.globals import wake_event,mic_lock,input_queue,output_queue,audio_queue,stop_event
 from log.log import get_logger
 import numpy as np
 import pyttsx3
 
 logger=get_logger()
 
-access_key = ""
+access_key = "GGxt4UpkNVAhL2lOi2Sh0u8J3h/HNmUICwFqxQTtwjf6jvQ1SSIKSQ=="
 KEYWORD_PATH = rf"C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\hey-max_en_windows_v3_0_0.ppn"
 SENSITIVITY = 0.6
 
@@ -34,6 +34,7 @@ def wake_up():
     try:
         logger.info("Waking up...")
         while True:
+            stop_event.wait()
             pcm=audio_stream.read(porcupine.frame_length,exception_on_overflow=False)
             pcm_unpacked=struct.unpack_from("h"*porcupine.frame_length,pcm)
             result=porcupine.process(pcm_unpacked)
@@ -54,11 +55,6 @@ def get_audio():
             RATE=44100
             RECORD_SECONDS=6
             logger.info("Recording started..")
-            THRESHOLD=10
-            SILENCE_SECOND=1
-            max_silence_chunks = int(SILENCE_SECOND * RATE / CHUNK)
-            silence_counter=0
-
             with wave.open('output.wav','wb') as wf:
                 p=pyaudio.PyAudio()
                 wf.setnchannels(CHANNELS)
@@ -70,16 +66,6 @@ def get_audio():
                 with mic_lock:
                     for _ in range(0,RATE//CHUNK*RECORD_SECONDS):
                         wf.writeframes(stream.read(CHUNK))
-                        # data=stream.read(CHUNK)
-                        # samples=np.frombuffer(data,dtype=np.int16)
-                        # loudness=np.mean(np.abs(samples))
-                        # if loudness<=THRESHOLD:
-                        #     silence_counter+=1
-                        # else:
-                        #     silence_counter=0
-                        # if silence_counter>max_silence_chunks:
-                        #     logger.info("Silence detected so stopping early")
-                        #     break
                 stream.close()
                 p.terminate()
             logger.info("Recorded")
@@ -88,6 +74,45 @@ def get_audio():
     except Exception as e:
         logger.exception(e)
 
+def manual_audio():
+    try:
+            CHUNK=1024
+            FORMAT=pyaudio.paInt16
+            CHANNELS=1 if sys.platform=='darwin' else 2
+            RATE=44100
+            RECORD_SECONDS=6
+            logger.info("Recording started..")
+            with wave.open('output.wav','wb') as wf:
+                p=pyaudio.PyAudio()
+                wf.setnchannels(CHANNELS)
+                wf.setsampwidth(p.get_sample_size(FORMAT))
+                wf.setframerate(RATE)
+
+                stream=p.open(format=
+                  FORMAT,channels=CHANNELS,rate=RATE,input=True)
+                with mic_lock:
+                    for _ in range(0,RATE//CHUNK*RECORD_SECONDS):
+                        wf.writeframes(stream.read(CHUNK))
+                stream.close()
+                p.terminate()
+            logger.info("Recorded")
+            text=manual_audio_to_text('output.wav')
+            return text
+    except Exception as e:
+        logger.exception(e)
+
+def manual_audio_to_text(audio):
+    try:
+            logger.info("Converting to text")
+            model=whisper.load_model("small")
+            audio=whisper.load_audio("output.wav")
+            audio=whisper.pad_or_trim(audio)
+            result = model.transcribe(audio,language="en")
+            logger.info(f"Converted audio text - {result["text"]}")
+            text=result["text"]
+            return text
+    except Exception as e:
+        logger.exception(e)
 
 def audio_to_text():
     try:
@@ -103,6 +128,7 @@ def audio_to_text():
             input_queue.put(text)
     except Exception as e:
         logger.exception(e)
+
 
 def text_to_audio():
     try:

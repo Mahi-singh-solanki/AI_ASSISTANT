@@ -4,8 +4,9 @@ from pystray import Icon as icon,Menu,MenuItem as item
 import time,sys
 from rag.pipeline import processor
 from rag.voice import wake_up,get_audio,text_to_audio,audio_to_text
-from rag.tasks import reminder
+from rag.tasks import reminder,schedule
 from log.log import get_logger
+from rag.globals import wake_event,stop_event,input_queue
 
 listening_enabled=True
 wake_word_enabled=True
@@ -13,20 +14,17 @@ shutdown_event=Event()
 
 def pause_listening(icon, item):
     global listening_enabled
+    stop_event.clear()
     listening_enabled = False
     print("Listening paused")
 
 
 def resume_listening(icon, item):
+    stop_event.set()
     global listening_enabled
     listening_enabled = True
     print("Listening resumed")
 
-
-def restart_wake_word(icon, item):
-    global wake_word_enabled
-    wake_word_enabled = True
-    print("Wake word detection restarted")
 
 
 def show_status(icon, item):
@@ -45,7 +43,6 @@ def build_menu():
     return (
         item("Pause Listening", pause_listening),
         item("Resume Listening", resume_listening),
-        item("Restart Wake Word", restart_wake_word),
         item("Show Status", show_status),
         item("Quit Assistant", quit_assistant)
     )
@@ -57,10 +54,12 @@ def start_threads():
         Thread(target=audio_to_text,daemon=True),
         Thread(target=processor,daemon=True),
         Thread(target=reminder,daemon=True),
+        Thread(target=schedule,daemon=True),
         Thread(target=text_to_audio,daemon=True)
     ]
     for t in threads:
         t.start()
+    stop_event.set()
 
 def main():
     logger=get_logger()

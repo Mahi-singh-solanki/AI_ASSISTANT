@@ -1,10 +1,13 @@
-import os,pyautogui,time,re,json
+import os,pyautogui,time,re,json,requests
 from playwright.sync_api import sync_playwright
-from rag.globals import output_queue
+from rag.globals import output_queue,input_queue
 from backend.repository.text_extraction import clean_text
 import psutil as p
 from datetime import datetime,timedelta
 from winotify import Notification
+from rag.voice import manual_audio
+
+url = "https://ai-scheduler-xzk0.onrender.com/planner"
 
 def play_music(name):
     os.startfile(rf"C:\Users\Admin\AppData\Roaming\Spotify\Spotify.exe")
@@ -55,7 +58,7 @@ def open_yt(c):
     return "opened youtube"
 
 def play_last_video(c):
-    pyautogui.click(119,497)
+    pyautogui.click(146,919)
     time.sleep(3)
     pyautogui.click(516,530)
     return "Playing last video from history"
@@ -113,7 +116,7 @@ def web_search(topic):
                 text=text+para
         # result=clean_text(text)
         print(text)
-        output_queue.put(text)
+        input_queue.put("summarise "+text)
         with open(rf"C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\data\chunks.json","r") as f:
             loaded=json.load(f)
         chunk={"id":len(loaded)+1,"source":"web","text":text}
@@ -121,7 +124,7 @@ def web_search(topic):
             loaded.append(chunk)
         with open(rf"C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\data\chunks.json","w") as f:
             json.dump(loaded,f,indent=4)
-        return "task done.."
+        return "ok sir let me search.."
 
 def my_data(c):
     cpu=p.cpu_percent(interval=0.1)
@@ -157,6 +160,25 @@ def reminder():
             json.dump(reminders,f,indent=4)
         time.sleep(10)
 
+def schedule():
+    while True:
+        with open(rf"C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\schedule.json","r") as f:
+            schedules=json.load(f)
+        if schedules:
+            for reminder in schedules:
+                if reminder["status"]=="pending":
+                    now=datetime.now()
+                    old = datetime.strptime(reminder["timestamp"], "%Y-%m-%d %H:%M:%S")
+                    if now>=old:
+                        print(reminder["activity"])
+                        message=f"sorry to interrupt you sir but wanted to remind you to {reminder["activity"]}"
+                        output_queue.put(message)
+                        toast=Notification(app_id="Assistant",title="Reminder",msg=reminder["activity"],duration="short")
+                        toast.show()
+        with open(rf"C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\schedule.json","w") as f:
+            json.dump(schedules,f,indent=4)
+        time.sleep(10)
+
 def get_my_all_reminders(c):
     with open(rf"C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\reminders.json","r") as f:
         reminders=json.load(f)
@@ -166,6 +188,53 @@ def get_my_all_reminders(c):
             result+=f"Reminder to {reminder["text"]} at {reminder["time"]},"
     print(result)
     return result
+
+def set_schedule(c):
+    questions=[]
+    output_queue.put("Do you have any assignments?")
+    time.sleep(3)
+    q1=manual_audio()
+    questions.append(q1)
+    output_queue.put("Do you have any Projects?")
+    time.sleep(3)
+    q2=manual_audio()
+    questions.append(q2)
+    output_queue.put("Do you have any learning to do?")
+    time.sleep(3)
+    q3=manual_audio()
+    questions.append(q3)
+    output_queue.put("Do you have any exercise to do?")
+    time.sleep(3)
+    q4=manual_audio()
+    questions.append(q4)
+    output_queue.put("what is your college time?")
+    time.sleep(3)
+    q5=manual_audio()
+    questions.append(q5)
+    output_queue.put("what is your class time?")
+    time.sleep(3)
+    q6=manual_audio()
+    questions.append(q6)
+    print(questions)
+    payload = {
+    "q1":q1,
+    "q2":q2,
+    "q3":q3,
+    "q4":q4,
+    "q5":q5,
+    "q6":q6,
+    }
+    headers={"Content-Type": "application/json"}
+    response=requests.post(url,json=payload,headers=headers)
+    response=response.json()
+    step1 = re.sub(r'\\n\s*', '', response)
+    step2 = re.sub(r'\\"', '"', step1)
+    final = re.sub(r',\s*]', ']', step2)
+    response=json.loads(final)
+    with open(rf"C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\schedule.json","w") as f:
+        json.dump(response,f,indent=4)
+    return "ok sir schedule set"
+    
 
 def cancel_all_reminders(c):
     with open(rf"C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\reminders.json","r") as f:

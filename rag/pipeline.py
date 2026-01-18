@@ -6,7 +6,7 @@ from .voice import get_audio,audio_to_text,text_to_audio,wake_up
 from embeddings.memory_vector import sync_memory_embeddings
 from rag.globals import input_queue,output_queue,wake_event
 from log.log import get_logger
-from rag.tasks import play_music,stop_music,open_vscode,open_yt,play_last_video,open_note,create_file,del_file,get_all_files,web_search,my_data,get_my_all_reminders,cancel_all_reminders
+from rag.tasks import play_music,stop_music,open_vscode,open_yt,play_last_video,open_note,create_file,del_file,get_all_files,web_search,my_data,get_my_all_reminders,cancel_all_reminders,set_schedule
 from datetime import datetime
 
 
@@ -27,7 +27,8 @@ def save_memory(q,a,dt):
             "search":web_search,
             "system info":my_data,
             "get all my reminders":get_my_all_reminders,
-            "delete all my reminders":cancel_all_reminders
+            "delete all my reminders":cancel_all_reminders,
+            "set schedule":set_schedule
             }
 
     if dt=="fact":
@@ -203,6 +204,14 @@ You will be given:
 
 """
 
+template2="""
+you are summariser who summarise and provide clear concise summary for the given raw paragraphs
+summary should be in paragraphs
+## summarise task
+{raw}
+"""
+prompt2=ChatPromptTemplate.from_template(template2)
+chain2=prompt2 | model
 prompt=ChatPromptTemplate.from_template(template)
 
 chain=prompt | model
@@ -215,9 +224,14 @@ def processor():
             print("\n-------------------")
             question=input_queue.get()
             if question:
-                keywords=["open", "run", "start", "play", "search", "stop", "create","get","delete"]
+                keywords=["open", "run", "start", "play", "search", "stop", "create","get","delete","system info","set"]
                 if any(keyword in question[:10].lower() for keyword in keywords):
                     save_memory(question,"","task")
+                elif "summarise" in question:
+                    result=chain2.invoke({"raw":question})
+                    logger.info(f"Answered the query result-{result}")
+                    output_queue.put(result)
+                    save_memory(question,result,"question")
                 else:
                     logger.info("Answering the query...")
                     if "remind" in question.lower():

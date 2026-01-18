@@ -1,0 +1,25 @@
+[2026-01-18 08:03:04] [INFO] [MainThread] — ==Assistant started==
+[2026-01-18 08:03:04] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-01-18 08:03:04] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-01-18 08:03:06] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2026-01-18 18:14:02] [INFO] [MainThread] — ==Assistant started==
+[2026-01-18 18:14:02] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-01-18 18:14:02] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-01-18 18:14:03] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2026-01-18 23:49:50] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2026-01-18 23:56:12] [INFO] [MainThread] — ==Assistant started==
+[2026-01-18 23:56:12] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-01-18 23:56:12] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-01-18 23:56:13] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2026-01-18 23:56:47] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2026-01-18 23:58:21] [INFO] [MainThread] — ==Assistant started==
+[2026-01-18 23:58:21] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-01-18 23:58:21] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-01-18 23:58:22] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2026-01-18 23:59:43] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2026-01-18 23:59:52] [INFO] [MainThread] — ==Assistant started==
+[2026-01-18 23:59:52] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-01-18 23:59:52] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-01-18 23:59:53] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2026-01-18 23:59:57] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2026-01-18 23:59:57] [INFO] [Thread-3 (get_audio)] — Recording started..
