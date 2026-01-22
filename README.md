@@ -244,4 +244,3 @@ Your assistant is now:
 ✔ Auto-starting
 ✔ Tray controlled
 ✔ Multi-threaded
-✔ Local & private
