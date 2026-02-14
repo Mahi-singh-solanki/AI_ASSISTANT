@@ -10,7 +10,7 @@ import pyttsx3
 
 logger=get_logger()
 
-access_key = "GGxt4UpkNVAhL2lOi2Sh0u8J3h/HNmUICwFqxQTtwjf6jvQ1SSIKSQ=="
+access_key = ""
 KEYWORD_PATH = rf"C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\hey-max_en_windows_v3_0_0.ppn"
 SENSITIVITY = 0.6
 
