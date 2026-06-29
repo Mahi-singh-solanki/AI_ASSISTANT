@@ -1,185 +1,452 @@
-[2026-01-19 00:00:03] [INFO] [Thread-3 (get_audio)] — Recorded
-[2026-01-19 00:00:03] [INFO] [Thread-4 (audio_to_text)] — Converting to text
-[2026-01-19 00:00:07] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Set schedule.
-[2026-01-19 00:00:07] [INFO] [Thread-5 (processor)] — Recording started..
-[2026-01-19 00:00:07] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
-[2026-01-19 00:00:09] [INFO] [Thread-8 (text_to_audio)] — converted to audio
-[2026-01-19 00:00:13] [INFO] [Thread-5 (processor)] — Recorded
-[2026-01-19 00:00:13] [INFO] [Thread-5 (processor)] — Converting to text
-[2026-01-19 00:00:17] [INFO] [Thread-5 (processor)] — Converted audio text -  Do you have any assignments? I need one half for assignments.
-[2026-01-19 00:00:17] [INFO] [Thread-5 (processor)] — Recording started..
-[2026-01-19 00:00:17] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
-[2026-01-19 00:00:20] [INFO] [Thread-8 (text_to_audio)] — converted to audio
-[2026-01-19 00:00:24] [INFO] [Thread-5 (processor)] — Recorded
-[2026-01-19 00:00:24] [INFO] [Thread-5 (processor)] — Converting to text
-[2026-01-19 00:00:28] [INFO] [Thread-5 (processor)] — Converted audio text -  Do you have any projects? I need one hard for projects.
-[2026-01-19 00:00:28] [INFO] [Thread-5 (processor)] — Recording started..
-[2026-01-19 00:00:28] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
-[2026-01-19 00:00:30] [INFO] [Thread-8 (text_to_audio)] — converted to audio
-[2026-01-19 00:00:34] [INFO] [Thread-5 (processor)] — Recorded
-[2026-01-19 00:00:34] [INFO] [Thread-5 (processor)] — Converting to text
-[2026-01-19 00:00:38] [INFO] [Thread-5 (processor)] — Converted audio text -  Do you have any learning to do? I need two hours for learning.
-[2026-01-19 00:00:38] [INFO] [Thread-5 (processor)] — Recording started..
-[2026-01-19 00:00:38] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
-[2026-01-19 00:00:41] [INFO] [Thread-8 (text_to_audio)] — converted to audio
-[2026-01-19 00:00:45] [INFO] [Thread-5 (processor)] — Recorded
-[2026-01-19 00:00:45] [INFO] [Thread-5 (processor)] — Converting to text
-[2026-01-19 00:00:49] [INFO] [Thread-5 (processor)] — Converted audio text -  Do you have any exercise to do? I need one half for exercising.
-[2026-01-19 00:00:49] [INFO] [Thread-5 (processor)] — Recording started..
-[2026-01-19 00:00:49] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
-[2026-01-19 00:00:51] [INFO] [Thread-8 (text_to_audio)] — converted to audio
-[2026-01-19 00:00:55] [INFO] [Thread-5 (processor)] — Recorded
-[2026-01-19 00:00:55] [INFO] [Thread-5 (processor)] — Converting to text
-[2026-01-19 00:00:59] [INFO] [Thread-5 (processor)] — Converted audio text -  What is your college time? 6 a.m. to 6 p.m.
-[2026-01-19 00:00:59] [INFO] [Thread-5 (processor)] — Recording started..
-[2026-01-19 00:00:59] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
-[2026-01-19 00:01:01] [INFO] [Thread-8 (text_to_audio)] — converted to audio
-[2026-01-19 00:01:05] [INFO] [Thread-5 (processor)] — Recorded
-[2026-01-19 00:01:05] [INFO] [Thread-5 (processor)] — Converting to text
-[2026-01-19 00:01:09] [INFO] [Thread-5 (processor)] — Converted audio text -  What is your class time? I don't have class tomorrow.
-[2026-01-19 00:01:09] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
-[2026-01-19 00:01:09] [INFO] [Thread-8 (text_to_audio)] — converted to audio
-[2026-01-19 00:01:18] [INFO] [MainThread] — Assistant shutting down gracefully.
-[2026-01-19 00:02:57] [INFO] [MainThread] — ==Assistant started==
-[2026-01-19 00:02:57] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
-[2026-01-19 00:02:57] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
-[2026-01-19 00:02:57] [INFO] [Thread-2 (wake_up)] — Waking up...
-[2026-01-19 00:02:59] [INFO] [Thread-2 (wake_up)] — assistant listening
-[2026-01-19 00:02:59] [INFO] [Thread-3 (get_audio)] — Recording started..
-[2026-01-19 00:03:05] [INFO] [Thread-3 (get_audio)] — Recorded
-[2026-01-19 00:03:05] [INFO] [Thread-4 (audio_to_text)] — Converting to text
-[2026-01-19 00:03:09] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Set schedule.
-[2026-01-19 00:03:09] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
-[2026-01-19 00:03:11] [INFO] [Thread-8 (text_to_audio)] — converted to audio
-[2026-01-19 00:03:12] [INFO] [Thread-5 (processor)] — Recording started..
-[2026-01-19 00:03:18] [INFO] [Thread-5 (processor)] — Recorded
-[2026-01-19 00:03:18] [INFO] [Thread-5 (processor)] — Converting to text
-[2026-01-19 00:03:21] [INFO] [Thread-5 (processor)] — Converted audio text -  I need one hour for assignments
-[2026-01-19 00:03:21] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
-[2026-01-19 00:03:23] [INFO] [Thread-8 (text_to_audio)] — converted to audio
-[2026-01-19 00:03:24] [INFO] [Thread-5 (processor)] — Recording started..
-[2026-01-19 00:03:30] [INFO] [Thread-5 (processor)] — Recorded
-[2026-01-19 00:03:30] [INFO] [Thread-5 (processor)] — Converting to text
-[2026-01-19 00:03:34] [INFO] [Thread-5 (processor)] — Converted audio text -  I need one half for projects. I need one half for projects.
-[2026-01-19 00:03:34] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
-[2026-01-19 00:03:37] [INFO] [Thread-8 (text_to_audio)] — converted to audio
-[2026-01-19 00:03:37] [INFO] [Thread-5 (processor)] — Recording started..
-[2026-01-19 00:03:43] [INFO] [Thread-5 (processor)] — Recorded
-[2026-01-19 00:03:43] [INFO] [Thread-5 (processor)] — Converting to text
-[2026-01-19 00:03:46] [INFO] [Thread-5 (processor)] — Converted audio text -  I need 2 hours for learning.
-[2026-01-19 00:03:46] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
-[2026-01-19 00:03:49] [INFO] [Thread-8 (text_to_audio)] — converted to audio
-[2026-01-19 00:03:49] [INFO] [Thread-5 (processor)] — Recording started..
-[2026-01-19 00:03:55] [INFO] [Thread-5 (processor)] — Recorded
-[2026-01-19 00:03:55] [INFO] [Thread-5 (processor)] — Converting to text
-[2026-01-19 00:03:59] [INFO] [Thread-5 (processor)] — Converted audio text -  I need one hard for exercising.
-[2026-01-19 00:03:59] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
-[2026-01-19 00:04:01] [INFO] [Thread-8 (text_to_audio)] — converted to audio
-[2026-01-19 00:04:02] [INFO] [Thread-5 (processor)] — Recording started..
-[2026-01-19 00:04:08] [INFO] [Thread-5 (processor)] — Recorded
-[2026-01-19 00:04:08] [INFO] [Thread-5 (processor)] — Converting to text
-[2026-01-19 00:04:11] [INFO] [Thread-5 (processor)] — Converted audio text -  time to 6 p.m.
-[2026-01-19 00:04:11] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
-[2026-01-19 00:04:13] [INFO] [Thread-8 (text_to_audio)] — converted to audio
-[2026-01-19 00:04:14] [INFO] [Thread-5 (processor)] — Recording started..
-[2026-01-19 00:04:20] [INFO] [Thread-5 (processor)] — Recorded
-[2026-01-19 00:04:20] [INFO] [Thread-5 (processor)] — Converting to text
-[2026-01-19 00:04:24] [INFO] [Thread-5 (processor)] — Converted audio text -  We have class tomorrow.
-[2026-01-19 00:04:24] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
-[2026-01-19 00:04:24] [INFO] [Thread-8 (text_to_audio)] — converted to audio
-[2026-01-19 00:04:39] [INFO] [MainThread] — Assistant shutting down gracefully.
-[2026-01-19 00:20:34] [INFO] [MainThread] — ==Assistant started==
-[2026-01-19 00:20:34] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
-[2026-01-19 00:20:34] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
-[2026-01-19 00:20:35] [INFO] [Thread-2 (wake_up)] — Waking up...
-[2026-01-19 00:20:38] [INFO] [Thread-2 (wake_up)] — assistant listening
-[2026-01-19 00:20:38] [INFO] [Thread-3 (get_audio)] — Recording started..
-[2026-01-19 00:20:44] [INFO] [Thread-3 (get_audio)] — Recorded
-[2026-01-19 00:20:44] [INFO] [Thread-4 (audio_to_text)] — Converting to text
-[2026-01-19 00:20:48] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  set schedule
-[2026-01-19 00:20:48] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
-[2026-01-19 00:20:50] [INFO] [Thread-8 (text_to_audio)] — converted to audio
-[2026-01-19 00:20:51] [INFO] [Thread-5 (processor)] — Recording started..
-[2026-01-19 00:20:57] [INFO] [Thread-5 (processor)] — Recorded
-[2026-01-19 00:20:57] [INFO] [Thread-5 (processor)] — Converting to text
-[2026-01-19 00:21:00] [INFO] [Thread-5 (processor)] — Converted audio text -  I need one hour for assignments
-[2026-01-19 00:21:00] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
-[2026-01-19 00:21:03] [INFO] [Thread-8 (text_to_audio)] — converted to audio
-[2026-01-19 00:21:03] [INFO] [Thread-5 (processor)] — Recording started..
-[2026-01-19 00:21:09] [INFO] [Thread-5 (processor)] — Recorded
-[2026-01-19 00:21:09] [INFO] [Thread-5 (processor)] — Converting to text
-[2026-01-19 00:21:12] [INFO] [Thread-5 (processor)] — Converted audio text -  who are for projects.
-[2026-01-19 00:21:12] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
-[2026-01-19 00:21:15] [INFO] [Thread-8 (text_to_audio)] — converted to audio
-[2026-01-19 00:21:15] [INFO] [Thread-5 (processor)] — Recording started..
-[2026-01-19 00:21:18] [INFO] [MainThread] — Assistant shutting down gracefully.
-[2026-01-19 00:21:28] [INFO] [MainThread] — ==Assistant started==
-[2026-01-19 00:21:28] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
-[2026-01-19 00:21:28] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
-[2026-01-19 00:21:28] [INFO] [Thread-2 (wake_up)] — Waking up...
-[2026-01-19 00:21:45] [INFO] [Thread-2 (wake_up)] — assistant listening
-[2026-01-19 00:21:45] [INFO] [Thread-3 (get_audio)] — Recording started..
-[2026-01-19 00:21:51] [INFO] [Thread-3 (get_audio)] — Recorded
-[2026-01-19 00:21:51] [INFO] [Thread-4 (audio_to_text)] — Converting to text
-[2026-01-19 00:21:54] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  said schedule
-[2026-01-19 00:21:54] [INFO] [Thread-5 (processor)] — Answering the query...
-[2026-01-19 00:22:01] [INFO] [MainThread] — Assistant shutting down gracefully.
-[2026-01-19 00:22:28] [INFO] [MainThread] — ==Assistant started==
-[2026-01-19 00:22:28] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
-[2026-01-19 00:22:28] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
-[2026-01-19 00:22:29] [INFO] [Thread-2 (wake_up)] — Waking up...
-[2026-01-19 00:22:35] [INFO] [Thread-2 (wake_up)] — assistant listening
-[2026-01-19 00:22:35] [INFO] [Thread-3 (get_audio)] — Recording started..
-[2026-01-19 00:22:41] [INFO] [Thread-3 (get_audio)] — Recorded
-[2026-01-19 00:22:41] [INFO] [Thread-4 (audio_to_text)] — Converting to text
-[2026-01-19 00:22:44] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Sad schedule
-[2026-01-19 00:22:44] [INFO] [Thread-5 (processor)] — Answering the query...
-[2026-01-19 00:22:49] [INFO] [MainThread] — Assistant shutting down gracefully.
-[2026-01-19 00:23:00] [INFO] [MainThread] — ==Assistant started==
-[2026-01-19 00:23:00] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
-[2026-01-19 00:23:00] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
-[2026-01-19 00:23:01] [INFO] [Thread-2 (wake_up)] — Waking up...
-[2026-01-19 00:23:03] [INFO] [Thread-2 (wake_up)] — assistant listening
-[2026-01-19 00:23:03] [INFO] [Thread-3 (get_audio)] — Recording started..
-[2026-01-19 00:23:09] [INFO] [Thread-3 (get_audio)] — Recorded
-[2026-01-19 00:23:09] [INFO] [Thread-4 (audio_to_text)] — Converting to text
-[2026-01-19 00:23:13] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Set schedule.
-[2026-01-19 00:23:13] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
-[2026-01-19 00:23:15] [INFO] [Thread-8 (text_to_audio)] — converted to audio
-[2026-01-19 00:23:16] [INFO] [Thread-5 (processor)] — Recording started..
-[2026-01-19 00:23:22] [INFO] [Thread-5 (processor)] — Recorded
-[2026-01-19 00:23:22] [INFO] [Thread-5 (processor)] — Converting to text
-[2026-01-19 00:23:25] [INFO] [Thread-5 (processor)] — Converted audio text -  I need one hour for assignments
-[2026-01-19 00:23:25] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
-[2026-01-19 00:23:28] [INFO] [Thread-8 (text_to_audio)] — converted to audio
-[2026-01-19 00:23:28] [INFO] [Thread-5 (processor)] — Recording started..
-[2026-01-19 00:23:34] [INFO] [Thread-5 (processor)] — Recorded
-[2026-01-19 00:23:34] [INFO] [Thread-5 (processor)] — Converting to text
-[2026-01-19 00:23:37] [INFO] [Thread-5 (processor)] — Converted audio text -  I need two hours for project
-[2026-01-19 00:23:38] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
-[2026-01-19 00:23:40] [INFO] [Thread-8 (text_to_audio)] — converted to audio
-[2026-01-19 00:23:41] [INFO] [Thread-5 (processor)] — Recording started..
-[2026-01-19 00:23:47] [INFO] [Thread-5 (processor)] — Recorded
-[2026-01-19 00:23:47] [INFO] [Thread-5 (processor)] — Converting to text
-[2026-01-19 00:23:50] [INFO] [Thread-5 (processor)] — Converted audio text -  need one heart for learning.
-[2026-01-19 00:23:50] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
-[2026-01-19 00:23:52] [INFO] [Thread-8 (text_to_audio)] — converted to audio
-[2026-01-19 00:23:53] [INFO] [Thread-5 (processor)] — Recording started..
-[2026-01-19 00:23:59] [INFO] [Thread-5 (processor)] — Recorded
-[2026-01-19 00:23:59] [INFO] [Thread-5 (processor)] — Converting to text
-[2026-01-19 00:24:02] [INFO] [Thread-5 (processor)] — Converted audio text -  I need one hour for exercising.
-[2026-01-19 00:24:02] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
-[2026-01-19 00:24:04] [INFO] [Thread-8 (text_to_audio)] — converted to audio
-[2026-01-19 00:24:05] [INFO] [Thread-5 (processor)] — Recording started..
-[2026-01-19 00:24:11] [INFO] [Thread-5 (processor)] — Recorded
-[2026-01-19 00:24:11] [INFO] [Thread-5 (processor)] — Converting to text
-[2026-01-19 00:24:14] [INFO] [Thread-5 (processor)] — Converted audio text -  from 6 a.m. to 6 p.m.
-[2026-01-19 00:24:15] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
-[2026-01-19 00:24:17] [INFO] [Thread-8 (text_to_audio)] — converted to audio
-[2026-01-19 00:24:18] [INFO] [Thread-5 (processor)] — Recording started..
-[2026-01-19 00:24:24] [INFO] [Thread-5 (processor)] — Recorded
-[2026-01-19 00:24:24] [INFO] [Thread-5 (processor)] — Converting to text
-[2026-01-19 00:24:27] [INFO] [Thread-5 (processor)] — Converted audio text -  I don't have any class tomorrow.
-[2026-01-19 00:24:28] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
-[2026-01-19 00:24:30] [INFO] [Thread-8 (text_to_audio)] — converted to audio
-[2026-01-19 00:25:09] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2026-06-29 17:21:54] [INFO] [MainThread] — ==Assistant started==
+[2026-06-29 17:21:54] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-06-29 17:21:54] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-06-29 17:22:15] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 17:22:18] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 17:22:18] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2026-06-29 17:25:41] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2026-06-29 20:51:43] [INFO] [MainThread] — ==Assistant started==
+[2026-06-29 20:51:43] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-06-29 20:51:43] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-06-29 20:52:03] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 20:52:05] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2026-06-29 20:52:06] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 20:52:13] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2026-06-29 20:52:13] [INFO] [Thread-3 (get_audio)] — Listening...
+[2026-06-29 20:52:21] [INFO] [Thread-3 (get_audio)] — Recording finished
+[2026-06-29 20:52:21] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2026-06-29 20:52:23] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  How are you?
+[2026-06-29 20:54:32] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2026-06-29 20:54:49] [INFO] [MainThread] — ==Assistant started==
+[2026-06-29 20:54:49] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-06-29 20:54:49] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-06-29 20:55:09] [INFO] [Thread-5 (processor)] — Started llm's
+[2026-06-29 20:55:09] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 20:55:10] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2026-06-29 20:55:12] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 20:55:12] [INFO] [Thread-5 (processor)] — Started graph
+[2026-06-29 20:55:18] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2026-06-29 20:55:18] [INFO] [Thread-3 (get_audio)] — Listening...
+[2026-06-29 20:55:21] [INFO] [Thread-3 (get_audio)] — Recording finished
+[2026-06-29 20:55:21] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2026-06-29 20:55:23] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  How are you?
+[2026-06-29 20:55:34] [ERROR] [Thread-5 (processor)] — llama runner process no longer running: 1 CUDA error (status code: 500)
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipelinev1.py", line 302, in processor
+    graph_obj.graph.invoke({"input":input,"context":context,"memory":memory_data,"history":history,"messages":[HumanMessage (content=input)]})
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langgraph\pregel\main.py", line 3365, in invoke
+    for chunk in self.stream(
+                 ~~~~~~~~~~~^
+        input,
+        ^^^^^^
+    ...<10 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    ):
+    ^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langgraph\pregel\main.py", line 2759, in stream
+    for _ in runner.tick(
+             ~~~~~~~~~~~^
+        [t for t in loop.tasks.values() if not t.writes],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        schedule_task=loop.accept_push,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langgraph\pregel\_runner.py", line 167, in tick
+    run_with_retry(
+    ~~~~~~~~~~~~~~^
+        t,
+        ^^
+    ...<10 lines>...
+        },
+        ^^
+    )
+    ^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langgraph\pregel\_retry.py", line 126, in run_with_retry
+    return task.proc.invoke(task.input, config)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 656, in invoke
+    input = context.run(step.invoke, input, config, **kwargs)
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 400, in invoke
+    ret = self.func(*args, **kwargs)
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipelinev1.py", line 178, in classifier_llm
+    result=chain.invoke({"input":state["input"]})
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_core\runnables\base.py", line 3201, in invoke
+    input_ = context.run(step.invoke, input_, config)
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 471, in invoke
+    self.generate_prompt(
+    ~~~~~~~~~~~~~~~~~~~~^
+        [self._convert_input(input)],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    ).generations[0][0],
+    ^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 1749, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 1556, in generate
+    self._generate_with_cache(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        m,
+        ^^
+    ...<2 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 1896, in _generate_with_cache
+    result = self._generate(
+        messages, stop=stop, run_manager=run_manager, **kwargs
+    )
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_ollama\chat_models.py", line 1025, in _generate
+    final_chunk = self._chat_stream_with_aggregation(
+        messages, stop, run_manager, verbose=self.verbose, **kwargs
+    )
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_ollama\chat_models.py", line 960, in _chat_stream_with_aggregation
+    for chunk in self._iterate_over_stream(messages, stop, **kwargs):
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_ollama\chat_models.py", line 1049, in _iterate_over_stream
+    for stream_resp in self._create_chat_stream(messages, stop, **kwargs):
+                       ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_ollama\chat_models.py", line 947, in _create_chat_stream
+    yield from self._client.chat(**chat_params)
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\ollama\_client.py", line 179, in inner
+    raise ResponseError(e.response.text, e.response.status_code) from None
+ollama._types.ResponseError: llama runner process no longer running: 1 CUDA error (status code: 500)
+During task with name 'classifier' and id 'dbe48317-de84-2eab-4965-5fc60729728b'
+[2026-06-29 20:55:46] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2026-06-29 20:56:14] [INFO] [MainThread] — ==Assistant started==
+[2026-06-29 20:56:14] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-06-29 20:56:14] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-06-29 20:56:34] [INFO] [Thread-5 (processor)] — Started llm's
+[2026-06-29 20:56:34] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 20:56:36] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2026-06-29 20:56:37] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 20:56:37] [INFO] [Thread-5 (processor)] — Started graph
+[2026-06-29 20:56:49] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2026-06-29 20:56:49] [INFO] [Thread-3 (get_audio)] — Listening...
+[2026-06-29 20:57:37] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2026-06-29 20:57:40] [INFO] [Thread-3 (get_audio)] — Recording finished
+[2026-06-29 20:57:40] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2026-06-29 20:57:42] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  How are you?
+[2026-06-29 20:57:51] [INFO] [Thread-5 (processor)] — Classified as  reply_mode
+[2026-06-29 20:58:06] [INFO] [Thread-5 (processor)] — Answered the query result- I'm an AI assistant designed to help users with various tasks and provide information based on the facts stored in my memory. Currently, I don't have enough specific personal details about myself, so I can't tell you how I am feeling or what I might be experiencing emotionally. However, I'm here to assist you with any questions or tasks you may have. How can I help you today?
+[2026-06-29 20:58:06] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 20:58:27] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 20:58:42] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2026-06-29 20:58:42] [INFO] [Thread-3 (get_audio)] — Listening...
+[2026-06-29 20:58:47] [INFO] [Thread-3 (get_audio)] — Recording finished
+[2026-06-29 20:58:47] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2026-06-29 20:58:49] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Search about TMKOC on the web
+[2026-06-29 20:58:57] [INFO] [Thread-5 (processor)] — Classified as  task_mode
+[2026-06-29 20:59:08] [INFO] [Thread-5 (processor)] — Implemented task 
+[2026-06-29 20:59:08] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 20:59:08] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 20:59:19] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 20:59:26] [INFO] [Thread-5 (processor)] — Implemented task I have started searching for "TMKOC". The results will be retrieved and stored in my memory. Please wait a moment while I fetch the information.
+[2026-06-29 21:00:28] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 21:00:28] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 21:00:36] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 21:00:38] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2026-06-29 21:00:38] [INFO] [Thread-3 (get_audio)] — Listening...
+[2026-06-29 21:00:46] [INFO] [Thread-3 (get_audio)] — Recording finished
+[2026-06-29 21:00:46] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2026-06-29 21:00:47] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Open Spotify.
+[2026-06-29 21:00:56] [INFO] [Thread-5 (processor)] — Classified as  task_mode
+[2026-06-29 21:01:06] [INFO] [Thread-5 (processor)] — Implemented task 
+[2026-06-29 21:01:06] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 21:01:06] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 21:01:13] [INFO] [Thread-5 (processor)] — Implemented task It seems I need more information to proceed. Would you like to play a specific song? If not, I'll just start Spotify for you without playing any particular song.
+
+Would you like to search and play a song or just open Spotify?
+[2026-06-29 21:01:13] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 21:01:27] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 21:01:53] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2026-06-29 21:01:53] [INFO] [Thread-3 (get_audio)] — Listening...
+[2026-06-29 21:02:01] [INFO] [Thread-3 (get_audio)] — Recording finished
+[2026-06-29 21:02:01] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2026-06-29 21:02:03] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Just open Spotify.
+[2026-06-29 21:02:12] [INFO] [Thread-5 (processor)] — Classified as  task_mode
+[2026-06-29 21:02:23] [INFO] [Thread-5 (processor)] — Implemented task 
+[2026-06-29 21:02:23] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 21:02:23] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 21:02:49] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2026-06-29 21:02:49] [INFO] [Thread-3 (get_audio)] — Listening...
+[2026-06-29 21:03:42] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2026-06-29 21:03:49] [INFO] [Thread-3 (get_audio)] — Recording finished
+[2026-06-29 21:03:49] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2026-06-29 21:03:51] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Play music.
+[2026-06-29 21:03:59] [INFO] [Thread-5 (processor)] — Classified as  task_mode
+[2026-06-29 21:04:09] [INFO] [Thread-5 (processor)] — Implemented task 
+[2026-06-29 21:04:09] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 21:04:09] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 21:04:17] [INFO] [Thread-5 (processor)] — Implemented task It seems I need more information to proceed. Would you like to play a specific song or should I just start playing some music from Spotify? If you have a particular song in mind, please provide the name so I can play it for you.
+[2026-06-29 21:04:17] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 21:04:30] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 21:04:37] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2026-06-29 21:04:37] [INFO] [Thread-3 (get_audio)] — Listening...
+[2026-06-29 21:04:42] [INFO] [Thread-3 (get_audio)] — Recording finished
+[2026-06-29 21:04:42] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2026-06-29 21:04:44] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Just play any song
+[2026-06-29 21:04:53] [INFO] [Thread-5 (processor)] — Classified as  task_mode
+[2026-06-29 21:05:03] [INFO] [Thread-5 (processor)] — Implemented task 
+[2026-06-29 21:05:03] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 21:05:03] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 21:05:14] [INFO] [Thread-5 (processor)] — Implemented task It seems that I need a song name to play a specific song. Would you like me to search and play a song for you? If so, could you please provide the name of the song you'd like to hear? If you just want to play any random song, let me know and I can do that as well.
+[2026-06-29 21:05:14] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 21:05:29] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 21:05:34] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2026-06-29 21:09:08] [INFO] [MainThread] — ==Assistant started==
+[2026-06-29 21:09:08] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-06-29 21:09:08] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-06-29 21:09:28] [INFO] [Thread-5 (processor)] — Started llm's
+[2026-06-29 21:09:28] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 21:09:30] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2026-06-29 21:09:31] [INFO] [Thread-5 (processor)] — Started graph
+[2026-06-29 21:09:31] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 21:09:33] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2026-06-29 21:09:33] [INFO] [Thread-3 (get_audio)] — Listening...
+[2026-06-29 21:09:37] [INFO] [Thread-3 (get_audio)] — Recording finished
+[2026-06-29 21:09:37] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2026-06-29 21:09:39] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Just play any song.
+[2026-06-29 21:09:48] [ERROR] [Thread-5 (processor)] — llama runner process has terminated: CUDA error (status code: 500)
+Traceback (most recent call last):
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipelinev1.py", line 302, in processor
+    graph_obj.graph.invoke({"input":input,"context":context,"memory":memory_data,"history":history,"messages":[HumanMessage (content=input)]})
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langgraph\pregel\main.py", line 3365, in invoke
+    for chunk in self.stream(
+                 ~~~~~~~~~~~^
+        input,
+        ^^^^^^
+    ...<10 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    ):
+    ^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langgraph\pregel\main.py", line 2759, in stream
+    for _ in runner.tick(
+             ~~~~~~~~~~~^
+        [t for t in loop.tasks.values() if not t.writes],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        schedule_task=loop.accept_push,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langgraph\pregel\_runner.py", line 167, in tick
+    run_with_retry(
+    ~~~~~~~~~~~~~~^
+        t,
+        ^^
+    ...<10 lines>...
+        },
+        ^^
+    )
+    ^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langgraph\pregel\_retry.py", line 126, in run_with_retry
+    return task.proc.invoke(task.input, config)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 656, in invoke
+    input = context.run(step.invoke, input, config, **kwargs)
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langgraph\_internal\_runnable.py", line 400, in invoke
+    ret = self.func(*args, **kwargs)
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\pipelinev1.py", line 178, in classifier_llm
+    result=chain.invoke({"input":state["input"]})
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_core\runnables\base.py", line 3201, in invoke
+    input_ = context.run(step.invoke, input_, config)
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 471, in invoke
+    self.generate_prompt(
+    ~~~~~~~~~~~~~~~~~~~~^
+        [self._convert_input(input)],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    ).generations[0][0],
+    ^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 1749, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 1556, in generate
+    self._generate_with_cache(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        m,
+        ^^
+    ...<2 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_core\language_models\chat_models.py", line 1896, in _generate_with_cache
+    result = self._generate(
+        messages, stop=stop, run_manager=run_manager, **kwargs
+    )
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_ollama\chat_models.py", line 1025, in _generate
+    final_chunk = self._chat_stream_with_aggregation(
+        messages, stop, run_manager, verbose=self.verbose, **kwargs
+    )
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_ollama\chat_models.py", line 960, in _chat_stream_with_aggregation
+    for chunk in self._iterate_over_stream(messages, stop, **kwargs):
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_ollama\chat_models.py", line 1049, in _iterate_over_stream
+    for stream_resp in self._create_chat_stream(messages, stop, **kwargs):
+                       ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\langchain_ollama\chat_models.py", line 947, in _create_chat_stream
+    yield from self._client.chat(**chat_params)
+  File "C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\venv\Lib\site-packages\ollama\_client.py", line 179, in inner
+    raise ResponseError(e.response.text, e.response.status_code) from None
+ollama._types.ResponseError: llama runner process has terminated: CUDA error (status code: 500)
+During task with name 'classifier' and id 'cf2012c2-c0cb-ce54-94a9-4bca9143b7d3'
+[2026-06-29 21:09:58] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2026-06-29 21:10:59] [INFO] [MainThread] — ==Assistant started==
+[2026-06-29 21:10:59] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-06-29 21:10:59] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-06-29 21:11:50] [INFO] [MainThread] — ==Assistant started==
+[2026-06-29 21:11:50] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-06-29 21:11:50] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-06-29 21:11:57] [INFO] [Thread-5 (processor)] — Started llm's
+[2026-06-29 21:11:57] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 21:12:00] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2026-06-29 21:12:00] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 21:12:01] [INFO] [Thread-5 (processor)] — Started graph
+[2026-06-29 21:12:03] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2026-06-29 21:12:03] [INFO] [Thread-3 (get_audio)] — Listening...
+[2026-06-29 21:12:11] [INFO] [Thread-3 (get_audio)] — Recording finished
+[2026-06-29 21:12:11] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2026-06-29 21:12:14] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Rest play any music.
+[2026-06-29 21:12:23] [INFO] [Thread-5 (processor)] — Classified as  task_mode
+[2026-06-29 21:12:35] [INFO] [Thread-5 (processor)] — Implemented task 
+[2026-06-29 21:12:35] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 21:12:35] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 21:12:44] [INFO] [Thread-5 (processor)] — Implemented task Great! Now playing some music for you. Enjoy!
+[2026-06-29 21:12:44] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 21:12:49] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 21:12:50] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2026-06-29 21:12:50] [INFO] [Thread-3 (get_audio)] — Listening...
+[2026-06-29 21:13:09] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2026-06-29 21:13:33] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2026-06-29 21:13:41] [INFO] [Thread-3 (get_audio)] — Recording finished
+[2026-06-29 21:13:41] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2026-06-29 21:13:44] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Stop the music Hey Max, stop music
+[2026-06-29 21:13:53] [INFO] [Thread-5 (processor)] — Classified as  task_mode
+[2026-06-29 21:14:04] [INFO] [Thread-5 (processor)] — Implemented task 
+[2026-06-29 21:14:04] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 21:14:04] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 21:14:10] [INFO] [Thread-5 (processor)] — Implemented task The music has been stopped.
+[2026-06-29 21:14:10] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 21:14:13] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 21:14:37] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2026-06-29 21:14:37] [INFO] [Thread-3 (get_audio)] — Listening...
+[2026-06-29 21:14:48] [INFO] [Thread-3 (get_audio)] — Recording finished
+[2026-06-29 21:14:48] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2026-06-29 21:14:50] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Play song Durandhar.
+[2026-06-29 21:15:00] [INFO] [Thread-5 (processor)] — Classified as  task_mode
+[2026-06-29 21:15:12] [INFO] [Thread-5 (processor)] — Implemented task 
+[2026-06-29 21:15:12] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 21:15:12] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 21:15:22] [INFO] [Thread-5 (processor)] — Implemented task The song by Durandhar is now playing on Spotify. Enjoy the music!
+[2026-06-29 21:15:22] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 21:15:27] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 21:16:11] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2026-06-29 21:16:11] [INFO] [Thread-3 (get_audio)] — Listening...
+[2026-06-29 21:16:27] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2026-06-29 21:16:43] [INFO] [Thread-3 (get_audio)] — Recording finished
+[2026-06-29 21:16:43] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2026-06-29 21:16:46] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  My name is Mahipal Singh Solanki. Hey Max, my favourite game is Clash of Clans.
+[2026-06-29 21:16:55] [INFO] [Thread-5 (processor)] — Classified as  fact_mode
+[2026-06-29 21:17:03] [INFO] [Thread-5 (processor)] — Stored the information- {
+    "key": "name",
+    "value": "Mahipal Singh Solanki",
+    "fact": "My name is Mahipal Singh Solanki. Hey Max, my favourite game is Clash of Clans."
+}
+[2026-06-29 21:17:03] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 21:17:05] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 21:17:12] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2026-06-29 21:17:12] [INFO] [Thread-3 (get_audio)] — Listening...
+[2026-06-29 21:17:16] [INFO] [Thread-3 (get_audio)] — Recording finished
+[2026-06-29 21:17:16] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2026-06-29 21:17:17] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  What is my name?
+[2026-06-29 21:17:27] [INFO] [Thread-5 (processor)] — Classified as  reply_mode
+[2026-06-29 21:17:37] [INFO] [Thread-5 (processor)] — Answered the query result- Based on our interactions, it seems that there is no specific name mentioned or stored regarding yourself. As there's no personal detail mentioned or stored about you in our conversations, I don't have enough information regarding your name.
+[2026-06-29 21:17:37] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 21:17:50] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 21:19:21] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2026-06-29 21:59:44] [INFO] [MainThread] — ==Assistant started==
+[2026-06-29 21:59:44] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-06-29 21:59:44] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-06-29 21:59:51] [INFO] [Thread-5 (processor)] — Started llm's
+[2026-06-29 21:59:51] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 21:59:53] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2026-06-29 21:59:55] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 21:59:55] [INFO] [Thread-5 (processor)] — Started graph
+[2026-06-29 22:00:00] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2026-06-29 22:00:00] [INFO] [Thread-3 (get_audio)] — Listening...
+[2026-06-29 22:00:05] [INFO] [Thread-3 (get_audio)] — Recording finished
+[2026-06-29 22:00:05] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2026-06-29 22:00:07] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Remind me to drink water in 2 minutes.
+[2026-06-29 22:00:10] [INFO] [Thread-5 (processor)] — Memory data is : ['FACT:  stored the information "step on the ground and wave, take a deep breath."', 'FACT:  based on your statement, it seems that you are planning to go to a shop and clean the place afterwards. here is the information stored for future reference:\n\n```\nfact: planned_action = go shopping and clean the place up\n```\n\nnow, if there is a need to recall this information in the future, it will be provided accordingly.', 'FACT:  stored the information key = dinner = finished and full']
+[2026-06-29 22:00:18] [INFO] [Thread-5 (processor)] — Classified as  task_mode
+[2026-06-29 22:00:34] [INFO] [Thread-5 (processor)] — Implemented task 
+[2026-06-29 22:00:34] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 22:00:34] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 22:00:34] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 22:00:36] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 22:00:37] [INFO] [ThreadPoolExecutor-3_0] — Recording started..
+[2026-06-29 22:00:43] [INFO] [ThreadPoolExecutor-3_0] — Recorded
+[2026-06-29 22:00:43] [INFO] [ThreadPoolExecutor-3_0] — Converting to text
+[2026-06-29 22:00:45] [INFO] [ThreadPoolExecutor-3_0] — Converted audio text -  Thank you.
+[2026-06-29 22:00:45] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 22:00:47] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 22:00:48] [INFO] [ThreadPoolExecutor-3_0] — Recording started..
+[2026-06-29 22:00:54] [INFO] [ThreadPoolExecutor-3_0] — Recorded
+[2026-06-29 22:00:54] [INFO] [ThreadPoolExecutor-3_0] — Converting to text
+[2026-06-29 22:00:54] [INFO] [MainThread] — Assistant shutting down gracefully.
+[2026-06-29 22:00:55] [INFO] [ThreadPoolExecutor-3_0] — Converted audio text -  Thank you.
+[2026-06-29 22:00:55] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 22:00:58] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 22:00:58] [INFO] [ThreadPoolExecutor-3_0] — Recording started..
+[2026-06-29 22:01:04] [INFO] [ThreadPoolExecutor-3_0] — Recorded
+[2026-06-29 22:01:04] [INFO] [ThreadPoolExecutor-3_0] — Converting to text
+[2026-06-29 22:01:06] [INFO] [ThreadPoolExecutor-3_0] — Converted audio text -  Thank you for watching!
+[2026-06-29 22:01:06] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 22:01:08] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 22:01:09] [INFO] [ThreadPoolExecutor-3_0] — Recording started..
+[2026-06-29 22:01:15] [INFO] [ThreadPoolExecutor-3_0] — Recorded
+[2026-06-29 22:01:15] [INFO] [ThreadPoolExecutor-3_0] — Converting to text
+[2026-06-29 22:01:18] [INFO] [ThreadPoolExecutor-3_0] — Converted audio text -  Now I'm gonna do what I want I'm gonna do what I want I'm gonna do what I want
+[2026-06-29 22:01:18] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 22:01:20] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 22:01:21] [INFO] [ThreadPoolExecutor-3_0] — Recording started..
+[2026-06-29 22:01:27] [INFO] [ThreadPoolExecutor-3_0] — Recorded
+[2026-06-29 22:01:27] [INFO] [ThreadPoolExecutor-3_0] — Converting to text
+[2026-06-29 22:01:38] [INFO] [ThreadPoolExecutor-3_0] — Converted audio text -  Chattano but the silence is not as our usual
+[2026-06-29 22:01:38] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 22:01:40] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 22:03:52] [INFO] [MainThread] — ==Assistant started==
+[2026-06-29 22:03:52] [INFO] [MainThread] — Python version: 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]
+[2026-06-29 22:03:52] [INFO] [MainThread] — Using Whisper: base | Wake word: max.ppn
+[2026-06-29 22:03:59] [INFO] [Thread-5 (processor)] — Started llm's
+[2026-06-29 22:03:59] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 22:04:00] [INFO] [Thread-2 (wake_up)] — Waking up...
+[2026-06-29 22:04:01] [INFO] [Thread-5 (processor)] — Started graph
+[2026-06-29 22:04:02] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 22:04:05] [INFO] [Thread-2 (wake_up)] — assistant listening
+[2026-06-29 22:04:05] [INFO] [Thread-3 (get_audio)] — Listening...
+[2026-06-29 22:04:10] [INFO] [Thread-3 (get_audio)] — Recording finished
+[2026-06-29 22:04:10] [INFO] [Thread-4 (audio_to_text)] — Converting to text
+[2026-06-29 22:04:12] [INFO] [Thread-4 (audio_to_text)] — Converted audio text -  Remind me to drink water in two minutes.
+[2026-06-29 22:04:14] [INFO] [Thread-5 (processor)] — Memory data is : ['FACT:  stored the information "step on the ground and wave, take a deep breath."', 'FACT:  based on your statement, it seems that you are planning to go to a shop and clean the place afterwards. here is the information stored for future reference:\n\n```\nfact: planned_action = go shopping and clean the place up\n```\n\nnow, if there is a need to recall this information in the future, it will be provided accordingly.', 'FACT:  stored the information key = dinner = finished and full']
+[2026-06-29 22:04:22] [INFO] [Thread-5 (processor)] — Classified as  task_mode
+[2026-06-29 22:04:33] [INFO] [Thread-5 (processor)] — Implemented task 
+[2026-06-29 22:04:33] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 22:04:34] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 22:04:59] [INFO] [Thread-5 (processor)] — Implemented task I have set a reminder for you to drink water in two minutes.
+[2026-06-29 22:04:59] [INFO] [Thread-8 (text_to_audio)] — Text is converting to audio
+[2026-06-29 22:05:02] [INFO] [Thread-8 (text_to_audio)] — converted to audio
+[2026-06-29 22:05:47] [INFO] [MainThread] — Assistant shutting down gracefully.

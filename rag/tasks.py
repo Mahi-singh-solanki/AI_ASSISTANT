@@ -1,38 +1,130 @@
 import os,pyautogui,time,re,json,requests
 from playwright.sync_api import sync_playwright
-from rag.globals import output_queue,input_queue
-from backend.repository.text_extraction import clean_text
+from rag.globals import output_queue,gesture_event
 import psutil as p
 from datetime import datetime,timedelta
 from winotify import Notification
 from rag.voice import manual_audio
+from langchain_core.tools import tool
+from langchain_ollama import ChatOllama
+from langchain_core.prompts import ChatPromptTemplate
 
 url = "https://ai-scheduler-xzk0.onrender.com/planner"
 
+@tool
 def play_music(name):
+    """Play on Spotify of which the song name is provided, search and play it."""
     os.startfile(rf"C:\Users\Admin\AppData\Roaming\Spotify\Spotify.exe")
     time.sleep(3)
-    if name==" .":
-        pyautogui.press('space')
-        time.sleep(2)
-        pyautogui.hotkey('alt','tab')
-        pyautogui.keyDown('alt')
-        pyautogui.keyUp('alt')
-        
-    elif name:
-        pyautogui.click(788,38)
-        pyautogui.write(name)
-        time.sleep(3)
-        pyautogui.click(665,291)
-    else:
-        pyautogui.press('space')
-        time.sleep(2)
-        pyautogui.hotkey('alt','tab')
-        pyautogui.keyDown('alt')
-        pyautogui.keyUp('alt')
+    pyautogui.click(788,38)
+    pyautogui.write(name)
+    time.sleep(3)
+    pyautogui.click(665,291)
     return "playing music..."
 
-def stop_music(c):
+@tool
+def play_music_without_name():
+    """Play or resume music on Spotify. If a song name is provided, search and play it."""
+    os.startfile(rf"C:\Users\Admin\AppData\Roaming\Spotify\Spotify.exe")
+    time.sleep(3)
+    pyautogui.press('space')
+    time.sleep(2)
+    pyautogui.hotkey('alt','tab')
+    pyautogui.keyDown('alt')
+    pyautogui.keyUp('alt')
+    return "playing music..."
+
+@tool
+def reminder_create(message):
+    """create a reminder for user using message as input """
+    template = """
+You are a reminder parser.
+
+Convert the user's reminder request into a JSON object.
+
+You will receive:
+- user_input
+- current_time (YYYY-MM-DD HH:MM:SS)
+
+Return ONLY valid JSON in this format:
+
+{{
+    "text": "...",
+    "time": "YYYY-MM-DD HH:MM:SS",
+    "repeat": "none | daily | weekly",
+    "status": "pending"
+}}
+
+Rules:
+
+1. Convert every relative or natural language time into an absolute timestamp using current_time.
+
+Examples:
+- in 10 minutes
+- in 2 hours
+- tomorrow at 8 PM
+- next Monday at 10 AM
+- tonight
+- today at 5
+
+The output time MUST always be:
+YYYY-MM-DD HH:MM:SS
+
+2. Repeat rules:
+- daily, every day, each day → "daily"
+- weekly, every week, each week, every Monday → "weekly"
+- otherwise → "none"
+
+3. Reminder text:
+- Keep only the task.
+- Remove all reminder phrases and time expressions.
+- Examples:
+    "Remind me to drink water at 6 PM"
+        → "drink water"
+
+    "Remind me in 30 minutes to call John"
+        → "call John"
+
+    "Remind me tomorrow to pay electricity bill"
+        → "pay electricity bill"
+
+4. Do not change the intended reminder time.
+5. Return ONLY JSON.
+6. Do not use markdown.
+7. Do not explain anything.
+
+Current Time:
+{current_time}
+
+User Input:
+{input}
+"""
+    prompt=ChatPromptTemplate.from_template(template)
+    model=ChatOllama(model="mistral:instruct",temperature=0)
+    chain=prompt | model
+    result=chain.invoke({"input":message,"current_time":datetime.now().strftime("%Y-%m-%d %H:%M:%S")})
+    data=json.loads(result.content)
+    with open(rf"C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\reminders.json","r") as f:
+        prev=json.load(f)
+    prev.append(data)
+    with open(rf"C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\reminders.json","w") as f:
+        json.dump(prev,f,indent=4)
+
+
+@tool
+def resume_music():
+    """Resume the currently stopped music in Spotify."""
+    os.startfile(rf"C:\Users\Admin\AppData\Roaming\Spotify\Spotify.exe")
+    time.sleep(2)
+    pyautogui.press('space')
+    time.sleep(2)
+    pyautogui.hotkey('alt','tab')
+    pyautogui.keyDown('alt')
+    pyautogui.keyUp('alt')
+    return "stopping music..."
+@tool
+def stop_music():
+    """Pause the currently playing music in Spotify."""
     os.startfile(rf"C:\Users\Admin\AppData\Roaming\Spotify\Spotify.exe")
     time.sleep(2)
     pyautogui.press('space')
@@ -42,13 +134,17 @@ def stop_music(c):
     pyautogui.keyUp('alt')
     return "stopping music..."
 
-def open_vscode(c):
+@tool
+def open_vscode():
+    """Open Visual Studio Code."""
     os.system("start code")
     time.sleep(1)
     os.system("taskkill /f /im cmd.exe")
     return "Opened vs code"
 
-def open_yt(c):
+@tool
+def open_yt():
+    """Open YouTube in the Brave browser."""
     os.startfile(rf"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe")
     time.sleep(1)
     pyautogui.write("yt")
@@ -57,13 +153,17 @@ def open_yt(c):
     time.sleep(5)
     return "opened youtube"
 
-def play_last_video(c):
+@tool
+def play_last_video():
+    """Play the most recently watched YouTube video from history."""
     pyautogui.click(146,919)
     time.sleep(3)
     pyautogui.click(516,530)
     return "Playing last video from history"
 
+@tool
 def open_note(note):
+    """Open Notepad and write the provided text into it."""
     os.system("notepad")
     time.sleep(1)
     pyautogui.write(note)
@@ -73,12 +173,16 @@ def open_note(note):
     pyautogui.keyUp('alt')
     return "noted.."
 
-def get_all_files(c):
+@tool
+def get_all_files():
+    """List all files inside the assistant's managed files directory."""
     list=os.listdir(rf"C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\ASSISTANT_FILES")
     print(list)
     return "listed.."
 
+@tool
 def create_file(name):
+    """Create a new empty file with the given name inside the assistant files directory."""
     path=os.path.join(rf"C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\ASSISTANT_FILES",name)
     if os.path.exists(path):
         return f"file {name} already exits"
@@ -87,15 +191,19 @@ def create_file(name):
         f.close()
     return f"file {name} created..."
 
+@tool
 def del_file(name):
+    """Delete the specified file from the assistant files directory."""
     path=os.path.join(rf"C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\ASSISTANT_FILES",name)
     if not os.path.exists(path):
         return "NO file available"
     else:
         os.remove(path=path,dir_fd=None)
         return f"deleted {name} succesfully"
-    
+
+@tool
 def web_search(topic):
+    """Search the web for a topic, retrieve the summary, and store it in memory."""
     url="https://search.brave.com/search?q="
     text=re.sub(" ","+",topic)
     url=url+text+"&summary=1"
@@ -115,8 +223,7 @@ def web_search(topic):
                 para=spans.nth(i).inner_text()
                 text=text+para
         # result=clean_text(text)
-        print(text)
-        input_queue.put("summarise "+text)
+        output_queue.put(text)
         with open(rf"C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\data\chunks.json","r") as f:
             loaded=json.load(f)
         chunk={"id":len(loaded)+1,"source":"web","text":text}
@@ -126,15 +233,19 @@ def web_search(topic):
             json.dump(loaded,f,indent=4)
         return "ok sir let me search.."
 
-def my_data(c):
+@tool
+def my_data():
+    """Return the current system information including CPU usage, RAM usage, battery level, and current time."""
     cpu=p.cpu_percent(interval=0.1)
     print(f"CPU PERCENTAGE:{cpu}%")
     print(f"RAM USED:{p.virtual_memory().percent}%")
     print(f"BATTERY PERCENTAGE:{p.sensors_battery().percent}%")
     print(f"TIME:{time.localtime().tm_hour}:{time.localtime().tm_min}.{time.localtime().tm_sec}")
     return f"CPU PERCENTAGE:{cpu}%,RAM USED:{p.virtual_memory().percent}%,BATTERY PERCENTAGE:{p.sensors_battery().percent}%,TIME:{time.localtime().tm_hour}:{time.localtime().tm_min}.{time.localtime().tm_sec}"
-    
+
+@tool    
 def reminder():
+    """Continuously monitor reminders and notify the user when they are due."""
     while True:
         with open(rf"C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\reminders.json","r") as f:
             reminders=json.load(f)
@@ -160,7 +271,9 @@ def reminder():
             json.dump(reminders,f,indent=4)
         time.sleep(10)
 
+@tool
 def schedule():
+    """Continuously monitor the daily schedule and notify the user about upcoming activities."""
     while True:
         with open(rf"C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\schedule.json","r") as f:
             schedules=json.load(f)
@@ -179,7 +292,9 @@ def schedule():
             json.dump(schedules,f,indent=4)
         time.sleep(10)
 
-def get_my_all_reminders(c):
+@tool
+def get_my_all_reminders():
+    """Return all currently pending reminders."""
     with open(rf"C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\reminders.json","r") as f:
         reminders=json.load(f)
     result=""
@@ -189,7 +304,9 @@ def get_my_all_reminders(c):
     print(result)
     return result
 
-def set_schedule(c):
+@tool
+def set_schedule():
+    """Interactively collect the user's daily activities and generate an optimized schedule."""
     questions=[]
     output_queue.put("Do you have any assignments?")
     time.sleep(3)
@@ -236,10 +353,33 @@ def set_schedule(c):
     return "ok sir schedule set"
     
 
-def cancel_all_reminders(c):
+@tool
+def cancel_all_reminders():
+    """Delete all pending reminders."""
     with open(rf"C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\reminders.json","r") as f:
         reminders=json.load(f)
     reminders=[]
     with open(rf"C:\Users\Mahipal\ML_PROJECTS\ML\AI_ASSISTANT\rag\reminders.json","w") as f:
         json.dump(reminders,f,indent=4)
     return "ok sir deleted reminders"
+
+
+def setup_at_start():
+    """Perform the assistant's startup routine by opening predefined applications and webpages."""
+    os.startfile(rf"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe")
+    time.sleep(1)
+    pyautogui.write("web")
+    time.sleep(1)
+    pyautogui.press('enter')
+    time.sleep(5)
+    output_queue.put("Done with the startup sir")
+
+@tool
+def start_gesture():
+    """Enable gesture control for the assistant."""
+    gesture_event.set()
+
+@tool
+def close_gesture():
+    """Disable gesture control for the assistant."""
+    gesture_event.clear()

@@ -4,3 +4,9 @@ chunks.json
 reminders.json
 history.json
 memory.json
+schedule.json
+log
+chroma_langchain_db
+hand_landmarker.task
+__pycache__
+output.wav

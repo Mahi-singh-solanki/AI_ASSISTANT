@@ -20,3 +20,10 @@ piper-tts
 pystray
 pyinstaller
 requests
+langgraph
+webrtcvad-wheels
+opencv-python
+mediapipe
+pynput
+pyautogui
+ipykernel

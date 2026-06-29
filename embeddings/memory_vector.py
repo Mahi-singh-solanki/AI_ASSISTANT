@@ -25,13 +25,13 @@ def sync_memory_embeddings():
     documents=[]
     ids=[]
     for i,row in df.iterrows():
-        doc_id = f"{row['data_type']}_{i}"
+        doc_id = f"fact_{i}"
         if doc_id not in existing_ids:
             document=Document(
                 page_content=row["fact"],
                 metadata={
                     "doc_id":i,
-                    "source":row["data_type"]+str(i),
+                    "source":"fact"+str(i),
                     "chunk_index":i
                 },  
             )

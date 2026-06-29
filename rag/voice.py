@@ -1,5 +1,7 @@
 import whisper
 import wave
+import webrtcvad
+import collections
 import sys,os
 import pyaudio,struct
 import pvporcupine
@@ -7,6 +9,13 @@ from rag.globals import wake_event,mic_lock,input_queue,output_queue,audio_queue
 from log.log import get_logger
 import numpy as np
 import pyttsx3
+
+# engine = pyttsx3.init()
+# voices = engine.getProperty('voices')
+# engine.setProperty('voice', voices[1].id)
+# engine.setProperty("rate", 190)
+# for i, voice in enumerate(voices):
+#     print(f"{i}: {voice.name} | {voice.id}")
 
 logger=get_logger()
 
@@ -45,30 +54,51 @@ def wake_up():
         logger.exception(e)
 
 
+
+
 def get_audio():
     try:
+        vad = webrtcvad.Vad(2)  
+        CHUNK = 480             
+        FORMAT = pyaudio.paInt16
+        CHANNELS = 1
+        RATE = 16000          
+        SILENCE_LIMIT = 50    
         while True:
             wake_event.wait()
-            CHUNK=1024
-            FORMAT=pyaudio.paInt16
-            CHANNELS=1 if sys.platform=='darwin' else 2
-            RATE=44100
-            RECORD_SECONDS=6
-            logger.info("Recording started..")
-            with wave.open('output.wav','wb') as wf:
-                p=pyaudio.PyAudio()
+            logger.info("Listening...")
+            p = pyaudio.PyAudio()
+            stream = p.open(
+                format=FORMAT,
+                channels=CHANNELS,
+                rate=RATE,
+                input=True,
+                frames_per_buffer=CHUNK
+            )
+            frames = []
+            silence_counter = 0
+            speech_started = False
+            while True:
+                data = stream.read(CHUNK, exception_on_overflow=False)
+                is_speech = vad.is_speech(data, RATE)
+                if is_speech:
+                    speech_started = True
+                    silence_counter = 0
+                    frames.append(data)
+                elif speech_started:
+                    silence_counter += 1
+                    frames.append(data)
+                if speech_started and silence_counter > SILENCE_LIMIT:
+                    break
+            stream.stop_stream()
+            stream.close()
+            p.terminate()
+            with wave.open('output.wav', 'wb') as wf:
                 wf.setnchannels(CHANNELS)
                 wf.setsampwidth(p.get_sample_size(FORMAT))
                 wf.setframerate(RATE)
-
-                stream=p.open(format=
-                  FORMAT,channels=CHANNELS,rate=RATE,input=True)
-                with mic_lock:
-                    for _ in range(0,RATE//CHUNK*RECORD_SECONDS):
-                        wf.writeframes(stream.read(CHUNK))
-                stream.close()
-                p.terminate()
-            logger.info("Recorded")
+                wf.writeframes(b''.join(frames))
+            logger.info("Recording finished")
             audio_queue.put('output.wav')
             wake_event.clear()
     except Exception as e:
@@ -100,11 +130,10 @@ def manual_audio():
             return text
     except Exception as e:
         logger.exception(e)
-
+model=whisper.load_model("small")
 def manual_audio_to_text(audio):
     try:
             logger.info("Converting to text")
-            model=whisper.load_model("small")
             audio=whisper.load_audio("output.wav")
             audio=whisper.pad_or_trim(audio)
             result = model.transcribe(audio,language="en")
@@ -119,7 +148,6 @@ def audio_to_text():
         while True:
             audio=audio_queue.get()
             logger.info("Converting to text")
-            model=whisper.load_model("small")
             audio=whisper.load_audio("output.wav")
             audio=whisper.pad_or_trim(audio)
             result = model.transcribe(audio,language="en")
@@ -129,19 +157,22 @@ def audio_to_text():
     except Exception as e:
         logger.exception(e)
 
+def speak(text):
+    engine=pyttsx3.init()
+    voices=engine.getProperty('voices')
+    engine.setProperty('voice', voices[1].id)
+    engine.setProperty("rate", 190)
+    engine.say(text)
+    engine.runAndWait()
 
 def text_to_audio():
     try:
         while True:
             text=output_queue.get()
-            # engine=pyttsx3.init()
-            # voices=engine.getProperty("voices")
-            # engine.setProperty("voice",voices[1].id)
-            # engine.setProperty("rate", 190)
             logger.info("Text is converting to audio")
-            pyttsx3.speak(text)
-            # engine.say(text)
-            # engine.runAndWait()
+            wake_event.clear()
+            speak(text)
+            # wake_event.set()
             logger.info("converted to audio")
     except Exception as e:
         logger.exception(e)

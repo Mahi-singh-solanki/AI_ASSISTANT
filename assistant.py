@@ -2,9 +2,10 @@ from threading import Thread,Event
 from PIL import Image
 from pystray import Icon as icon,Menu,MenuItem as item
 import time,sys
-from rag.pipeline import processor
+from rag.pipelinev1 import processor
 from rag.voice import wake_up,get_audio,text_to_audio,audio_to_text
-from rag.tasks import reminder,schedule
+from rag.gesture_control import gesture_control
+from rag.tasks import reminder,schedule,setup_at_start
 from log.log import get_logger
 from rag.globals import wake_event,stop_event,input_queue
 
@@ -55,7 +56,8 @@ def start_threads():
         Thread(target=processor,daemon=True),
         Thread(target=reminder,daemon=True),
         Thread(target=schedule,daemon=True),
-        Thread(target=text_to_audio,daemon=True)
+        Thread(target=text_to_audio,daemon=True),
+        Thread(target=gesture_control,daemon=True)
     ]
     for t in threads:
         t.start()
@@ -66,9 +68,8 @@ def main():
     logger.info("==Assistant started==")
     logger.info("Python version: %s", sys.version)
     logger.info("Using Whisper: base | Wake word: max.ppn")
-
+    setup_at_start()
     start_threads()
-
     tray_icon=icon(
         "Personal Assistant",
         load_icon(),

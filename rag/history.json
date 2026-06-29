@@ -1,0 +1,62 @@
+[
+    {
+        "query": "summarise One Piece is authored by Eiichiro Oda.  As of June 2026, the anime has released 1,164 episodes (with some sources citing up to 1,165). Regarding the manga catch-up:The anime is currently in the Elbaph arc (Season 22), which began in April 2026. Historically, the anime averaged 40\u201350 chapters behind the manga. Production schedules have shifted significantly; the anime is now capped at a maximum of 26 episodes per year to reduce the gap, while the manga is entering its Final Saga. A new animated remake produced by Wit Studio is scheduled to release on Netflix in February 2027, which will retell the story from the beginning. ",
+        "response": " The summary for the given paragraphs is as follows:\n\nOne Piece is a popular series written by Eiichiro Oda. As of June 2026, the anime adaptation has released 1,164 episodes (with some sources suggesting up to 1,165). Historically, the anime was 40-50 chapters behind the manga; however, production schedules have changed significantly. The anime is now limited to a maximum of 26 episodes per year to decrease this gap, while the manga is entering its Final Saga. An upcoming animated remake by Wit Studio will debut on Netflix in February 2027, revisiting the story from the beginning.",
+        "data_type": "question"
+    },
+    {
+        "query": " oh  really ? HOW Monday idiot",
+        "response": " I don't have enough information to provide a helpful response based on the provided rules and data.",
+        "data_type": "question"
+    },
+    {
+        "query": " There are 4 people in the queue. Oh! There is something wrong with the bullet. I have been sitting like this since long. What happened? I don't know. The bullet is not a bullet. What happened? Tell me. What happened to the bullet? What happened to the bullet? What happened to the bullet?",
+        "response": " From the given information, it seems that there are four people in a queue and something is wrong with an object referred to as \"the bullet\". The question being asked repeatedly is \"What happened?\" or \"What happened to the bullet?\" I don't have enough information about the context of this object (the bullet) within the provided data. To find out what happened, we would need more information such as who the people in the queue are, their relationship with the bullet, and any other relevant details about the situation. Therefore, my answer remains \"I don't have enough information.\"",
+        "data_type": "question"
+    },
+    {
+        "query": " Don't talk to me like you said. Father, father, you must eat at least. Why are you trying to make me eat? Grandfather, father. Please, please, please, please, please. Come.",
+        "response": " Stored the information \"request\" = \"Don't talk to me like you said. Father, father, you must eat at least. Why are you trying to make me eat? Grandfather, father. Please, please, please, please, please. Come.\" There is no additional information to provide at this time.",
+        "data_type": "fact"
+    },
+    {
+        "query": " I",
+        "response": " \"I don't have enough information based on the provided rules and data.\"",
+        "data_type": "question"
+    },
+    {
+        "query": " Oh no! His smell is also not there. Oh God! This bottle is going to be given to the Tappu's father. Is that it? I don't know if it's that. It's good that father doesn't know. It's very good. Tappu's father is very good. He's a very good father. What happened? Is that good?",
+        "response": " Based on the information provided, it appears that you are referring to Tappu's father as someone who will receive a bottle. You mentioned that the smell of the bottle is not there and expressed relief that his father doesn't know about it. You also stated that he is a good father. Regarding your question \"Is that good?\", I don't have enough information to determine if it is good or not based on the provided data. The statement \"Tappu's father is very good\" is a subjective evaluation of him, and I don't have enough context to further explain this statement. However, I have stored your evaluation of Tappu's father as \"Tappu's_father = 'a very good father.'\" There is no additional information to provide at this time.",
+        "data_type": "fact"
+    },
+    {
+        "query": " I am a devotee. If we are a devotee, then you should be a devotee too. Correct mom, exactly. We will explain to this brother that Navratri is a devotee. We should not fight with each other like this. You all try to understand that he is doing a big dhokla. He will not agree, we have explained it a lot. If we do this, then we will fight with each other.",
+        "response": " Based on the provided data and rules, here's my response:\n\nYou seem to be discussing Navratri and your brother, stating that he is a devotee and that you should all try to understand his actions. You also mentioned that there has been disagreement between you two regarding this matter. I don't have enough information to provide a specific answer or guide the conversation further, but I can confirm that it's important to maintain communication and understanding in such situations. If you need help discussing or resolving your differences, feel free to ask for advice or guidance related to your situation. I have not stored any new information based on this input.",
+        "data_type": "fact"
+    },
+    {
+        "query": " So, how did you come here? Aunty, you taught me a really good house. That's why I'm not in your house. This year I will celebrate Navratri with you all. Gauri, we are not going to celebrate Navratri this year. My mother says that God gives us food and God gives us food.",
+        "response": " Based on the rules and data provided, here's my response:\n\nYou mentioned that you learned a good house from Aunty. However, you are not in her house this year. You also mentioned that you will celebrate Navratri with others and stated that Gauri will not celebrate it this year. Your mother said that God gives us food and food as well. I don't have enough information to provide a specific answer or guide the conversation further, but I can confirm that celebrating festivals like Navratri is an important part of many cultures and religions. If you need help discussing or resolving any issues related to your celebration plans, feel free to ask for advice or guidance related to your situation. There is no additional information to provide at this time.",
+        "data_type": "question"
+    },
+    {
+        "query": " This can't be. In the school, there is one student and the other student... Your student, your society. Say yes. Sir, you have a complaint? What's the hurry to call the police? I called the police. My brother, this... You start the whole incident with your other students.",
+        "response": " Based on the provided data and rules, here's my response:\nIt appears that you are discussing an incident related to your school and students. You mentioned that there is one student and another student in your society, implying that these are two different individuals within your school. Additionally, you stated that this issue started with other students and that you have called the police. I don't have enough information to determine why you called the police or what the exact nature of the incident is. However, if you need help resolving the situation or require guidance on how to handle it, feel free to ask for advice or assistance related to your issue. There is no additional information to provide at this time.",
+        "data_type": "question"
+    },
+    {
+        "query": " Hey, I'm not here to make fun of you. I'm here to make fun of you. I'm not here to make fun of you.",
+        "response": " You seem to be repeating the same phrase twice. Here is my response based on your input: It appears that you are making a self-referential statement, stating that you are there to make fun of yourself. I don't have enough information to determine why or in what context this might be the case. If you need help discussing or understanding your intentions better, feel free to ask for advice or guidance related to your statement. There is no additional information to provide at this time.",
+        "data_type": "question"
+    },
+    {
+        "query": " How are you?",
+        "response": " I'm an AI assistant designed to help users with various tasks and provide information based on the facts stored in my memory. Currently, I don't have enough specific personal details about myself, so I can't tell you how I am feeling or what I might be experiencing emotionally. However, I'm here to assist you with any questions or tasks you may have. How can I help you today?",
+        "data_type": "question"
+    },
+    {
+        "query": " What is my name?",
+        "response": " Based on our interactions, it seems that there is no specific name mentioned or stored regarding yourself. As there's no personal detail mentioned or stored about you in our conversations, I don't have enough information regarding your name.",
+        "data_type": "question"
+    }
+]
